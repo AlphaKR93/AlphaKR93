@@ -27,3 +27,6 @@ jobs:
     - name: Test with pytest
       run: |
         python3 main.py
+    - name: broadcast value
+      run: |
+        cat value.txt
