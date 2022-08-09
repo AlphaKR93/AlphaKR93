@@ -64,6 +64,28 @@ body:
         적용한 플러그인이 없을 경우 "없음" 이라고 입력해주세요!
     validations:
       required: true
+
+  - type: textarea
+    id: datapacks
+    attributes:
+      label: 데이터팩 리스트
+      description: 서버에 설치되어있는 모든 데이터팩의 리스트를 적어주세요.
+      placeholder: |
+        ''/datapack list'' 를 입력하여 데이터팩 리스트를 확인할 수 있어요.
+        적용한 데이터팩이 없을 경우 "없음" 이라고 입력해주세요!
+    validations:
+      required: true
+
+  - type: input
+    id: prismarine
+    attributes:
+      label: Prismarine 버전
+      description: Prismarine의 버전을 입력해주세요.
+      placeholder: |
+        TIP: Prismarine의 버전은 ''/version'' 을 입력하여 확인할 수 있어요.
+        예: git-Prismarine-"77f3c4a" (MC: 1.19.1)
+    validations:
+      required: true
   - type: checkboxes
     id: checks
     attributes:
