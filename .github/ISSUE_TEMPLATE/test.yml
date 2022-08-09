@@ -1,0 +1,18 @@
+name: 서버/스레드 충돌 및 Stacktrace (한국어)
+description: 서버/스레드의 충돌 또는 Stacktrace를 신고하세요.
+labels: ["bug"]
+assignees: ["AlphaKR93"]
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 신고하기 전, 다시 한번 확인해주세요.
+      options:
+        - label: 저는 이 Minecraft 버전에서 최신 버전의 Prismarine을 사용하고 있습니다.
+          required: true
+
+        - label: 저는 이 오류가 신고되지 않았음을 확인했습니다.
+          required: true
+
+        - label: 이 버전은 Prismarine에서 지원하는 버전입니다.
+          required: true
