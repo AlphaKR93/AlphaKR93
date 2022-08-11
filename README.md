@@ -1,12 +1,9 @@
-## I'm Alpha, the lead developer of [Prismarine Bukkit](https://github.com/PrismarineTeam/Prismarine) & Prismarine SMP.
+## I'm Alpha, the lead developer of [Prismarine Bukkit](https://github.com/PrismarineTeam/Prismarine).
 Prismarine 버킷과 Prismarine SMP Minecraft 서버를 개발하고 있는 알파입니다.
 
-[![Github Followers](https://img.shields.io/github/followers/AlphaKR93?style=for-the-badge)](https://github.com/AlphaKR93?tab=followers)
-[![Twitch Status](https://img.shields.io/twitch/status/alpahkr93?style=for-the-badge)](https://twitch.tv/AlphaKR93)
-[![Twitter](https://img.shields.io/twitter/follow/alphakr93?color=1d9bf0&logo=twitter&style=for-the-badge)](https://twitter.com/dev_alpha0903)
-[![Discord](https://img.shields.io/discord/781822976773455882?color=%235865F2&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/kkqMSEVVxN)
+[디스코드](https://discord.gg/kkqMSEVVxN)  - [네이버 카페](https://cafe.naver.com/Prismarine) | [MDD](https://discord.gg/AZwXTA9Pgx) - [MCC](https://discord.gg/AZwXTA9Pgx) | [혜아의 팬디코](https://discord.gg/ByHmmDSr4m)
 
-[YouTube](https://www.youtube.com/channel/UCi7ZPB7uJ3NhXB9iUutFZ9g) [Twitch](https://twitch.tv/AlphaKR93) [Discord](https://discord.gg/kkqMSEVVxN) [MDD](https://discord.gg/AZwXTA9Pgx)
+[Global Discord](https://discord.gg/CQGVqeXQQC) - [Reddit](https://reddit.com/r/Prismarine)
 
 ![AlphaKR93's Github stats](https://github-readme-stats.vercel.app/api?username=AlphaKR93&count_private=true&show_icons=true&include_all_commits=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaKR93&layout=compact) -->
@@ -14,7 +11,7 @@ Prismarine 버킷과 Prismarine SMP Minecraft 서버를 개발하고 있는 알�
 ### Languages and Tools
 Java / Python / Skript
 
-IntelliJ Idea Professional / PyCharm Community / Colabotary / Visual Studio Code Insiders
+IntelliJ Idea Ultimate / PyCharm Professional / WebStorm / Colabotary / Visual Studio Code Insiders
 
 #### The language one is learning
 C++ / C# / Javascript / HTML / CSS
