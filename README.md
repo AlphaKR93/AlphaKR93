@@ -26,6 +26,11 @@
 </div>
 </details>
 
+<details><summary>D-Day</summary>
+
+[![](https://dday-widget.minung.dev/widget?text=Exam&date=2022-12-05&startDate=2022-01-01&theme=theme3)](https://github.com/alphakr93)
+</details>
+
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
