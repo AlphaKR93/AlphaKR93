@@ -8,7 +8,10 @@
 [![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
 
 - :boy: He/Him
-- :desktop_computer: I am currently developing [Prismarine](https://github.com/PrismarineTeam/Prismarine).
+- :desktop_computer: I'm currently developing [Prismarine](https://github.com/PrismarineTeam/Prismarine).
+- :newspaper_roll: I'm working as a guide at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
+- :kr: I'm a Korean translator for [Skript](https://github.com/SkriptLang/Skript) & [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized). 
+- :video_game: I usually play Minecraft, but sometimes I play Genshin Impact.
 - :memo: Contact may be delayed because of the exam.
 
 <details><summary>:bookmark_tabs: Stats</summary>
@@ -64,7 +67,7 @@
 [<img src="src/PrismarineKorea.png" width="32px"></img>](https://discord.gg/kkqMSEVVxN)
 [<img src="src/PrismarineGlobal.png" width="32px"></img>](https://discord.gg/CQGVqeXQQC)
 [<img src="src/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
-[<img src="src/MCC.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
+[<img src="src/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
 
 ### Languages and Tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
