@@ -19,6 +19,6 @@ jobs:
           TIMEZONE: Asia/Seoul
       - uses: puf17640/covid-box@master
         env:
-          GH_PAT: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           COUNTRY: KR
           GIST_ID: 32bac4a4e2280ec2e0aa7252ce3c7a02
