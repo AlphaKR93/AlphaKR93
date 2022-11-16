@@ -4,11 +4,33 @@
 ### :kr: Korean Student, Developer
 </div>
 
+![](https://img.shields.io/badge/-alphakr93@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook)
+![](https://dcbadge.vercel.app/api/shield/410763741786013697)
+
 - :boy: He/Him
 - :desktop_computer: I am currently developing [Prismarine](https://github.com/PrismarineTeam/Prismarine).
 - :memo: Contact may be delayed because of the exam.
 
+<details><summary>:bookmark_tabs: Stats</summary>
+
+###
+<div align="center">
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaKR93&theme=default)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alphakr93)](https://solved.ac/alphakr93)|
+|---|---|
+
 ![AlphaKR93's Github stats](https://github-readme-stats.vercel.app/api?username=AlphaKR93&count_private=true&show_icons=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AlphaKR93&theme=tokyonight_duo)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=AlphaKR93&column=-1&theme=alduin&margin-w=5&title=Commit,Followers,Issues,MultiLanguage,PullRequest,Repositories)
+</div>
+</details>
+
+<details><summary>:zap: Recent Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
 
 #### :incoming_envelope: Contact
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitter-singular_64h.png?raw=true" width="32px"></img>](https://twitter.com/PrismarineAlpha)
@@ -16,7 +38,7 @@
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitch-singular_64h.png?raw=true" width="32px"></img>](https://www.twitch.tv/alphakr93)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KakaoTalk_logo.svg/600px-KakaoTalk_logo.svg.png?20190617212005" width="32px"></img>](https://open.kakao.com/me/alpha93)
 
-#### :money_with_wings: Support me
+#### :money_with_wings: Support
 [<img src="src/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
 [<img src="https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5e604f55017800001.png" width="32px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/paypal-singular_64h.png?raw=true" width="32px"></img>](https://www.paypal.me/alphakr93)
