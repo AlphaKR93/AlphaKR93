@@ -30,8 +30,8 @@
 
 ###
 [![](https://dday-widget.minung.dev/widget?text=%F0%9F%93%9D%20Exam&date=2023-02-13&startDate=2022-01-01&theme=theme3)](https://exam.alphakr93.kro.kr)
-</details>
 [![](https://dday-widget.minung.dev/widget?text=%F0%9F%8C%8D%20New%20Year&date=2023-01-01&startDate=2022-01-01&theme=theme2)](https://exam.alphakr93.kro.kr)
+</details>
 
 <details><summary>:zap: Recent Activity</summary>
 
