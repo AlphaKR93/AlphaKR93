@@ -11,7 +11,8 @@
 - :desktop_computer: I'm currently developing [Prismarine](https://github.com/PrismarineTeam/Prismarine).
 - :newspaper_roll: I'm working as a guide at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
 - :kr: I'm a Korean translator for [Skript](https://github.com/SkriptLang/Skript) & [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized). 
-- :video_game: I usually play Minecraft, but sometimes I play Genshin Impact.
+- :video_game: I usually play Minecraft, but sometimes I play Genshin Impact. I don't play other games. (except [this](https://www.roblox.com/games/738339342/Flood-Escape-2))
+- :musical_note: I like listening to music. Especially, I enjoy listening to [Sereno](https://m.youtube.com/c/sereno)'s music.
 - :memo: Contact may be delayed because of the exam.
 
 <details><summary>:bookmark_tabs: Stats</summary>
@@ -82,6 +83,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
+[<img src="src/Skript.webp" width="32px"></img>](https://github.com/AlphaKR93)
 
 [<img src="src/Windows.svg" width="32px"></img>](https://insider.windows.com/)
 [<img src="https://github.com/git-for-windows/git-for-windows.github.io/blob/main/img/gwindows_logo.png?raw=true" width="32px"></img>](https://gitforwindows.org/)
