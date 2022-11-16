@@ -4,7 +4,7 @@
 ### :kr: Korean Student, Developer
 </div>
 
-- :boy: He/His
+- :boy: He/Him
 - :desktop_computer: I am currently developing [Prismarine](https://github.com/PrismarineTeam/Prismarine).
 - :memo: Contact may be delayed because of the exam.
 
