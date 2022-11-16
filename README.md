@@ -69,7 +69,7 @@
 [<img src="src/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
 [<img src="src/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
 
-### Languages and Tools
+### :gear: Languages and Tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" width="29px"></img>](https://github.com/AlphaKR93)
