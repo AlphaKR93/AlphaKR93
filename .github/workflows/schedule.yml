@@ -1,9 +1,8 @@
 name: Scheduled
 
 on:
-  push:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
-#       - uses: jamesgeorge007/github-activity-readme@master
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
       - uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.TOKEN }}
