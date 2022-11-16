@@ -1,4 +1,4 @@
-name: Update Readme
+name: Update COVID-19 Gists
 
 on:
   schedule:
