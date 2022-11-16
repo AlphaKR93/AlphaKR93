@@ -27,6 +27,6 @@ jobs:
           npm install
       - run: npm start
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.TOKEN }}
           GIST_ID: d609b5675278d1e4cb47107e189b9727
           USERNAME: AlphaKR93
