@@ -56,17 +56,17 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KakaoTalk_logo.svg/600px-KakaoTalk_logo.svg.png?20190617212005" width="32px"></img>](https://open.kakao.com/me/alpha93)
 
 ### :money_with_wings: Support
-[<img src="src/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
+[<img src="res/Toss.png" width="33px"></img>](https://toss.me/alphakr93)
 [<img src="https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5e604f55017800001.png" width="32px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/paypal-singular_64h.png?raw=true" width="32px"></img>](https://www.paypal.me/alphakr93)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/kofi-singular_64h.png?raw=true" width="32px"></img>](https://ko-fi.com/alphakr93)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/patreon-singular_64h.png?raw=true" width="32px"></img>](https://patreon.com/alphakr93_)
+[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/paypal-singular_64h.png?raw=true" width="33px"></img>](https://www.paypal.me/alphakr93)
+[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/kofi-singular_64h.png?raw=true" width="33px"></img>](https://ko-fi.com/alphakr93)
+[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/patreon-singular_64h.png?raw=true" width="33px"></img>](https://patreon.com/alphakr93_)
 
 ### :speech_balloon: Discord
-[<img src="src/PrismarineKorea.png" width="32px"></img>](https://discord.gg/kkqMSEVVxN)
-[<img src="src/PrismarineGlobal.png" width="32px"></img>](https://discord.gg/CQGVqeXQQC)
-[<img src="src/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
-[<img src="src/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
+[<img src="res/PrismarineKorea.png" width="32px"></img>](https://discord.gg/kkqMSEVVxN)
+[<img src="res/PrismarineGlobal.png" width="32px"></img>](https://discord.gg/CQGVqeXQQC)
+[<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
+[<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
 
 ### :gear: Languages and Tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
@@ -81,22 +81,22 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
-[<img src="src/Skript.png" width="32px"></img>](https://github.com/AlphaKR93)
+[<img src="res/Skript.png" width="32px"></img>](https://github.com/AlphaKR93)
 
-[<img src="src/Windows.svg" width="32px"></img>](https://insider.windows.com/)
+[<img src="res/Windows.svg" width="32px"></img>](https://insider.windows.com/)
 [<img src="https://github.com/git-for-windows/git-for-windows.github.io/blob/main/img/gwindows_logo.png?raw=true" width="32px"></img>](https://gitforwindows.org/)
 [<img src="https://projects.eclipse.org/sites/default/files/Logo_Adoptium_2021_03_08_JRR_RGB-V3C%20%281%29.png" width="33px"></img>](https://adoptium.net/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Toolbox_icon.png" width="29px"></img>](https://www.jetbrains.com/toolbox-app/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="32px"></img>](https://www.jetbrains.com/idea/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="32px"></img>](https://www.jetbrains.com/pycharm/)
-[<img src="src/vscode.png" width="32px"></img>](https://code.visualstudio.com/)
+[<img src="res/vscode.png" width="32px"></img>](https://code.visualstudio.com/)
 [<img src="https://raw.githubusercontent.com/microsoft/terminal/9aee510ce0e311697977512abb61ca8d7e7d8d93/res/terminal/Terminal.svg" width="32px"></img>](https://github.com/microsoft/terminal)
 [<img src="https://w.namu.la/s/1ecd9d98e849872b3fa5a0f9f3add277d373212aabc10d9ef1e705847324abb342e420df735182b9db9f4ef20e6a0a2dbdd9b5d27c4d61dae4d3cfcd0f21c5466e784f17a51319d527358826ed0743a14cd9ff1db5bd00fcc6a674fe1bb7ea6b" width="32px"></img>](https://whale.naver.com/en/)
 
 ### :video_game: The games I play
-[<img src="src/Minecraft.png" width="32px"></img>](https://minecraft.net/)
-[<img src="src/GenshinImpact.png" width="32px"></img>](https://genshin.hoyoverse.com/)
-[<img src="src/FloodEscape2.png" width="32px"></img>](https://www.roblox.com/games/738339342/Flood-Escape-2)
-[<img src="https://preview.redd.it/ac6j640toc411.png?auto=webp&s=e7874e34286978fe2c5350892f738fb1710db9cf" width="32px"></img>](https://store.steampowered.com/app/648800/Raft/)
-[<img src="src/Terralia.png" width="32px"></img>](https://terraria.org/)
+[<img src="res/Minecraft.png" width="32px"></img>](https://minecraft.net/)
+[<img src="res/GenshinImpact.png" width="32px"></img>](https://genshin.hoyoverse.com/)
+[<img src="res/FloodEscape2.png" width="32px"></img>](https://www.roblox.com/games/738339342/Flood-Escape-2)
+[<img src="res/raft.ico" width="32px"></img>](https://store.steampowered.com/app/648800/Raft/)
+[<img src="res/Terralia.png" width="32px"></img>](https://terraria.org/)
 [<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/d8m1bdf-a4747f70-5060-4cf5-89f2-bdb19e5d2cc9.png/v1/fill/w_256,h_256,strp/cities__skylines___icon_by_blagoicons_d8m1bdf-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvNDZiNjNkM2MtYWU2Ny00NjRjLTlhMzctNjcwODI5YjJhMTU3XC9kOG0xYmRmLWE0NzQ3ZjcwLTUwNjAtNGNmNS04OWYyLWJkYjE5ZTVkMmNjOS5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BNOnia88i2SEK4JyuoaidJKMueXRjVBjIttvrYbyWPc" width="32px"></img>](https://store.steampowered.com/app/255710/Cities_Skylines/)

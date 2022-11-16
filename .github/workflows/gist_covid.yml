@@ -1,4 +1,4 @@
-name: Scheduled
+name: Update Readme
 
 on:
   schedule:
@@ -9,14 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-      - uses: maxam2017/productive-box@master
-        env:
-          GH_TOKEN: ${{ secrets.TOKEN }}
-          GIST_ID: e0ba60e59d70238a13fc1fce9f3dd972
-          TIMEZONE: Asia/Seoul
       - uses: puf17640/covid-box@master
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
