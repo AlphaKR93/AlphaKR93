@@ -82,7 +82,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="32px"></img>](https://github.com/AlphaKR93)
-[<img src="src/Skript.webp" width="32px"></img>](https://github.com/AlphaKR93)
+[<img src="src/Skript.png" width="32px"></img>](https://github.com/AlphaKR93)
 
 [<img src="src/Windows.svg" width="32px"></img>](https://insider.windows.com/)
 [<img src="https://github.com/git-for-windows/git-for-windows.github.io/blob/main/img/gwindows_logo.png?raw=true" width="32px"></img>](https://gitforwindows.org/)
@@ -95,9 +95,9 @@
 [<img src="https://w.namu.la/s/1ecd9d98e849872b3fa5a0f9f3add277d373212aabc10d9ef1e705847324abb342e420df735182b9db9f4ef20e6a0a2dbdd9b5d27c4d61dae4d3cfcd0f21c5466e784f17a51319d527358826ed0743a14cd9ff1db5bd00fcc6a674fe1bb7ea6b" width="32px"></img>](https://whale.naver.com/en/)
 
 ### :video_game: The games I play
-[<img src="src/Minecraft.png" width="32px"></img>](https://github.com/AlphaKR93)
-[<img src="src/GenshinImpact.png" width="32px"></img>](https://github.com/AlphaKR93)
-[<img src="src/FloodEscape2.png" width="32px"></img>](https://github.com/AlphaKR93)
-[<img src="https://preview.redd.it/ac6j640toc411.png?auto=webp&s=e7874e34286978fe2c5350892f738fb1710db9cf" width="32px"></img>](https://github.com/AlphaKR93)
-[<img src="src/Terralia.png" width="32px"></img>](https://github.com/AlphaKR93)
-[<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/d8m1bdf-a4747f70-5060-4cf5-89f2-bdb19e5d2cc9.png/v1/fill/w_256,h_256,strp/cities__skylines___icon_by_blagoicons_d8m1bdf-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvNDZiNjNkM2MtYWU2Ny00NjRjLTlhMzctNjcwODI5YjJhMTU3XC9kOG0xYmRmLWE0NzQ3ZjcwLTUwNjAtNGNmNS04OWYyLWJkYjE5ZTVkMmNjOS5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BNOnia88i2SEK4JyuoaidJKMueXRjVBjIttvrYbyWPc" width="32px"></img>](https://github.com/AlphaKR93)
+[<img src="src/Minecraft.png" width="32px"></img>](https://minecraft.net/)
+[<img src="src/GenshinImpact.png" width="32px"></img>](https://genshin.hoyoverse.com/)
+[<img src="src/FloodEscape2.png" width="32px"></img>](https://www.roblox.com/games/738339342/Flood-Escape-2)
+[<img src="https://preview.redd.it/ac6j640toc411.png?auto=webp&s=e7874e34286978fe2c5350892f738fb1710db9cf" width="32px"></img>](https://store.steampowered.com/app/648800/Raft/)
+[<img src="src/Terralia.png" width="32px"></img>](https://terraria.org/)
+[<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/d8m1bdf-a4747f70-5060-4cf5-89f2-bdb19e5d2cc9.png/v1/fill/w_256,h_256,strp/cities__skylines___icon_by_blagoicons_d8m1bdf-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvNDZiNjNkM2MtYWU2Ny00NjRjLTlhMzctNjcwODI5YjJhMTU3XC9kOG0xYmRmLWE0NzQ3ZjcwLTUwNjAtNGNmNS04OWYyLWJkYjE5ZTVkMmNjOS5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BNOnia88i2SEK4JyuoaidJKMueXRjVBjIttvrYbyWPc" width="32px"></img>](https://store.steampowered.com/app/255710/Cities_Skylines/)
