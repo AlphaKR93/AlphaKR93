@@ -29,6 +29,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#24](https://github.com/PrismarineTeam/Prismarine/issues/24) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
+2. ❗️ Closed issue [#23](https://github.com/PrismarineTeam/Prismarine/issues/23) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
+3. 🎉 Merged PR [#20](https://github.com/PrismarineTeam/Prismarine/pull/20) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
+4. ❌ Closed PR [#13](https://github.com/PrismarineTeam/Prismarine/pull/13) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
+5. 🗣 Commented on [#13](https://github.com/PrismarineTeam/Prismarine/issues/13) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
 <!--END_SECTION:activity-->
 </details>
 
