@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Alpha!
-### :kr: Korean Student, Developer
+### :kr: Korean Student Developer
 </div>
 
 [![](https://img.shields.io/badge/-alphakr93@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook)](mailto:alphakr93@outlook.com)
