@@ -10,8 +10,7 @@
 - :boy: He/Him
 - :desktop_computer: I'm currently developing [Prismarine](https://github.com/PrismarineTeam/Prismarine).
 - :newspaper_roll: I'm working as a guide at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
-- :kr: I'm a Korean translator for [Skript](https://github.com/SkriptLang/Skript) & [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized). 
-- :video_game: I usually play Minecraft, but sometimes I play Genshin Impact. I don't play other games. (except [this](https://www.roblox.com/games/738339342/Flood-Escape-2))
+- :kr: I'm a Korean translator for [Skript](https://github.com/SkriptLang/Skript) & [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized).
 - :musical_note: I like listening to music. Especially, I enjoy listening to [Sereno](https://m.youtube.com/c/sereno)'s music.
 - :memo: Contact may be delayed because of the exam.
 
@@ -51,20 +50,20 @@
 <!--END_SECTION:activity-->
 </details>
 
-#### :incoming_envelope: Contact
+### :incoming_envelope: Contact
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitter-singular_64h.png?raw=true" width="32px"></img>](https://twitter.com/PrismarineAlpha)
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/youtube-singular_64h.png?raw=true" width="32px"></img>](https://youtube.com/@alphakr93)
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitch-singular_64h.png?raw=true" width="32px"></img>](https://www.twitch.tv/alphakr93)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KakaoTalk_logo.svg/600px-KakaoTalk_logo.svg.png?20190617212005" width="32px"></img>](https://open.kakao.com/me/alpha93)
 
-#### :money_with_wings: Support
+### :money_with_wings: Support
 [<img src="src/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
 [<img src="https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5e604f55017800001.png" width="32px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/paypal-singular_64h.png?raw=true" width="32px"></img>](https://www.paypal.me/alphakr93)
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/kofi-singular_64h.png?raw=true" width="32px"></img>](https://ko-fi.com/alphakr93)
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/patreon-singular_64h.png?raw=true" width="32px"></img>](https://patreon.com/alphakr93_)
 
-#### :speech_balloon: Discord
+### :speech_balloon: Discord
 [<img src="src/PrismarineKorea.png" width="32px"></img>](https://discord.gg/kkqMSEVVxN)
 [<img src="src/PrismarineGlobal.png" width="32px"></img>](https://discord.gg/CQGVqeXQQC)
 [<img src="src/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
@@ -94,3 +93,11 @@
 [<img src="src/vscode.png" width="32px"></img>](https://code.visualstudio.com/)
 [<img src="https://raw.githubusercontent.com/microsoft/terminal/9aee510ce0e311697977512abb61ca8d7e7d8d93/res/terminal/Terminal.svg" width="32px"></img>](https://github.com/microsoft/terminal)
 [<img src="https://w.namu.la/s/1ecd9d98e849872b3fa5a0f9f3add277d373212aabc10d9ef1e705847324abb342e420df735182b9db9f4ef20e6a0a2dbdd9b5d27c4d61dae4d3cfcd0f21c5466e784f17a51319d527358826ed0743a14cd9ff1db5bd00fcc6a674fe1bb7ea6b" width="32px"></img>](https://whale.naver.com/en/)
+
+### :video_game: The games I play
+[<img src="src/Minecraft.png" width="32px"></img>](https://github.com/AlphaKR93)
+[<img src="src/GenshinImpact.png" width="32px"></img>](https://github.com/AlphaKR93)
+[<img src="src/FloodEscape2.png" width="32px"></img>](https://github.com/AlphaKR93)
+[<img src="https://preview.redd.it/ac6j640toc411.png?auto=webp&s=e7874e34286978fe2c5350892f738fb1710db9cf" width="32px"></img>](https://github.com/AlphaKR93)
+[<img src="src/Terralia.png" width="32px"></img>](https://github.com/AlphaKR93)
+[<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/d8m1bdf-a4747f70-5060-4cf5-89f2-bdb19e5d2cc9.png/v1/fill/w_256,h_256,strp/cities__skylines___icon_by_blagoicons_d8m1bdf-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvNDZiNjNkM2MtYWU2Ny00NjRjLTlhMzctNjcwODI5YjJhMTU3XC9kOG0xYmRmLWE0NzQ3ZjcwLTUwNjAtNGNmNS04OWYyLWJkYjE5ZTVkMmNjOS5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BNOnia88i2SEK4JyuoaidJKMueXRjVBjIttvrYbyWPc" width="32px"></img>](https://github.com/AlphaKR93)
