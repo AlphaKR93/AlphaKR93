@@ -19,8 +19,8 @@
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaKR93&theme=default)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alphakr93)](https://solved.ac/alphakr93)|
 |---|---|
 
-![AlphaKR93's Github stats](https://github-readme-stats.vercel.app/api?username=AlphaKR93&count_private=true&show_icons=true&include_all_commits=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=AlphaKR93&theme=tokyonight_duo)
+|![AlphaKR93's Github stats](https://github-readme-stats.vercel.app/api?username=AlphaKR93&count_private=true&show_icons=true&include_all_commits=true)|![GitHub Streak](https://streak-stats.demolab.com?user=AlphaKR93&theme=tokyonight_duo)|
+|---|---|
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AlphaKR93&column=-1&theme=alduin&margin-w=5&title=Commit,Followers,Issues,MultiLanguage,PullRequest,Repositories)
 </div>
