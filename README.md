@@ -1,10 +1,14 @@
-> Work In Progress!
+<div align="center">
 
-## I'm Alpha, the lead developer of [Prismarine Bukkit](https://github.com/PrismarineTeam/Prismarine).
-Prismarine 버킷의 개발자이자 학생인 알파입니다.
+# Hi 👋, I'm Alpha!
+### Lead developer of [Prismarine](https://github.com/PrismarineTeam/Prismarine)
+</div>
 
-#### Communication
-[YouTube](https://youtube.com/channel/UCAjIe9h1N8EZw2CjKz33VIA) | [Twitter](https://twitter.com/PrismarineAlpha)
+<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitter-singular_64h.png?raw=true" width="32px"></img>
+<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/youtube-singular_64h.png?raw=true" width="32px"></img>
+<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitch-singular_64h.png?raw=true" width="32px"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KakaoTalk_logo.svg/600px-KakaoTalk_logo.svg.png?20190617212005" width="32px"></img>
+<img src="src/Toss.png" width="32px"></img>
 
 [PrismarineTeam Official Twitter](https://twitter.com/TeamPrismarine)
 
