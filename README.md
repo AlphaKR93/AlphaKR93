@@ -4,7 +4,7 @@
 ### :kr: Korean Student, Developer
 </div>
 
-[![](https://img.shields.io/badge/-alphakr93@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook)](https://github.com/AlphaKR93)
+[![](https://img.shields.io/badge/-alphakr93@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook)](mailto:alphakr93@outlook.com)
 [![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
 
 - :boy: He/Him
