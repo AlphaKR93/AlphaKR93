@@ -41,11 +41,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#24](https://github.com/PrismarineTeam/Prismarine/issues/24) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
-2. ❗️ Closed issue [#23](https://github.com/PrismarineTeam/Prismarine/issues/23) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
-3. 🎉 Merged PR [#20](https://github.com/PrismarineTeam/Prismarine/pull/20) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
-4. ❌ Closed PR [#13](https://github.com/PrismarineTeam/Prismarine/pull/13) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
-5. 🗣 Commented on [#13](https://github.com/PrismarineTeam/Prismarine/issues/13) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
+1. 🎉 Merged PR [#1](https://github.com/AlphaKR93/FlameCord/pull/1) in [AlphaKR93/FlameCord](https://github.com/AlphaKR93/FlameCord)
+2. 💪 Opened PR [#1](https://github.com/AlphaKR93/FlameCord/pull/1) in [AlphaKR93/FlameCord](https://github.com/AlphaKR93/FlameCord)
+3. ❗️ Closed issue [#24](https://github.com/PrismarineTeam/Prismarine/issues/24) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
+4. ❗️ Closed issue [#23](https://github.com/PrismarineTeam/Prismarine/issues/23) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
+5. 🎉 Merged PR [#20](https://github.com/PrismarineTeam/Prismarine/pull/20) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
 <!--END_SECTION:activity-->
 </details>
 
