@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Alpha!
-### :kr: Korean Student Developer
+### :kr: Korean Student Developer & Translator
 </div>
 
 [![](https://img.shields.io/badge/-alphakr93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:alphakr93@gmail.com)
