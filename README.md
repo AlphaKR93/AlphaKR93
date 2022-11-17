@@ -99,7 +99,7 @@
 [<img src="https://projects.eclipse.org/sites/default/files/Logo_Adoptium_2021_03_08_JRR_RGB-V3C%20%281%29.png" width="33px"></img>](https://adoptium.net/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Toolbox_icon.png" width="29px"></img>](https://www.jetbrains.com/toolbox-app/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="32px"></img>](https://www.jetbrains.com/idea/)
-[<img src="src/gradle.png" width="32px"></img>](https://gradle.com/)
+[<img src="res/gradle.png" width="32px"></img>](https://gradle.com/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="32px"></img>](https://www.jetbrains.com/pycharm/)
 [<img src="res/vscode.png" width="32px"></img>](https://code.visualstudio.com/)
 [<img src="https://raw.githubusercontent.com/microsoft/terminal/9aee510ce0e311697977512abb61ca8d7e7d8d93/res/terminal/Terminal.svg" width="32px"></img>](https://github.com/microsoft/terminal)
