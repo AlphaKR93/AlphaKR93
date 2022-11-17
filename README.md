@@ -4,7 +4,7 @@
 ### :kr: Korean Student Developer
 </div>
 
-[![](https://img.shields.io/badge/-alphakr93@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook)](mailto:alphakr93@outlook.com)
+[![](https://img.shields.io/badge/-alphakr93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:alphakr93@gmail.com)
 [![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
 
 - :boy: He/Him
@@ -47,6 +47,15 @@
 4. ❗️ Closed issue [#23](https://github.com/PrismarineTeam/Prismarine/issues/23) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
 5. 🎉 Merged PR [#20](https://github.com/PrismarineTeam/Prismarine/pull/20) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
 <!--END_SECTION:activity-->
+</details>
+
+<details><summary>:up: Actions Status</summary>
+
+###
+[![Update Readme](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/readme_activity.yml/badge.svg)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/readme_activity.yml)
+[![Update Productive Gists](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_productive.yml/badge.svg)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_productive.yml)
+[![Update Language Gists](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_lang.yml/badge.svg)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_lang.yml)
+[![Update COVID-19 Gists](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_covid.yml/badge.svg)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_covid.yml)
 </details>
 
 ### :incoming_envelope: Contact
