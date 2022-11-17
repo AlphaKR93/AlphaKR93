@@ -67,11 +67,11 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KakaoTalk_logo.svg/600px-KakaoTalk_logo.svg.png?20190617212005" width="32px"></img>](https://open.kakao.com/me/alpha93)
 
 ### :money_with_wings: Support
-[<img src="res/Toss.png" width="33px"></img>](https://toss.me/alphakr93)
-[<img src="https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5e604f55017800001.png" width="32px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/paypal-singular_64h.png?raw=true" width="33px"></img>](https://www.paypal.me/alphakr93)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/kofi-singular_64h.png?raw=true" width="33px"></img>](https://ko-fi.com/alphakr93)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/patreon-singular_64h.png?raw=true" width="33px"></img>](https://patreon.com/alphakr93_)
+[<img src="res/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
+[<img src="https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5e604f55017800001.png" width="31px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
+[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/paypal-singular_64h.png?raw=true" width="32px"></img>](https://www.paypal.me/alphakr93)
+[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/kofi-singular_64h.png?raw=true" width="32px"></img>](https://ko-fi.com/alphakr93)
+[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/patreon-singular_64h.png?raw=true" width="32px"></img>](https://patreon.com/alphakr93_)
 
 ### :speech_balloon: Discord
 [<img src="res/PrismarineKorea.png" width="32px"></img>](https://discord.gg/kkqMSEVVxN)
@@ -99,11 +99,12 @@
 [<img src="https://projects.eclipse.org/sites/default/files/Logo_Adoptium_2021_03_08_JRR_RGB-V3C%20%281%29.png" width="33px"></img>](https://adoptium.net/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Toolbox_icon.png" width="29px"></img>](https://www.jetbrains.com/toolbox-app/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="32px"></img>](https://www.jetbrains.com/idea/)
-[<img src="res/gradle.png" width="32px"></img>](https://gradle.com/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="32px"></img>](https://www.jetbrains.com/pycharm/)
 [<img src="res/vscode.png" width="32px"></img>](https://code.visualstudio.com/)
 [<img src="https://raw.githubusercontent.com/microsoft/terminal/9aee510ce0e311697977512abb61ca8d7e7d8d93/res/terminal/Terminal.svg" width="32px"></img>](https://github.com/microsoft/terminal)
 [<img src="https://w.namu.la/s/1ecd9d98e849872b3fa5a0f9f3add277d373212aabc10d9ef1e705847324abb342e420df735182b9db9f4ef20e6a0a2dbdd9b5d27c4d61dae4d3cfcd0f21c5466e784f17a51319d527358826ed0743a14cd9ff1db5bd00fcc6a674fe1bb7ea6b" width="32px"></img>](https://whale.naver.com/en/)
+[<img src="res/gradle.png" width="45px"></img>](https://gradle.com/)
+[<img src="res/colab.svg" width="31px"></img>](https://colab.research.google.com/)
 
 ### :video_game: The games I play
 [<img src="res/Minecraft.png" width="32px"></img>](https://minecraft.net/)
