@@ -41,6 +41,7 @@
 
 <details><summary>:zap: Recent Activity</summary>
 
+###
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/AlphaKR93/FlameCord/pull/1) in [AlphaKR93/FlameCord](https://github.com/AlphaKR93/FlameCord)
 2. 💪 Opened PR [#1](https://github.com/AlphaKR93/FlameCord/pull/1) in [AlphaKR93/FlameCord](https://github.com/AlphaKR93/FlameCord)
