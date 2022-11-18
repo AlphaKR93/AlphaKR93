@@ -25,7 +25,7 @@
 |[![AlphaKR93's Github stats](https://github-readme-stats.vercel.app/api?username=AlphaKR93&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/AlphaKR93)|[![GitHub Streak](https://streak-stats.demolab.com?user=AlphaKR93&theme=tokyonight_duo)](https://github.com/AlphaKR93)|
 |---|---|
 
-|[<img src="https://github-contribution-stats.vercel.app/api/?username=AlphaKR93"></img>](https://github.com/AlphaKR93)|[![Trophy](https://github-profile-trophy.vercel.app/?username=AlphaKR93&column=3&theme=alduin&margin-w=5&margin-h=5&title=Commit,Followers,Issues,MultiLanguage,PullRequest,Repositories)](https://github.com/AlphaKR93)|
+|[<img src="https://github-contribution-stats.vercel.app/api/?username=AlphaKR93"></img>](https://github.com/AlphaKR93)|[![Trophy](https://github-profile-trophy.vercel.app/?username=AlphaKR93&column=3&theme=alduin&margin-w=5&margin-h=5)](https://github.com/AlphaKR93)|
 |---|---|
 </div>
 </details>
