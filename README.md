@@ -19,14 +19,14 @@
 ###
 <div align="center">
 
-|[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaKR93&theme=default)](https://github.com/AlphaKR93)|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alphakr93)](https://solved.ac/alphakr93)|
-|---|---|
+[<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaKR93&theme=default" width="60%"></img>](https://github.com/AlphaKR93)
+[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alphakr93"></img>](https://solved.ac/alphakr93)
 
-|[![AlphaKR93's Github stats](https://github-readme-stats.vercel.app/api?username=AlphaKR93&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/AlphaKR93)|[![GitHub Streak](https://streak-stats.demolab.com?user=AlphaKR93&theme=tokyonight_duo)](https://github.com/AlphaKR93)|
-|---|---|
+[<img src="https://github-readme-stats.vercel.app/api?username=AlphaKR93&count_private=true&show_icons=true&include_all_commits=true"></img>](https://github.com/AlphaKR93)
+[<img src="https://streak-stats.demolab.com?user=AlphaKR93&theme=tokyonight_duo"></img>](https://github.com/AlphaKR93)
 
-|[<img src="https://github-contribution-stats.vercel.app/api/?username=AlphaKR93"></img>](https://github.com/AlphaKR93)|[![Trophy](https://github-profile-trophy.vercel.app/?username=AlphaKR93&column=4&theme=alduin&margin-w=5&margin-h=5)](https://github.com/AlphaKR93)|
-|---|---|
+[<img src="https://github-contribution-stats.vercel.app/api/?username=AlphaKR93"></img>](https://github.com/AlphaKR93)
+[<img src="https://github-profile-trophy.vercel.app/?username=AlphaKR93&column=2&theme=alduin&margin-w=5&margin-h=5"></img>](https://github.com/AlphaKR93)
 </div>
 </details>
 
