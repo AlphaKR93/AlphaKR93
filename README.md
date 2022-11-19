@@ -16,18 +16,28 @@
 
 <details><summary>:bookmark_tabs: Stats</summary>
 
-###
-<div align="center">
+  ###
+  <details><summary>:clipboard: Summary</summary>
 
-[<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaKR93&theme=default" width="50%"></img>](https://github.com/AlphaKR93)
-[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alphakr93"></img>](https://solved.ac/alphakr93)
+  [<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaKR93&theme=default"></img>](https://github.com/AlphaKR93)
+  </details><details><summary>:medal_sports: Baekjoon</summary>
+    
+  [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alphakr93"></img>](https://solved.ac/alphakr93)
+  </details><details><summary>:bar_chart: Stats</summary>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=AlphaKR93&count_private=true&show_icons=true&include_all_commits=true"></img>](https://github.com/AlphaKR93)
-[<img src="https://streak-stats.demolab.com?user=AlphaKR93&theme=tokyonight_duo"></img>](https://github.com/AlphaKR93)
+  [<img src="https://github-readme-stats.vercel.app/api?username=AlphaKR93&count_private=true&show_icons=true&include_all_commits=true"></img>](https://github.com/AlphaKR93)
+  </details><details><summary>:fire: Streak</summary>
 
-[<img src="https://github-contribution-stats.vercel.app/api/?username=AlphaKR93"></img>](https://github.com/AlphaKR93)
-[<img src="https://github-profile-trophy.vercel.app/?username=AlphaKR93&column=2&theme=alduin&margin-w=5&margin-h=5"></img>](https://github.com/AlphaKR93)
-</div>
+  [<img src="https://streak-stats.demolab.com?user=AlphaKR93&theme=tokyonight_duo"></img>](https://github.com/AlphaKR93)
+  </details><details><summary>:chart_with_upwards_trend: Contribution Stats</summary>
+
+  [<img src="https://github-contribution-stats.vercel.app/api/?username=AlphaKR93"></img>](https://github.com/AlphaKR93)
+  </details><details><summary>:trophy: Trophy</summary>
+
+  [<img src="https://github-profile-trophy.vercel.app/?username=AlphaKR93&theme=alduin&margin-w=5&margin-h=5"></img>](https://github.com/AlphaKR93)
+  </details>
+  
+  ###
 </details>
 
 <details><summary>:calendar: D-Day</summary>
