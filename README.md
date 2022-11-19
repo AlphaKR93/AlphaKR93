@@ -19,7 +19,7 @@
 ###
 <div align="center">
 
-[<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaKR93&theme=default" width="60%"></img>](https://github.com/AlphaKR93)
+[<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlphaKR93&theme=default" width="50%"></img>](https://github.com/AlphaKR93)
 [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alphakr93"></img>](https://solved.ac/alphakr93)
 
 [<img src="https://github-readme-stats.vercel.app/api?username=AlphaKR93&count_private=true&show_icons=true&include_all_commits=true"></img>](https://github.com/AlphaKR93)
