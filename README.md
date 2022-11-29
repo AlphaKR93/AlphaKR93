@@ -69,7 +69,7 @@
 [![Update COVID-19 Gists](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_covid.yml/badge.svg)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_covid.yml)
 </details>
 
-### :incoming_envelope: Contact
+### 🌐 Socials
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitter-singular_64h.png?raw=true" width="32px"></img>](https://twitter.com/PrismarineAlpha)
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/youtube-singular_64h.png?raw=true" width="32px"></img>](https://youtube.com/@alphakr93)
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitch-singular_64h.png?raw=true" width="32px"></img>](https://www.twitch.tv/alphakr93)
