@@ -74,6 +74,9 @@
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/youtube-singular_64h.png?raw=true" width="32px"></img>](https://youtube.com/@alphakr93)
 [<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitch-singular_64h.png?raw=true" width="32px"></img>](https://www.twitch.tv/alphakr93)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KakaoTalk_logo.svg/600px-KakaoTalk_logo.svg.png?20190617212005" width="32px"></img>](https://open.kakao.com/me/alpha93)
+<!---
+Facebook, Instagram
+--->
 
 ### :money_with_wings: Support
 [<img src="res/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
