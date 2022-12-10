@@ -52,9 +52,9 @@
 
 ###
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AlphaKR93/FlameCord/pull/1) in [AlphaKR93/FlameCord](https://github.com/AlphaKR93/FlameCord)
-2. 💪 Opened PR [#1](https://github.com/AlphaKR93/FlameCord/pull/1) in [AlphaKR93/FlameCord](https://github.com/AlphaKR93/FlameCord)
-3. ❗️ Closed issue [#24](https://github.com/PrismarineTeam/Prismarine/issues/24) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
+1. ❗️ Closed issue [#26](https://github.com/PrismarineTeam/Prismarine/issues/26) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
+2. 🎉 Merged PR [#1](https://github.com/AlphaKR93/FlameCord/pull/1) in [AlphaKR93/FlameCord](https://github.com/AlphaKR93/FlameCord)
+3. 💪 Opened PR [#1](https://github.com/AlphaKR93/FlameCord/pull/1) in [AlphaKR93/FlameCord](https://github.com/AlphaKR93/FlameCord)
 4. ❗️ Closed issue [#23](https://github.com/PrismarineTeam/Prismarine/issues/23) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
 5. 🎉 Merged PR [#20](https://github.com/PrismarineTeam/Prismarine/pull/20) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
 <!--END_SECTION:activity-->
