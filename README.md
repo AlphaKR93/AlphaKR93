@@ -70,20 +70,18 @@
 </details>
 
 ### 🌐 Socials
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitter-singular_64h.png?raw=true" width="32px"></img>](https://twitter.com/PrismarineAlpha)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/youtube-singular_64h.png?raw=true" width="32px"></img>](https://youtube.com/@alphakr93)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/social/twitch-singular_64h.png?raw=true" width="32px"></img>](https://www.twitch.tv/alphakr93)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KakaoTalk_logo.svg/600px-KakaoTalk_logo.svg.png?20190617212005" width="32px"></img>](https://open.kakao.com/me/alpha93)
-<!---
-Facebook, Instagram
---->
+[<img src="res/Twitter.png" width="32px"></img>](https://twitter.com/PrismarineAlpha)
+[<img src="res/YouTube.png" width="32px"></img>](https://youtube.com/@alphakr93)
+[<img src="res/KakaoTalk.png" width="32px"></img>](https://open.kakao.com/me/alpha93)
+[<img src="res/Facebook.png" width="32px"></img>](https://www.facebook.com/alphakr93)
+[<img src="res/Instagram.png" width="32px"></img>](https://www.instagram.com/alphakr93/)
 
 ### :money_with_wings: Support
 [<img src="res/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
-[<img src="https://t1.kakaocdn.net/kakaocorp/kakaocorp/admin/5e604f55017800001.png" width="31px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/paypal-singular_64h.png?raw=true" width="32px"></img>](https://www.paypal.me/alphakr93)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/kofi-singular_64h.png?raw=true" width="32px"></img>](https://ko-fi.com/alphakr93)
-[<img src="https://github.com/intergrav/devins-badges/blob/v2/assets/minimal/donate/patreon-singular_64h.png?raw=true" width="32px"></img>](https://patreon.com/alphakr93_)
+[<img src="res/Kakaopay.png" width="31px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
+[<img src="res/PayPal.png" width="32px"></img>](https://www.paypal.me/alphakr93)
+[<img src="res/Ko-fi.png" width="32px"></img>](https://ko-fi.com/alphakr93)
+[<img src="res/Patreon.png" width="32px"></img>](https://patreon.com/alphakr93_)
 
 ### :speech_balloon: Discord
 [<img src="res/PrismarineKorea.png" width="32px"></img>](https://discord.gg/kkqMSEVVxN)
@@ -114,20 +112,8 @@ Facebook, Instagram
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="32px"></img>](https://www.jetbrains.com/pycharm/)
 [<img src="res/vscode.png" width="32px"></img>](https://code.visualstudio.com/)
 [<img src="https://raw.githubusercontent.com/microsoft/terminal/9aee510ce0e311697977512abb61ca8d7e7d8d93/res/terminal/Terminal.svg" width="32px"></img>](https://github.com/microsoft/terminal)
-[<img src="https://w.namu.la/s/1ecd9d98e849872b3fa5a0f9f3add277d373212aabc10d9ef1e705847324abb342e420df735182b9db9f4ef20e6a0a2dbdd9b5d27c4d61dae4d3cfcd0f21c5466e784f17a51319d527358826ed0743a14cd9ff1db5bd00fcc6a674fe1bb7ea6b" width="32px"></img>](https://whale.naver.com/en/)
+[<img src="res/Whale.png" width="32px"></img>](https://whale.naver.com/en/)
 [<img src="res/gradle.png" width="45px"></img>](https://gradle.com/)
 [<img src="res/colab.svg" width="31px"></img>](https://colab.research.google.com/)
-<!--
-GH Copilot
-GH Codespace
-JB Gateway
-Heroku
---->
-
-### :video_game: The games I play
-[<img src="res/Minecraft.png" width="32px"></img>](https://minecraft.net/)
-[<img src="res/GenshinImpact.png" width="32px"></img>](https://genshin.hoyoverse.com/)
-[<img src="res/FloodEscape2.png" width="32px"></img>](https://www.roblox.com/games/738339342/Flood-Escape-2)
-[<img src="res/raft.ico" width="32px"></img>](https://store.steampowered.com/app/648800/Raft/)
-[<img src="res/Terralia.png" width="32px"></img>](https://terraria.org/)
-[<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46b63d3c-ae67-464c-9a37-670829b2a157/d8m1bdf-a4747f70-5060-4cf5-89f2-bdb19e5d2cc9.png/v1/fill/w_256,h_256,strp/cities__skylines___icon_by_blagoicons_d8m1bdf-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvNDZiNjNkM2MtYWU2Ny00NjRjLTlhMzctNjcwODI5YjJhMTU3XC9kOG0xYmRmLWE0NzQ3ZjcwLTUwNjAtNGNmNS04OWYyLWJkYjE5ZTVkMmNjOS5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BNOnia88i2SEK4JyuoaidJKMueXRjVBjIttvrYbyWPc" width="32px"></img>](https://store.steampowered.com/app/255710/Cities_Skylines/)
+[<img src="res/Heroku.png" width="33px"></img>](https://www.heroku.com/)
+[<img src="https://camo.githubusercontent.com/3e236fe49d305ab622734fd251b9c1df5e08702ee0825c460914f4d411e07856/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f636f70696c6f742f636f70696c6f742e706e67" width="39px"></img>](https://github.com/features/copilot)
