@@ -8,7 +8,7 @@
 [![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
 
 - :boy: He/Him
-- :desktop_computer: I'm currently developing [Prismarine](https://github.com/PrismarineTeam/Prismarine).
+<!-- - :desktop_computer: I'm currently developing [Prismarine](https://github.com/PrismarineTeam/Prismarine). -->
 - :newspaper_roll: Also, I'm working as a guide at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
 - :page_with_curl: Sometimes I translate projects into Korean.
 - :kr: I'm a Korean translator for [Skript](https://github.com/SkriptLang/Skript) & [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized).
