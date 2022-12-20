@@ -9,7 +9,7 @@
 
 - :boy: He/Him
 <!-- - :desktop_computer: I'm currently developing [Prismarine](https://github.com/PrismarineTeam/Prismarine). -->
-- :newspaper_roll: Also, I'm working as a guide at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
+- :newspaper_roll: <!-- Also, -->I'm working as a guide at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
 - :page_with_curl: Sometimes I translate projects into Korean.
 - :kr: I'm a Korean translator for [Skript](https://github.com/SkriptLang/Skript) & [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized).
 - :musical_note: I like listening to music. Especially, I enjoy listening to [Sereno](https://m.youtube.com/c/sereno)'s music.
