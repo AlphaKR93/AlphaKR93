@@ -52,11 +52,11 @@
 
 ###
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TeamEarendel/Andromeda/pull/1) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-2. 💪 Opened PR [#1](https://github.com/TeamEarendel/Andromeda/pull/1) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-3. ❗️ Closed issue [#26](https://github.com/PrismarineTeam/Prismarine/issues/26) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
-4. 🎉 Merged PR [#1](https://github.com/AlphaKR93/FlameCord/pull/1) in [AlphaKR93/FlameCord](https://github.com/AlphaKR93/FlameCord)
-5. 💪 Opened PR [#1](https://github.com/AlphaKR93/FlameCord/pull/1) in [AlphaKR93/FlameCord](https://github.com/AlphaKR93/FlameCord)
+1. ❗️ Opened issue [#2](https://github.com/TeamEarendel/Andromeda/issues/2) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+2. ❗️ Opened issue [#1](https://github.com/TeamEarendel/BukkitTemplate/issues/1) in [TeamEarendel/BukkitTemplate](https://github.com/TeamEarendel/BukkitTemplate)
+3. 🎉 Merged PR [#1](https://github.com/TeamEarendel/Andromeda/pull/1) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+4. 💪 Opened PR [#1](https://github.com/TeamEarendel/Andromeda/pull/1) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+5. ❗️ Closed issue [#26](https://github.com/PrismarineTeam/Prismarine/issues/26) in [PrismarineTeam/Prismarine](https://github.com/PrismarineTeam/Prismarine)
 <!--END_SECTION:activity-->
 </details>
 
