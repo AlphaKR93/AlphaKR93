@@ -52,11 +52,11 @@
 
 ###
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/TeamEarendel/BukkitTemplate/issues/1) in [TeamEarendel/BukkitTemplate](https://github.com/TeamEarendel/BukkitTemplate)
-2. ❗️ Closed issue [#2](https://github.com/TeamEarendel/Andromeda/issues/2) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-3. ❗️ Opened issue [#2](https://github.com/TeamEarendel/Andromeda/issues/2) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-4. ❗️ Opened issue [#1](https://github.com/TeamEarendel/BukkitTemplate/issues/1) in [TeamEarendel/BukkitTemplate](https://github.com/TeamEarendel/BukkitTemplate)
-5. 🎉 Merged PR [#1](https://github.com/TeamEarendel/Andromeda/pull/1) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+1. ❗️ Opened issue [#4](https://github.com/TeamEarendel/BukkitTemplate/issues/4) in [TeamEarendel/BukkitTemplate](https://github.com/TeamEarendel/BukkitTemplate)
+2. ❗️ Opened issue [#3](https://github.com/TeamEarendel/BukkitTemplate/issues/3) in [TeamEarendel/BukkitTemplate](https://github.com/TeamEarendel/BukkitTemplate)
+3. ❗️ Opened issue [#2](https://github.com/TeamEarendel/BukkitTemplate/issues/2) in [TeamEarendel/BukkitTemplate](https://github.com/TeamEarendel/BukkitTemplate)
+4. ❗️ Closed issue [#1](https://github.com/TeamEarendel/BukkitTemplate/issues/1) in [TeamEarendel/BukkitTemplate](https://github.com/TeamEarendel/BukkitTemplate)
+5. ❗️ Closed issue [#2](https://github.com/TeamEarendel/Andromeda/issues/2) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
 <!--END_SECTION:activity-->
 </details>
 
