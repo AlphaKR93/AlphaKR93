@@ -52,11 +52,11 @@
 
 ###
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/TeamEarendel/Magellan/issues/5) in [TeamEarendel/Magellan](https://github.com/TeamEarendel/Magellan)
-2. ❗️ Closed issue [#3](https://github.com/TeamEarendel/Magellan/issues/3) in [TeamEarendel/Magellan](https://github.com/TeamEarendel/Magellan)
-3. ❗️ Closed issue [#2](https://github.com/TeamEarendel/Magellan/issues/2) in [TeamEarendel/Magellan](https://github.com/TeamEarendel/Magellan)
-4. ❗️ Opened issue [#5](https://github.com/TeamEarendel/BukkitTemplate/issues/5) in [TeamEarendel/BukkitTemplate](https://github.com/TeamEarendel/BukkitTemplate)
-5. ❗️ Opened issue [#3](https://github.com/TeamEarendel/Andromeda/issues/3) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+1. ❗️ Closed issue [#3](https://github.com/TeamEarendel/Andromeda/issues/3) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+2. ❗️ Closed issue [#5](https://github.com/TeamEarendel/Magellan/issues/5) in [TeamEarendel/Magellan](https://github.com/TeamEarendel/Magellan)
+3. ❗️ Closed issue [#3](https://github.com/TeamEarendel/Magellan/issues/3) in [TeamEarendel/Magellan](https://github.com/TeamEarendel/Magellan)
+4. ❗️ Closed issue [#2](https://github.com/TeamEarendel/Magellan/issues/2) in [TeamEarendel/Magellan](https://github.com/TeamEarendel/Magellan)
+5. ❗️ Opened issue [#5](https://github.com/TeamEarendel/BukkitTemplate/issues/5) in [TeamEarendel/BukkitTemplate](https://github.com/TeamEarendel/BukkitTemplate)
 <!--END_SECTION:activity-->
 </details>
 
