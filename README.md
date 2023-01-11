@@ -52,11 +52,11 @@
 
 ###
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/TeamEarendel/Andromeda/pull/4) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-2. 💪 Opened PR [#4](https://github.com/TeamEarendel/Andromeda/pull/4) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-3. ❗️ Closed issue [#3](https://github.com/TeamEarendel/Andromeda/issues/3) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-4. ❗️ Closed issue [#5](https://github.com/TeamEarendel/Magellan/issues/5) in [TeamEarendel/Magellan](https://github.com/TeamEarendel/Magellan)
-5. ❗️ Closed issue [#3](https://github.com/TeamEarendel/Magellan/issues/3) in [TeamEarendel/Magellan](https://github.com/TeamEarendel/Magellan)
+1. 💪 Opened PR [#6](https://github.com/TeamEarendel/Andromeda/pull/6) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+2. ❌ Closed PR [#5](https://github.com/TeamEarendel/Andromeda/pull/5) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+3. 💪 Opened PR [#5](https://github.com/TeamEarendel/Andromeda/pull/5) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+4. 🎉 Merged PR [#4](https://github.com/TeamEarendel/Andromeda/pull/4) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+5. 💪 Opened PR [#4](https://github.com/TeamEarendel/Andromeda/pull/4) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
 <!--END_SECTION:activity-->
 </details>
 
