@@ -43,8 +43,6 @@
 <details><summary>:calendar: D-Day</summary>
 
 ###
-[![](https://dday-widget.minung.dev/widget?text=%F0%9F%93%9D%20Final%20Exam&date=2022-12-05&startDate=2022-09-23&theme=theme2)](https://github.com/alphakr93)
-[![](https://dday-widget.minung.dev/widget?text=%F0%9F%8C%8D%20New%20Year&date=2023-01-01&startDate=2022-01-01&theme=theme2)](https://github.com/alphakr93)
 [![](https://dday-widget.minung.dev/widget?text=%F0%9F%8E%92%20New%20Grade&date=2023-03-02&startDate=2022-03-02&theme=theme2)](https://github.com/alphakr93)
 </details>
 
