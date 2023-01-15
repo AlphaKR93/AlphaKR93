@@ -68,7 +68,7 @@
 </details>
 
 ### 🌐 Socials
-[<img src="res/Twitter.png" width="32px"></img>](https://twitter.com/PrismarineAlpha)
+[<img src="res/Twitter.png" width="32px"></img>](https://twitter.com/alphakr93)
 [<img src="res/YouTube.png" width="32px"></img>](https://youtube.com/@alphakr93)
 [<img src="res/KakaoTalk.png" width="32px"></img>](https://open.kakao.com/me/alpha93)
 [<img src="res/Facebook.png" width="32px"></img>](https://www.facebook.com/alphakr93)
@@ -82,8 +82,6 @@
 [<img src="res/Patreon.png" width="32px"></img>](https://patreon.com/alphakr93_)
 
 ### :speech_balloon: Discord
-[<img src="res/PrismarineKorea.png" width="32px"></img>](https://discord.gg/kkqMSEVVxN)
-[<img src="res/PrismarineGlobal.png" width="32px"></img>](https://discord.gg/CQGVqeXQQC)
 [<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
 [<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
 
