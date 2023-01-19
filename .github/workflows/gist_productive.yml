@@ -10,8 +10,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main
-      - uses: maxam2017/productive-box@master
+      - name: Update gist
+        uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.TOKEN }}
           GIST_ID: e0ba60e59d70238a13fc1fce9f3dd972

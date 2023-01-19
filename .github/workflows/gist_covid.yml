@@ -8,8 +8,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main
-      - uses: puf17640/covid-box@master
+      - name: Update gist
+        uses: puf17640/covid-box@master
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           GH_PAT: ${{ secrets.TOKEN }}
