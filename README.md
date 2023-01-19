@@ -87,7 +87,7 @@
 
 ### :gear: Languages and Tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="32px"></img>](https://dev.java/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="32px"></img>](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="32px"></img>](https://www.python.org/) <!-- 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" width="29px"></img>](https://isocpp.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg" width="33px"></img>](https://go.dev/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="32px"></img>](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
@@ -97,7 +97,7 @@
 [<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="33px"></img>](https://nextjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="32px"></img>](https://vuejs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="32px"></img>](https://html.spec.whatwg.org/multipage/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="32px"></img>](https://www.w3.org/TR/CSS/#css)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="32px"></img>](https://www.w3.org/TR/CSS/#css) -->
 [<img src="res/Skript.png" width="32px"></img>](https://github.com/SkriptLang/Skript)
 
 [<img src="res/Windows.svg" width="32px"></img>](https://insider.windows.com/)
@@ -106,9 +106,10 @@
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Toolbox_icon.png" width="29px"></img>](https://www.jetbrains.com/toolbox-app/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="32px"></img>](https://www.jetbrains.com/idea/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="32px"></img>](https://www.jetbrains.com/pycharm/)
+[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" width="32px"></img>](https://www.jetbrains.com/webstorm/) <!--
+[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.png" width="32px"></img>](https://www.jetbrains.com/clion/) -->
 [<img src="res/vscode.png" width="32px"></img>](https://code.visualstudio.com/)
 [<img src="https://raw.githubusercontent.com/microsoft/terminal/9aee510ce0e311697977512abb61ca8d7e7d8d93/res/terminal/Terminal.svg" width="32px"></img>](https://github.com/microsoft/terminal)
-[<img src="res/Whale.png" width="32px"></img>](https://whale.naver.com/en/)
 [<img src="res/gradle.png" width="45px"></img>](https://gradle.com/)
 [<img src="res/colab.svg" width="31px"></img>](https://colab.research.google.com/)
 [<img src="res/Heroku.png" width="33px"></img>](https://www.heroku.com/)
