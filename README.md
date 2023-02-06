@@ -14,11 +14,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/TeamEarendel/Andromeda/pull/10) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-2. 🎉 Merged PR [#6](https://github.com/TeamEarendel/Magellan/pull/6) in [TeamEarendel/Magellan](https://github.com/TeamEarendel/Magellan)
-3. 🎉 Merged PR [#9](https://github.com/TeamEarendel/Andromeda/pull/9) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-4. ❌ Closed PR [#8](https://github.com/TeamEarendel/Andromeda/pull/8) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-5. 💪 Opened PR [#8](https://github.com/TeamEarendel/Andromeda/pull/8) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+1. 💪 Opened PR [#580](https://github.com/Fabulously-Optimized/fabulously-optimized/pull/580) in [Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized)
+2. 🎉 Merged PR [#1](https://github.com/TeamEarendel/AndromedaPlus/pull/1) in [TeamEarendel/AndromedaPlus](https://github.com/TeamEarendel/AndromedaPlus)
+3. 🎉 Merged PR [#2](https://github.com/TeamEarendel/AndromedaPlus/pull/2) in [TeamEarendel/AndromedaPlus](https://github.com/TeamEarendel/AndromedaPlus)
+4. ❌ Closed PR [#2](https://github.com/TeamEarendel/AndromedaPlus/pull/2) in [TeamEarendel/AndromedaPlus](https://github.com/TeamEarendel/AndromedaPlus)
+5. ❌ Closed PR [#1](https://github.com/TeamEarendel/AndromedaPlus/pull/1) in [TeamEarendel/AndromedaPlus](https://github.com/TeamEarendel/AndromedaPlus)
 <!--END_SECTION:activity-->
 
 ### 🌐 Socials
