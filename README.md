@@ -3,8 +3,8 @@
 # Hi 👋, I'm Alpha!
 ### :kr: Korean Student Developer & Translator
 
-[![](https://img.shields.io/badge/-alphakr93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:alphakr93@gmail.com)
-[![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
+[![](https://img.shields.io/badge/-alphakr93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:alphakr93@gmail.com) <!--
+[![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93) -->
 </div>
 
 - :boy: He/Him
