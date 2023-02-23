@@ -14,8 +14,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/TeamEarendel/Andromeda/issues/11) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-2. ❗️ Opened issue [#11](https://github.com/TeamEarendel/Andromeda/issues/11) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+1. 💪 Opened PR [#70](https://github.com/Fabulously-Optimized/wiki/pull/70) in [Fabulously-Optimized/wiki](https://github.com/Fabulously-Optimized/wiki)
+2. 💪 Opened PR [#2927](https://github.com/FabricMC/fabric/pull/2927) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
 3. 🎉 Merged PR [#2](https://github.com/TeamEarendel/AndromedaPlus/pull/2) in [TeamEarendel/AndromedaPlus](https://github.com/TeamEarendel/AndromedaPlus)
 4. ❌ Closed PR [#2](https://github.com/TeamEarendel/AndromedaPlus/pull/2) in [TeamEarendel/AndromedaPlus](https://github.com/TeamEarendel/AndromedaPlus)
 5. ❌ Closed PR [#1](https://github.com/TeamEarendel/AndromedaPlus/pull/1) in [TeamEarendel/AndromedaPlus](https://github.com/TeamEarendel/AndromedaPlus)
