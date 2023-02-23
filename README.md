@@ -14,11 +14,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/Fabulously-Optimized/wiki/pull/70) in [Fabulously-Optimized/wiki](https://github.com/Fabulously-Optimized/wiki)
-2. 💪 Opened PR [#2927](https://github.com/FabricMC/fabric/pull/2927) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
-3. 🎉 Merged PR [#2](https://github.com/TeamEarendel/AndromedaPlus/pull/2) in [TeamEarendel/AndromedaPlus](https://github.com/TeamEarendel/AndromedaPlus)
-4. ❌ Closed PR [#2](https://github.com/TeamEarendel/AndromedaPlus/pull/2) in [TeamEarendel/AndromedaPlus](https://github.com/TeamEarendel/AndromedaPlus)
-5. ❌ Closed PR [#1](https://github.com/TeamEarendel/AndromedaPlus/pull/1) in [TeamEarendel/AndromedaPlus](https://github.com/TeamEarendel/AndromedaPlus)
+1. 💪 Opened PR [#88](https://github.com/CaelTheColher/Capes/pull/88) in [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes)
+2. 💪 Opened PR [#71](https://github.com/Fabulously-Optimized/wiki/pull/71) in [Fabulously-Optimized/wiki](https://github.com/Fabulously-Optimized/wiki)
+3. 💪 Opened PR [#223](https://github.com/PepperCode1/Continuity/pull/223) in [PepperCode1/Continuity](https://github.com/PepperCode1/Continuity)
+4. 💪 Opened PR [#70](https://github.com/Fabulously-Optimized/wiki/pull/70) in [Fabulously-Optimized/wiki](https://github.com/Fabulously-Optimized/wiki)
+5. 💪 Opened PR [#2927](https://github.com/FabricMC/fabric/pull/2927) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
 <!--END_SECTION:activity-->
 
 ### 🌐 Socials
