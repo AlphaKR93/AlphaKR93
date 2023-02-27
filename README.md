@@ -14,11 +14,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/CaelTheColher/Capes/pull/88) in [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes)
-2. 💪 Opened PR [#71](https://github.com/Fabulously-Optimized/wiki/pull/71) in [Fabulously-Optimized/wiki](https://github.com/Fabulously-Optimized/wiki)
-3. 💪 Opened PR [#223](https://github.com/PepperCode1/Continuity/pull/223) in [PepperCode1/Continuity](https://github.com/PepperCode1/Continuity)
-4. 💪 Opened PR [#70](https://github.com/Fabulously-Optimized/wiki/pull/70) in [Fabulously-Optimized/wiki](https://github.com/Fabulously-Optimized/wiki)
-5. 💪 Opened PR [#2927](https://github.com/FabricMC/fabric/pull/2927) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
+1. ❌ Closed PR [#2927](https://github.com/FabricMC/fabric/pull/2927) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
+2. 💪 Opened PR [#88](https://github.com/CaelTheColher/Capes/pull/88) in [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes)
+3. 💪 Opened PR [#71](https://github.com/Fabulously-Optimized/wiki/pull/71) in [Fabulously-Optimized/wiki](https://github.com/Fabulously-Optimized/wiki)
+4. 💪 Opened PR [#223](https://github.com/PepperCode1/Continuity/pull/223) in [PepperCode1/Continuity](https://github.com/PepperCode1/Continuity)
+5. 💪 Opened PR [#70](https://github.com/Fabulously-Optimized/wiki/pull/70) in [Fabulously-Optimized/wiki](https://github.com/Fabulously-Optimized/wiki)
 <!--END_SECTION:activity-->
 
 ### 🌐 Socials
