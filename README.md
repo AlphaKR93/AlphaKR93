@@ -14,11 +14,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/TeamEarendel/Andromeda/issues/7) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-2. 💪 Opened PR [#2941](https://github.com/FabricMC/fabric/pull/2941) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
-3. ❌ Closed PR [#2927](https://github.com/FabricMC/fabric/pull/2927) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
-4. 💪 Opened PR [#88](https://github.com/CaelTheColher/Capes/pull/88) in [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes)
-5. 💪 Opened PR [#71](https://github.com/Fabulously-Optimized/wiki/pull/71) in [Fabulously-Optimized/wiki](https://github.com/Fabulously-Optimized/wiki)
+1. ❗️ Opened issue [#1](https://github.com/TeamEarendel/Updater/issues/1) in [TeamEarendel/Updater](https://github.com/TeamEarendel/Updater)
+2. ❗️ Closed issue [#7](https://github.com/TeamEarendel/Andromeda/issues/7) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
+3. 💪 Opened PR [#2941](https://github.com/FabricMC/fabric/pull/2941) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
+4. ❌ Closed PR [#2927](https://github.com/FabricMC/fabric/pull/2927) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
+5. 💪 Opened PR [#88](https://github.com/CaelTheColher/Capes/pull/88) in [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes)
 <!--END_SECTION:activity-->
 
 ### 🌐 Socials
