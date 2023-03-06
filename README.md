@@ -14,11 +14,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/TeamEarendel/Updater/issues/1) in [TeamEarendel/Updater](https://github.com/TeamEarendel/Updater)
-2. ❗️ Closed issue [#7](https://github.com/TeamEarendel/Andromeda/issues/7) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
-3. 💪 Opened PR [#2941](https://github.com/FabricMC/fabric/pull/2941) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
-4. ❌ Closed PR [#2927](https://github.com/FabricMC/fabric/pull/2927) in [FabricMC/fabric](https://github.com/FabricMC/fabric)
-5. 💪 Opened PR [#88](https://github.com/CaelTheColher/Capes/pull/88) in [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes)
+1. 🎉 Merged PR [#2](https://github.com/PlazmaMC/Plazma/pull/2) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+2. 🎉 Merged PR [#3](https://github.com/PlazmaMC/Plazma/pull/3) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+3. ❗️ Closed issue [#1](https://github.com/PlazmaMC/Plazma/issues/1) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+4. ❗️ Opened issue [#1](https://github.com/TeamEarendel/Updater/issues/1) in [TeamEarendel/Updater](https://github.com/TeamEarendel/Updater)
+5. ❗️ Closed issue [#7](https://github.com/TeamEarendel/Andromeda/issues/7) in [TeamEarendel/Andromeda](https://github.com/TeamEarendel/Andromeda)
 <!--END_SECTION:activity-->
 
 ### 🌐 Socials
