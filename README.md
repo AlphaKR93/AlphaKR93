@@ -14,11 +14,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/PlazmaMC/Plazma/pull/15) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-2. 🎉 Merged PR [#9](https://github.com/PlazmaMC/Plazma/pull/9) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-3. 🎉 Merged PR [#14](https://github.com/PlazmaMC/Plazma/pull/14) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-4. 💪 Opened PR [#14](https://github.com/PlazmaMC/Plazma/pull/14) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-5. 💪 Opened PR [#2](https://github.com/PlazmaMCAutoBot/test/pull/2) in [PlazmaMCAutoBot/test](https://github.com/PlazmaMCAutoBot/test)
+1. 💪 Opened PR [#17](https://github.com/PlazmaMC/Plazma/pull/17) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+2. 💪 Opened PR [#16](https://github.com/PlazmaMC/Plazma/pull/16) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+3. 💪 Opened PR [#15](https://github.com/PlazmaMC/Plazma/pull/15) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+4. 🎉 Merged PR [#9](https://github.com/PlazmaMC/Plazma/pull/9) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+5. 🎉 Merged PR [#14](https://github.com/PlazmaMC/Plazma/pull/14) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
 <!--END_SECTION:activity-->
 
 ### 🌐 Socials
