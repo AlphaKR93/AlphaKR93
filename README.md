@@ -14,11 +14,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/PlazmaMC/Plazma/pull/15) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-2. 🗣 Commented on [#15](https://github.com/PlazmaMC/Plazma/issues/15) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-3. ❌ Closed PR [#8](https://github.com/PlazmaMC/Plazma/pull/8) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-4. 🗣 Commented on [#8](https://github.com/PlazmaMC/Plazma/issues/8) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-5. ❌ Closed PR [#18](https://github.com/PlazmaMC/Plazma/pull/18) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+1. 💪 Opened PR [#22](https://github.com/PlazmaMC/Plazma/pull/22) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+2. ❌ Closed PR [#15](https://github.com/PlazmaMC/Plazma/pull/15) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+3. 🗣 Commented on [#15](https://github.com/PlazmaMC/Plazma/issues/15) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+4. ❌ Closed PR [#8](https://github.com/PlazmaMC/Plazma/pull/8) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+5. 🗣 Commented on [#8](https://github.com/PlazmaMC/Plazma/issues/8) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
 <!--END_SECTION:activity-->
 
 ### 🌐 Socials
