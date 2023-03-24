@@ -14,11 +14,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/PlazmaMC/AlwaysUpToDate/issues/2) in [PlazmaMC/AlwaysUpToDate](https://github.com/PlazmaMC/AlwaysUpToDate)
-2. ❗️ Opened issue [#1](https://github.com/PlazmaMC/AlwaysUpToDate/issues/1) in [PlazmaMC/AlwaysUpToDate](https://github.com/PlazmaMC/AlwaysUpToDate)
-3. 💪 Opened PR [#26](https://github.com/PlazmaMC/Plazma/pull/26) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-4. 💪 Opened PR [#25](https://github.com/PlazmaMC/Plazma/pull/25) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-5. 💪 Opened PR [#24](https://github.com/PlazmaMC/Plazma/pull/24) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+1. ❗️ Closed issue [#2](https://github.com/PlazmaMC/AlwaysUpToDate/issues/2) in [PlazmaMC/AlwaysUpToDate](https://github.com/PlazmaMC/AlwaysUpToDate)
+2. ❗️ Closed issue [#1](https://github.com/PlazmaMC/AlwaysUpToDate/issues/1) in [PlazmaMC/AlwaysUpToDate](https://github.com/PlazmaMC/AlwaysUpToDate)
+3. ❗️ Opened issue [#2](https://github.com/PlazmaMC/AlwaysUpToDate/issues/2) in [PlazmaMC/AlwaysUpToDate](https://github.com/PlazmaMC/AlwaysUpToDate)
+4. ❗️ Opened issue [#1](https://github.com/PlazmaMC/AlwaysUpToDate/issues/1) in [PlazmaMC/AlwaysUpToDate](https://github.com/PlazmaMC/AlwaysUpToDate)
+5. 💪 Opened PR [#26](https://github.com/PlazmaMC/Plazma/pull/26) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
 <!--END_SECTION:activity-->
 
 ### 🌐 Socials
