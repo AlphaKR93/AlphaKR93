@@ -3,12 +3,12 @@
 # Hi 👋, I'm Alpha!
 ### :kr: Korean Student Developer & Translator
 
-[![](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr) <!--
-[![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93) -->
+[![](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr)
+[![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
 </div>
 
 - :boy: He/Him
-- :desktop_computer: I'm currently developing in [TeamEarendel](https://github.com/TeamEarendel).
+- :desktop_computer: I'm currently developing in [TeamEarendel](https://github.com/TeamEarendel) and [PlazmaMC](https://github.com/PlazmaMC)
 - :newspaper_roll: Also, I'm working as a guide at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
 - :page_with_curl: Sometimes I translate projects into Korean.
 
@@ -22,10 +22,10 @@
 <!--END_SECTION:activity-->
 
 ### 🌐 Socials
-[<img src="res/Twitter.png" width="32px"></img>](https://twitter.com/alphakr93)
 [<img src="res/KakaoTalk.png" width="32px"></img>](https://open.kakao.com/me/alpha93)
+<!-- [<img src="res/Twitter.png" width="32px"></img>](https://twitter.com/alphakr93)
 [<img src="res/Facebook.png" width="32px"></img>](https://www.facebook.com/alphakr93)
-[<img src="res/Instagram.png" width="32px"></img>](https://www.instagram.com/alphakr93)
+[<img src="res/Instagram.png" width="32px"></img>](https://www.instagram.com/alphakr93) -->
 
 ### :money_with_wings: Support
 [<img src="res/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
@@ -58,7 +58,7 @@
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Toolbox_icon.png" width="29px"></img>](https://www.jetbrains.com/toolbox-app/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="32px"></img>](https://www.jetbrains.com/idea/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="32px"></img>](https://www.jetbrains.com/pycharm/)
-[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" width="32px"></img>](https://www.jetbrains.com/webstorm/) <!--
+<!-- [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" width="32px"></img>](https://www.jetbrains.com/webstorm/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.png" width="32px"></img>](https://www.jetbrains.com/clion/) -->
 [<img src="res/vscode.png" width="32px"></img>](https://code.visualstudio.com/)
 [<img src="https://raw.githubusercontent.com/microsoft/terminal/9aee510ce0e311697977512abb61ca8d7e7d8d93/res/terminal/Terminal.svg" width="32px"></img>](https://github.com/microsoft/terminal)
