@@ -35,7 +35,7 @@
 ### :speech_balloon: Discord
 [<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
 [<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
-[<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/ver/1.19.4/res/logo-900.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
+[<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/ver/1.19.4/res/logo-900.png" width="32px"></img>](https://discord.gg/MmfC52K8A8)
 
 ### :gear: Languages and Tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="32px"></img>](https://dev.java/)
