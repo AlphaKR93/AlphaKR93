@@ -71,10 +71,9 @@
 
 <div align="center">
 
-[![Update Readme](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/readme_activity.yml/badge.svg)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/readme_activity.yml)
-[![Update Productive Gists](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_productive.yml/badge.svg)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_productive.yml)
-[![Update Language Gists](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_lang.yml/badge.svg)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_lang.yml)
-[![Update COVID-19 Gists](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_covid.yml/badge.svg)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_covid.yml)
+[![Update Readme](https://img.shields.io/github/actions/workflow/status/AlphaKR93/AlphaKR93/readme_activity.yml?label=Update%20Activity&style=for-the-badge)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/readme_activity.yml)
+[![Update Productive Gists](https://img.shields.io/github/actions/workflow/status/AlphaKR93/AlphaKR93/gist_productive.yml?label=Update%20Productive%20Gist&style=for-the-badge)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_productive.yml)
+[![Update Language Gists](https://img.shields.io/github/actions/workflow/status/AlphaKR93/AlphaKR93/gist_lang.yml?label=Update%20Language%20Gist&style=for-the-badge)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_lang.yml)
 
 <details><summary>:bookmark_tabs: Stats</summary>
   
