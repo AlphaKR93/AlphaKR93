@@ -8,11 +8,37 @@
 </div>
 
 - :boy: He/Him
-- :desktop_computer: I'm currently developing in [TeamEarendel](https://github.com/TeamEarendel) and [PlazmaMC](https://github.com/PlazmaMC)
-- :newspaper_roll: Also, I'm working as a guide at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
-- :page_with_curl: Sometimes I translate projects into Korean.
+- :desktop_computer: I'm currently developing softwares in [TeamEarendel](https://github.com/TeamEarendel) and [PlazmaMC](https://github.com/PlazmaMC)
+- :newspaper_roll: Also, I'm working as a guide at [MDD](https://discord.gg/AZwXTA9Pgx) and [MCC](https://discord.gg/nnkecH6n24).
+- 🇰🇷 I'm official Korean Translator & Proofreader of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium Fabric (Unofficial)](https://crowdin.com/project/sodium-fabric)
+- 📃 Sometimes I translate projects into Korean.
 
-### :zap: Recent Activity
+### 🌐 Socials
+[<img src="res/KakaoTalk.png" width="32px"></img>](https://open.kakao.com/me/alpha93)
+[<img src="res/Twitter.png" width="32px"></img>](https://twitter.com/dev_alphakr93)
+[<img src="res/Facebook.png" width="32px"></img>](https://www.facebook.com/alphakr93)
+[<img src="res/Instagram.png" width="32px"></img>](https://www.instagram.com/alphakr93)
+[<img src="res/YouTube.png" width="32px"></img>](https://www.youtube.com/channel/UCD80I32EKZ00pFZdxenHy-g)
+[<img src="res/Steam.png" width="32px"></img>](https://steamcommunity.com/id/alphakr93/)
+[<img src="res/Baekjoon.png" width="32px"></img>](https://www.acmicpc.net/user/alphakr93)
+[<img src="res/StackOverflow.png" width="32px"></img>](https://stackoverflow.com/users/18240209/alpha)
+
+### :money_with_wings: Support
+[<img src="res/Ko-fi.png" width="32px"></img>](https://ko-fi.com/alphakr93)
+[<img src="res/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
+[<img src="res/Kakaopay.png" width="31px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
+
+### :speech_balloon: Discord
+[<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
+[<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
+[<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/ver/1.19.4/res/logo-900.png" width="32px"></img>](https://discord.gg/MmfC52K8A8)
+
+### :gear: Languages
+[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="32px"></img>](https://dev.java/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="32px"></img>](https://www.python.org/)
+
+<details><summary>:zap: Recent Activity</summary>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#39](https://github.com/PlazmaMC/Plazma/pull/39) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
 2. ❗️ Closed issue [#27](https://github.com/PlazmaMC/Plazma/issues/27) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
@@ -21,59 +47,19 @@
 5. 💪 Opened PR [#36](https://github.com/PlazmaMC/Plazma/pull/36) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
 <!--END_SECTION:activity-->
 
-### 🌐 Socials
-[<img src="res/KakaoTalk.png" width="32px"></img>](https://open.kakao.com/me/alpha93)
-<!-- [<img src="res/Twitter.png" width="32px"></img>](https://twitter.com/alphakr93)
-[<img src="res/Facebook.png" width="32px"></img>](https://www.facebook.com/alphakr93)
-[<img src="res/Instagram.png" width="32px"></img>](https://www.instagram.com/alphakr93) -->
-
-### :money_with_wings: Support
-[<img src="res/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
-[<img src="res/Kakaopay.png" width="31px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
-[<img src="res/Ko-fi.png" width="32px"></img>](https://ko-fi.com/alphakr93)
-
-### :speech_balloon: Discord
-[<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
-[<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
-[<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/ver/1.19.4/res/logo-900.png" width="32px"></img>](https://discord.gg/MmfC52K8A8)
-
-### :gear: Languages and Tools
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="32px"></img>](https://dev.java/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="32px"></img>](https://www.python.org/) <!-- 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" width="29px"></img>](https://isocpp.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg" width="33px"></img>](https://go.dev/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="32px"></img>](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="32px"></img>](https://www.typescriptlang.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="32px"></img>](https://nodejs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="32px"></img>](https://reactjs.org/)
-[<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="33px"></img>](https://nextjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" width="32px"></img>](https://vuejs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="32px"></img>](https://html.spec.whatwg.org/multipage/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="32px"></img>](https://www.w3.org/TR/CSS/#css) -->
-[<img src="res/Skript.png" width="32px"></img>](https://github.com/SkriptLang/Skript)
-
-[<img src="res/Windows.svg" width="32px"></img>](https://insider.windows.com/)
-[<img src="https://github.com/git-for-windows/git-for-windows.github.io/blob/main/img/gwindows_logo.png?raw=true" width="32px"></img>](https://gitforwindows.org/)
-[<img src="https://projects.eclipse.org/sites/default/files/Logo_Adoptium_2021_03_08_JRR_RGB-V3C%20%281%29.png" width="33px"></img>](https://adoptium.net/)
-[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/Toolbox_icon.png" width="29px"></img>](https://www.jetbrains.com/toolbox-app/)
-[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="32px"></img>](https://www.jetbrains.com/idea/)
-[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" width="32px"></img>](https://www.jetbrains.com/pycharm/)
-<!-- [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" width="32px"></img>](https://www.jetbrains.com/webstorm/)
-[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.png" width="32px"></img>](https://www.jetbrains.com/clion/) -->
-[<img src="res/vscode.png" width="32px"></img>](https://code.visualstudio.com/)
-[<img src="https://raw.githubusercontent.com/microsoft/terminal/9aee510ce0e311697977512abb61ca8d7e7d8d93/res/terminal/Terminal.svg" width="32px"></img>](https://github.com/microsoft/terminal)
-[<img src="res/gradle.png" width="45px"></img>](https://gradle.com/)
-[<img src="res/colab.svg" width="31px"></img>](https://colab.research.google.com/)
-[<img src="res/Heroku.png" width="33px"></img>](https://www.heroku.com/)
-[<img src="https://camo.githubusercontent.com/3e236fe49d305ab622734fd251b9c1df5e08702ee0825c460914f4d411e07856/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f636f70696c6f742f636f70696c6f742e706e67" width="39px"></img>](https://github.com/features/copilot)
+</details>
 
 #
 
 <div align="center">
 
+<details><summary>✅ Actions</summary>
+
 [![Update Readme](https://img.shields.io/github/actions/workflow/status/AlphaKR93/AlphaKR93/readme_activity.yml?label=Update%20Activity&style=for-the-badge)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/readme_activity.yml)
 [![Update Productive Gists](https://img.shields.io/github/actions/workflow/status/AlphaKR93/AlphaKR93/gist_productive.yml?label=Update%20Productive%20Gist&style=for-the-badge)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_productive.yml)
 [![Update Language Gists](https://img.shields.io/github/actions/workflow/status/AlphaKR93/AlphaKR93/gist_lang.yml?label=Update%20Language%20Gist&style=for-the-badge)](https://github.com/AlphaKR93/AlphaKR93/actions/workflows/gist_lang.yml)
+
+</details>
 
 <details><summary>:bookmark_tabs: Stats</summary>
   
