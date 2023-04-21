@@ -40,11 +40,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/AlphaKR93/SchoolDday/pull/1) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-2. 🎉 Merged PR [#39](https://github.com/PlazmaMC/Plazma/pull/39) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-3. ❗️ Closed issue [#27](https://github.com/PlazmaMC/Plazma/issues/27) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-4. 🎉 Merged PR [#37](https://github.com/PlazmaMC/Plazma/pull/37) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-5. 🎉 Merged PR [#36](https://github.com/PlazmaMC/Plazma/pull/36) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+1. ❌ Closed PR [#88](https://github.com/CaelTheColher/Capes/pull/88) in [CaelTheColher/Capes](https://github.com/CaelTheColher/Capes)
+2. 🎉 Merged PR [#2](https://github.com/AlphaKR93/SchoolDday/pull/2) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+3. 🎉 Merged PR [#3](https://github.com/AlphaKR93/SchoolDday/pull/3) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+4. 🎉 Merged PR [#4](https://github.com/AlphaKR93/SchoolDday/pull/4) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+5. ❌ Closed PR [#1](https://github.com/AlphaKR93/SchoolDday/pull/1) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
 <!--END_SECTION:activity-->
 
 </details>
