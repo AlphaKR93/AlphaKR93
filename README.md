@@ -40,11 +40,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/PlazmaMC/Plazma/pull/39) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-2. ❗️ Closed issue [#27](https://github.com/PlazmaMC/Plazma/issues/27) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-3. 🎉 Merged PR [#37](https://github.com/PlazmaMC/Plazma/pull/37) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-4. 🎉 Merged PR [#36](https://github.com/PlazmaMC/Plazma/pull/36) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-5. 💪 Opened PR [#36](https://github.com/PlazmaMC/Plazma/pull/36) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+1. ❌ Closed PR [#1](https://github.com/AlphaKR93/SchoolDday/pull/1) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+2. 🎉 Merged PR [#39](https://github.com/PlazmaMC/Plazma/pull/39) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+3. ❗️ Closed issue [#27](https://github.com/PlazmaMC/Plazma/issues/27) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+4. 🎉 Merged PR [#37](https://github.com/PlazmaMC/Plazma/pull/37) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+5. 🎉 Merged PR [#36](https://github.com/PlazmaMC/Plazma/pull/36) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
 <!--END_SECTION:activity-->
 
 </details>
