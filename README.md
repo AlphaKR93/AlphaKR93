@@ -55,11 +55,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/AlphaKR93/SchoolDday/pull/13) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-2. 🗣 Commented on [#13](https://github.com/AlphaKR93/SchoolDday/issues/13) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+1. 🎉 Merged PR [#1](https://github.com/TeamEarendel/Fomalhaut/pull/1) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
+2. ❌ Closed PR [#13](https://github.com/AlphaKR93/SchoolDday/pull/13) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
 3. 🗣 Commented on [#13](https://github.com/AlphaKR93/SchoolDday/issues/13) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
 4. 🗣 Commented on [#13](https://github.com/AlphaKR93/SchoolDday/issues/13) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-5. ❌ Closed PR [#13](https://github.com/AlphaKR93/SchoolDday/pull/13) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+5. 🗣 Commented on [#13](https://github.com/AlphaKR93/SchoolDday/issues/13) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
 <!--END_SECTION:activity-->
 
 </details>
