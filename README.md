@@ -55,11 +55,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/TeamEarendel/Fomalhaut/issues/12) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
-2. ❗️ Opened issue [#11](https://github.com/TeamEarendel/Fomalhaut/issues/11) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
-3. ❗️ Opened issue [#10](https://github.com/TeamEarendel/Fomalhaut/issues/10) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
-4. ❗️ Opened issue [#9](https://github.com/TeamEarendel/Fomalhaut/issues/9) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
-5. ❗️ Opened issue [#8](https://github.com/TeamEarendel/Fomalhaut/issues/8) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
+1. 🎉 Merged PR [#22](https://github.com/AlphaKR93/SchoolDday/pull/22) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+2. 🎉 Merged PR [#18](https://github.com/AlphaKR93/SchoolDday/pull/18) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+3. ❗️ Opened issue [#12](https://github.com/TeamEarendel/Fomalhaut/issues/12) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
+4. ❗️ Opened issue [#11](https://github.com/TeamEarendel/Fomalhaut/issues/11) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
+5. ❗️ Opened issue [#10](https://github.com/TeamEarendel/Fomalhaut/issues/10) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
 <!--END_SECTION:activity-->
 
 </details>
