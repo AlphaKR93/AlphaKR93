@@ -55,11 +55,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/TeamEarendel/Fomalhaut/pull/3) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
-2. 🎉 Merged PR [#2](https://github.com/TeamEarendel/Fomalhaut/pull/2) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
-3. 💪 Opened PR [#2](https://github.com/TeamEarendel/Fomalhaut/pull/2) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
-4. 🎉 Merged PR [#17](https://github.com/AlphaKR93/SchoolDday/pull/17) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-5. 💪 Opened PR [#17](https://github.com/AlphaKR93/SchoolDday/pull/17) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+1. ❗️ Opened issue [#7](https://github.com/TeamEarendel/Fomalhaut/issues/7) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
+2. ❗️ Opened issue [#6](https://github.com/TeamEarendel/Fomalhaut/issues/6) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
+3. 💪 Opened PR [#3](https://github.com/TeamEarendel/Fomalhaut/pull/3) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
+4. 🎉 Merged PR [#2](https://github.com/TeamEarendel/Fomalhaut/pull/2) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
+5. 💪 Opened PR [#2](https://github.com/TeamEarendel/Fomalhaut/pull/2) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
 <!--END_SECTION:activity-->
 
 </details>
