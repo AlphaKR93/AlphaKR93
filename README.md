@@ -55,11 +55,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/AlphaKR93/SchoolDday/pull/22) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-2. 🎉 Merged PR [#18](https://github.com/AlphaKR93/SchoolDday/pull/18) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-3. ❗️ Opened issue [#12](https://github.com/TeamEarendel/Fomalhaut/issues/12) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
-4. ❗️ Opened issue [#11](https://github.com/TeamEarendel/Fomalhaut/issues/11) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
-5. ❗️ Opened issue [#10](https://github.com/TeamEarendel/Fomalhaut/issues/10) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
+1. 🎉 Merged PR [#21](https://github.com/AlphaKR93/SchoolDday/pull/21) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+2. ❗️ Opened issue [#23](https://github.com/AlphaKR93/SchoolDday/issues/23) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+3. 🎉 Merged PR [#22](https://github.com/AlphaKR93/SchoolDday/pull/22) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+4. 🎉 Merged PR [#18](https://github.com/AlphaKR93/SchoolDday/pull/18) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+5. ❗️ Opened issue [#12](https://github.com/TeamEarendel/Fomalhaut/issues/12) in [TeamEarendel/Fomalhaut](https://github.com/TeamEarendel/Fomalhaut)
 <!--END_SECTION:activity-->
 
 </details>
