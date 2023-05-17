@@ -55,11 +55,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/AlphaKR93/SchoolDday/pull/42) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-2. ❌ Closed PR [#40](https://github.com/AlphaKR93/SchoolDday/pull/40) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-3. ❌ Closed PR [#38](https://github.com/AlphaKR93/SchoolDday/pull/38) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-4. ❌ Closed PR [#36](https://github.com/AlphaKR93/SchoolDday/pull/36) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-5. ❌ Closed PR [#31](https://github.com/AlphaKR93/SchoolDday/pull/31) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+1. 🎉 Merged PR [#42](https://github.com/AlphaKR93/SchoolDday/pull/42) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+2. 💪 Opened PR [#42](https://github.com/AlphaKR93/SchoolDday/pull/42) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+3. ❌ Closed PR [#40](https://github.com/AlphaKR93/SchoolDday/pull/40) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+4. ❌ Closed PR [#38](https://github.com/AlphaKR93/SchoolDday/pull/38) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+5. ❌ Closed PR [#36](https://github.com/AlphaKR93/SchoolDday/pull/36) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
 <!--END_SECTION:activity-->
 
 </details>
