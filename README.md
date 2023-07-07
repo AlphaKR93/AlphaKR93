@@ -55,11 +55,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/AlphaKR93/SchoolDday/pull/47) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-2. 💪 Opened PR [#47](https://github.com/AlphaKR93/SchoolDday/pull/47) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-3. 🎉 Merged PR [#46](https://github.com/AlphaKR93/SchoolDday/pull/46) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-4. 💪 Opened PR [#46](https://github.com/AlphaKR93/SchoolDday/pull/46) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-5. 🎉 Merged PR [#45](https://github.com/AlphaKR93/SchoolDday/pull/45) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+1. 🗣 Commented on [#48](https://github.com/PlazmaMC/Plazma/issues/48) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+2. 🎉 Merged PR [#47](https://github.com/AlphaKR93/SchoolDday/pull/47) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+3. 💪 Opened PR [#47](https://github.com/AlphaKR93/SchoolDday/pull/47) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+4. 🎉 Merged PR [#46](https://github.com/AlphaKR93/SchoolDday/pull/46) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+5. 💪 Opened PR [#46](https://github.com/AlphaKR93/SchoolDday/pull/46) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
 <!--END_SECTION:activity-->
 
 </details>
