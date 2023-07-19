@@ -13,6 +13,7 @@
 - 🇰🇷 I'm official Korean Translator & Proofreader of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium Fabric (Unofficial)](https://crowdin.com/project/sodium-fabric)
 - 📃 Sometimes I translate projects into Korean.
 
+<!---
 ### 🌐 Socials
 [<img src="res/KakaoTalk.png" width="32px"></img>](https://open.kakao.com/me/alpha93)
 [<img src="res/Twitter.png" width="32px"></img>](https://twitter.com/dev_alphakr93)
@@ -27,12 +28,14 @@
 [<img src="res/Ko-fi.png" width="32px"></img>](https://ko-fi.com/alphakr93)
 [<img src="res/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
 [<img src="res/Kakaopay.png" width="31px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
+--->
 
 ### :speech_balloon: Discord
 [<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
 [<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
 [<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/ver/1.19.4/res/logo-900.png" width="32px"></img>](https://discord.gg/MmfC52K8A8)
 
+<!---
 ### :gear: Languages
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32px"></img>](https://dev.java/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32px"></img>](https://www.python.org/)
@@ -51,6 +54,7 @@
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg?_ga=2.161940724.914009659.1682102253-1838471150.1679665405&_gl=1*1p5cql1*_ga*MTgzODQ3MTE1MC4xNjc5NjY1NDA1*_ga_9J976DJZ68*MTY4MjEwMjI1Mi4zLjAuMTY4MjEwMjI1Mi42MC4wLjA." width="32px"></img>](https://www.jetbrains.com/idea/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_ga=2.161940724.914009659.1682102253-1838471150.1679665405&_gl=1*1da02wd*_ga*MTgzODQ3MTE1MC4xNjc5NjY1NDA1*_ga_9J976DJZ68*MTY4MjEwMjI1Mi4zLjEuMTY4MjEwMjI4OC4yNC4wLjA." width="32px"></img>](https://www.jetbrains.com/pycharm/)
 [<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg?_ga=2.161940724.914009659.1682102253-1838471150.1679665405&_gl=1*ll1geq*_ga*MTgzODQ3MTE1MC4xNjc5NjY1NDA1*_ga_9J976DJZ68*MTY4MjEwMjI1Mi4zLjEuMTY4MjEwMjI5Ny4xNS4wLjA." width="32px"></img>](https://www.jetbrains.com/webstorm/)
+--->
 
 <details><summary>:zap: Recent Activity</summary>
 
