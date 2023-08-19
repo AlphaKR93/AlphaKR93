@@ -1,34 +1,21 @@
 <div align="center">
 
 # Hi 👋, I'm Alpha!
-### :kr: Korean Full-stack Developer & Translator & Student
+### :kr: Korean Student / Full-stack Developer / Translator
 
 [![](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr)
 [![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
 </div>
 
 - :boy: He/Him
-- :desktop_computer: I'm currently developing in [TeamEarendel](https://github.com/TeamEarendel) and [PlazmaMC](https://github.com/PlazmaMC)
-- :newspaper_roll: Also, I'm working as a guide at [MDD](https://discord.gg/AZwXTA9Pgx) and [MCC](https://discord.gg/nnkecH6n24).
-- 🇰🇷 I'm official Korean Translator & Proofreader of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium Fabric (Unofficial)](https://crowdin.com/project/sodium-fabric)
-- 📃 Sometimes I translate projects into Korean.
+- :desktop_computer: Currently developing in [TeamEarendel](https://github.com/TeamEarendel) and [PlazmaMC](https://github.com/PlazmaMC)
+- :newspaper_roll: Working as a guide & journalist at [MDD](https://discord.gg/AZwXTA9Pgx) and [MCC](https://discord.gg/nnkecH6n24).
+- 🇰🇷 Official Korean Translator & Proofreader of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium Fabric (Unofficial)](https://crowdin.com/project/sodium-fabric)
+- 📜 Translated many projects into Korean
 
-<!---
-### 🌐 Socials
-[<img src="res/KakaoTalk.png" width="32px"></img>](https://open.kakao.com/me/alpha93)
-[<img src="res/Twitter.png" width="32px"></img>](https://twitter.com/dev_alphakr93)
-[<img src="res/Facebook.png" width="32px"></img>](https://www.facebook.com/alphakr93)
-[<img src="res/Instagram.png" width="32px"></img>](https://www.instagram.com/alphakr93)
-[<img src="res/YouTube.png" width="32px"></img>](https://www.youtube.com/channel/UCD80I32EKZ00pFZdxenHy-g)
-[<img src="res/Steam.png" width="32px"></img>](https://steamcommunity.com/id/alphakr93/)
-[<img src="res/Baekjoon.png" width="32px"></img>](https://www.acmicpc.net/user/alphakr93)
-[<img src="res/StackOverflow.png" width="32px"></img>](https://stackoverflow.com/users/18240209/alpha)
+### [📚 블로그](https://blog.alpha93.kr)
 
-### :money_with_wings: Support
-[<img src="res/Ko-fi.png" width="32px"></img>](https://ko-fi.com/alphakr93)
-[<img src="res/Toss.png" width="32px"></img>](https://toss.me/alphakr93)
-[<img src="res/Kakaopay.png" width="31px"></img>](https://qr.kakaopay.com/FPQhdrTiU)
---->
+### [🌐 Socials](https://linktr.ee/alphakr93)
 
 ### :speech_balloon: Discord
 [<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
