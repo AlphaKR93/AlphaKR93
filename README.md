@@ -5,6 +5,8 @@
 
 [![](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr)
 [![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
+
+### [📚 블로그](https://blog.alpha93.kr) | [🌐 Socials](https://linktr.ee/alphakr93)
 </div>
 
 - :boy: He/Him
@@ -12,10 +14,6 @@
 - :newspaper_roll: Working as a guide & journalist at [MDD](https://discord.gg/AZwXTA9Pgx) and [MCC](https://discord.gg/nnkecH6n24).
 - 🇰🇷 Official Korean Translator & Proofreader of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium Fabric (Unofficial)](https://crowdin.com/project/sodium-fabric)
 - 📜 Translated many projects into Korean
-
-### [📚 블로그](https://blog.alpha93.kr)
-
-### [🌐 Socials](https://linktr.ee/alphakr93)
 
 ### :speech_balloon: Discord
 [<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
