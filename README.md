@@ -10,6 +10,8 @@
 [![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
 </div>
 
+### I will not be active from August 21st to October 31st due to the school exam period. 
+
 - :boy: He/Him
 - :desktop_computer: Currently developing in [TeamEarendel](https://github.com/TeamEarendel) and [PlazmaMC](https://github.com/PlazmaMC)
 - :newspaper_roll: Working as a guide & journalist at [MDD](https://discord.gg/AZwXTA9Pgx) and [MCC](https://discord.gg/nnkecH6n24).
