@@ -3,10 +3,10 @@
 # Hi 👋, I'm Alpha!
 ### :kr: Korean Student / Full-stack Developer / Translator
 
+### [📚 블로그](https://blog.alpha93.kr) | [🌐 Socials](https://linktr.ee/alphakr93)
+
 [![](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr)
 [![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
-
-### [📚 블로그](https://blog.alpha93.kr) | [🌐 Socials](https://linktr.ee/alphakr93)
 </div>
 
 - :boy: He/Him
