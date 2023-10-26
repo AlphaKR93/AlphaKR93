@@ -47,8 +47,8 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/AlphaKR93/SchoolDday/pull/82) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-2. 🗣 Commented on [#335](https://github.com/RikkaApps/Shizuku/issues/335#issuecomment-1696526805) in [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
+1. 🎉 Merged PR [#82](https://github.com/AlphaKR93/SchoolDday/pull/82) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+2. 💪 Opened PR [#82](https://github.com/AlphaKR93/SchoolDday/pull/82) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
 3. 💪 Opened PR [#80](https://github.com/NotroDev/SkEditorPlus/pull/80) in [NotroDev/SkEditorPlus](https://github.com/NotroDev/SkEditorPlus)
 4. 🎉 Merged PR [#58](https://github.com/AlphaKR93/SchoolDday/pull/58) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
 5. 🎉 Merged PR [#59](https://github.com/AlphaKR93/SchoolDday/pull/59) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
