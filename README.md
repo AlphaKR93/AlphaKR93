@@ -45,11 +45,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 3.3.0.3](https://github.com/AlphaKR93/SchoolDday/releases/tag/3.3.0.3) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-2. 🚀 Published release [Version 3.3.0.2](https://github.com/AlphaKR93/SchoolDday/releases/tag/3.3.0.2) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-3. 🎉 Merged PR [#82](https://github.com/AlphaKR93/SchoolDday/pull/82) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-4. 💪 Opened PR [#82](https://github.com/AlphaKR93/SchoolDday/pull/82) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-5. 🎉 Merged PR [#59](https://github.com/AlphaKR93/SchoolDday/pull/59) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+1. 🔒 Closed issue [#53](https://github.com/PlazmaMC/Plazma/issues/53) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+2. 🚀 Published release [Version 3.3.0.3](https://github.com/AlphaKR93/SchoolDday/releases/tag/3.3.0.3) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+3. 🚀 Published release [Version 3.3.0.2](https://github.com/AlphaKR93/SchoolDday/releases/tag/3.3.0.2) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+4. 🎉 Merged PR [#82](https://github.com/AlphaKR93/SchoolDday/pull/82) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+5. 💪 Opened PR [#82](https://github.com/AlphaKR93/SchoolDday/pull/82) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
 <!--END_SECTION:activity-->
 
 </details>
