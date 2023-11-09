@@ -45,11 +45,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [upload-1](https://github.com/AlphaKR93/Dropplane/releases/tag/upload-1) in [AlphaKR93/Dropplane](https://github.com/AlphaKR93/Dropplane)
-2. 🔒 Closed issue [#53](https://github.com/PlazmaMC/Plazma/issues/53) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
-3. 🚀 Published release [Version 3.3.0.3](https://github.com/AlphaKR93/SchoolDday/releases/tag/3.3.0.3) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-4. 🚀 Published release [Version 3.3.0.2](https://github.com/AlphaKR93/SchoolDday/releases/tag/3.3.0.2) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
-5. 🎉 Merged PR [#82](https://github.com/AlphaKR93/SchoolDday/pull/82) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
+1. 🚀 Published release [upload](https://github.com/AlphaKR93/Dropplane/releases/tag/upload) in [AlphaKR93/Dropplane](https://github.com/AlphaKR93/Dropplane)
+2. 🚀 Published release [upload-2](https://github.com/AlphaKR93/Dropplane/releases/tag/upload-2) in [AlphaKR93/Dropplane](https://github.com/AlphaKR93/Dropplane)
+3. 🚀 Published release [upload-1](https://github.com/AlphaKR93/Dropplane/releases/tag/upload-1) in [AlphaKR93/Dropplane](https://github.com/AlphaKR93/Dropplane)
+4. 🔒 Closed issue [#53](https://github.com/PlazmaMC/Plazma/issues/53) in [PlazmaMC/Plazma](https://github.com/PlazmaMC/Plazma)
+5. 🚀 Published release [Version 3.3.0.3](https://github.com/AlphaKR93/SchoolDday/releases/tag/3.3.0.3) in [AlphaKR93/SchoolDday](https://github.com/AlphaKR93/SchoolDday)
 <!--END_SECTION:activity-->
 
 </details>
