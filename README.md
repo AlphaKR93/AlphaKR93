@@ -1,9 +1,10 @@
 <div align="center">
 
 # Hi 👋, I'm Alpha!
-### :kr: Korean Student / Full-stack Developer / Translator
+### :kr: Korean Student / Software Engineer / Translator / Journalist
 
-### [📚 블로그](https://blog.alpha93.kr) | [🌐 Socials](https://linktr.ee/alphakr93)
+[^1]: Temporary
+### [📚 Blog[^1]](https://blog.alpha93.kr) | [🌐 Socials](https://linktr.ee/alphakr93)
 ###
 
 [![](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr)
@@ -12,14 +13,14 @@
 
 - :boy: He/Him
 - :desktop_computer: Currently developing in [TeamEarendel](https://github.com/TeamEarendel) and [PlazmaMC](https://github.com/PlazmaMC)
-- :newspaper_roll: Working as a guide & journalist at [MDD](https://discord.gg/AZwXTA9Pgx) and [MCC](https://discord.gg/nnkecH6n24).
-- 🇰🇷 Official Korean Translator & Proofreader of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium Fabric (Unofficial)](https://crowdin.com/project/sodium-fabric)
-- 📜 Translated many projects into Korean
+- :newspaper_roll: Working as a guide & journalist at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
+- :kr: Official Korean Translate proofreader of [Skript](https://github.com/SkriptLand/Skript), [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium](https://crowdin.com/project/sodium-fabric)
+- :page_with_curl: Translated many projects into Korean.
 
 ### :speech_balloon: Discord
 [<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
 [<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
-[<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/ver/1.19.4/res/logo-900.png" width="32px"></img>](https://discord.gg/MmfC52K8A8)
+[<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/main/src/resources/logo-900.png" width="32px"></img>](https://discord.gg/MmfC52K8A8)
 
 <!---
 ### :gear: Languages
