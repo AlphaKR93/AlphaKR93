@@ -46,11 +46,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Paper 1.20.3 Development Build](https://github.com/AlphaKR93/Dropplane/releases/tag/minecraft/1.20.3/paper) in [AlphaKR93/Dropplane](https://github.com/AlphaKR93/Dropplane)
-2. 💪 Opened PR [#60](https://github.com/PlazmaMC/PlazmaBukkit/pull/60) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-3. 🗣 Commented on [#58](https://github.com/PlazmaMC/PlazmaBukkit/issues/58#issuecomment-1837387456) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-4. 🔒 Closed issue [#58](https://github.com/PlazmaMC/PlazmaBukkit/issues/58) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-5. 💪 Opened PR [#59](https://github.com/PlazmaMC/PlazmaBukkit/pull/59) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. 🎉 Merged PR [#60](https://github.com/PlazmaMC/PlazmaBukkit/pull/60) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+2. 🚀 Published release [Paper 1.20.3 Development Build](https://github.com/AlphaKR93/Dropplane/releases/tag/minecraft/1.20.3/paper) in [AlphaKR93/Dropplane](https://github.com/AlphaKR93/Dropplane)
+3. 💪 Opened PR [#60](https://github.com/PlazmaMC/PlazmaBukkit/pull/60) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+4. 🗣 Commented on [#58](https://github.com/PlazmaMC/PlazmaBukkit/issues/58#issuecomment-1837387456) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+5. 🔒 Closed issue [#58](https://github.com/PlazmaMC/PlazmaBukkit/issues/58) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 <!--END_SECTION:activity-->
 
 </details>
