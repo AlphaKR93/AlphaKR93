@@ -26,7 +26,7 @@ If you would like to know my technology stack and more information, please visit
 [<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
 [<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/main/src/resources/logo-900.png" width="32px"></img>](https://discord.gg/MmfC52K8A8)
 
-### [Korea is dying](https://github.com/AlphaKR93/my-opinion-about-korea)
+### [Korea is dying](https://github.com/AlphaKR93/korea-is-dying)
 
 #### What does the nickname mean?
 Alpha is the first letter of the Greek Alphabet.   
