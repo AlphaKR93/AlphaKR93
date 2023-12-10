@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Alpha!
-### :kr: Korean Student / Software Engineer / Translator / Journalist
+# Hello, I'm Alpha.
+### Student / Software Engineer / Korean Translator / Journalist
 
 [^1]: Temporary
-### [📚 Blog[^1]](https://blog.alpha93.kr) | [🌐 Socials](https://linktr.ee/alphakr93)
+### [📚 Blog](https://blog.alpha93.kr)[^1] | [🌐 Socials](https://linktr.ee/alphakr93)
 ###
 
 [![](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr)
@@ -12,36 +12,27 @@
 </div>
 
 - :boy: He/Him
+- :mortar_board: High School Student
 - :desktop_computer: Currently developing in [TeamEarendel](https://github.com/TeamEarendel) and [PlazmaMC](https://github.com/PlazmaMC)
-- :newspaper_roll: Working as a guide & journalist at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
-- :kr: Official Korean Translate proofreader of [Skript](https://github.com/SkriptLand/Skript), [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium](https://crowdin.com/project/sodium-fabric)
+- :newspaper_roll: Working as a admin & journalist at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
+- :kr: Official Korean Translator & Proofreader of [Skript](https://github.com/SkriptLand/Skript), [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium](https://crowdin.com/project/sodium-fabric)
 - :page_with_curl: Translated many projects into Korean.
 
-### :speech_balloon: Discord
+If you would like to know my technology stack and more information, please visit [my profile site](https://alpha93.kr).[^2]
+[^2]: Work in progress
+
+### :speech_balloon: Communicate with me
 [<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
 [<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
 [<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/main/src/resources/logo-900.png" width="32px"></img>](https://discord.gg/MmfC52K8A8)
 
-<!---
-### :gear: Languages
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32px"></img>](https://dev.java/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32px"></img>](https://www.python.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32px"></img>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32px"></img>](https://www.typescriptlang.org/)
+### [Korea is dying](https://github.com/AlphaKR93/my-opinion-about-korea)
 
-#### 🔧 Frameworks
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32px"></img>](https://react.dev/)
-[<img src="res/NextJS.svg" width="32px"></img>](https://nextjs.org/)
+#### What does the nickname mean?
+Alpha is the first letter of the Greek Alphabet.   
+Also, Alpha means the earliest stage of development available to consumers.
 
-#### 🌐 Deploy tools
-[<img src="res/CloudType.png" width="32px"></img>](https://cloudtype.io/)
-[<img src="res/Vercel.svg" width="32px"></img>](https://vercel.com/)
-
-#### 🛠️ IDE
-[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg?_ga=2.161940724.914009659.1682102253-1838471150.1679665405&_gl=1*1p5cql1*_ga*MTgzODQ3MTE1MC4xNjc5NjY1NDA1*_ga_9J976DJZ68*MTY4MjEwMjI1Mi4zLjAuMTY4MjEwMjI1Mi42MC4wLjA." width="32px"></img>](https://www.jetbrains.com/idea/)
-[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_ga=2.161940724.914009659.1682102253-1838471150.1679665405&_gl=1*1da02wd*_ga*MTgzODQ3MTE1MC4xNjc5NjY1NDA1*_ga_9J976DJZ68*MTY4MjEwMjI1Mi4zLjEuMTY4MjEwMjI4OC4yNC4wLjA." width="32px"></img>](https://www.jetbrains.com/pycharm/)
-[<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg?_ga=2.161940724.914009659.1682102253-1838471150.1679665405&_gl=1*ll1geq*_ga*MTgzODQ3MTE1MC4xNjc5NjY1NDA1*_ga_9J976DJZ68*MTY4MjEwMjI1Mi4zLjEuMTY4MjEwMjI5Ny4xNS4wLjA." width="32px"></img>](https://www.jetbrains.com/webstorm/)
---->
+Like this, Alpha embodies my motto to be the first and the best in the world.
 
 <details><summary>:zap: Recent Activity</summary>
 
