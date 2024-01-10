@@ -37,11 +37,11 @@ Like this, Alpha embodies my motto to be the first and the best in the world.
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [upload-6](https://github.com/AlphaKR93/Dropplane/releases/tag/upload-6) in [AlphaKR93/Dropplane](https://github.com/AlphaKR93/Dropplane)
-2. 💪 Opened PR [#62](https://github.com/PlazmaMC/PlazmaBukkit/pull/62) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-3. 💪 Opened PR [#61](https://github.com/PlazmaMC/PlazmaBukkit/pull/61) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-4. 🗣 Commented on [#57](https://github.com/PlazmaMC/PlazmaBukkit/issues/57#issuecomment-1848203399) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-5. 🎉 Merged PR [#59](https://github.com/PlazmaMC/PlazmaBukkit/pull/59) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. 🗣 Commented on [#57](https://github.com/PlazmaMC/PlazmaBukkit/issues/57#issuecomment-1885033301) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+2. 🔒 Closed issue [#57](https://github.com/PlazmaMC/PlazmaBukkit/issues/57) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+3. 🚀 Published release [upload-6](https://github.com/AlphaKR93/Dropplane/releases/tag/upload-6) in [AlphaKR93/Dropplane](https://github.com/AlphaKR93/Dropplane)
+4. 💪 Opened PR [#62](https://github.com/PlazmaMC/PlazmaBukkit/pull/62) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+5. 💪 Opened PR [#61](https://github.com/PlazmaMC/PlazmaBukkit/pull/61) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 <!--END_SECTION:activity-->
 
 </details>
