@@ -37,11 +37,11 @@ Like this, Alpha embodies my motto to be the first and the best in the world.
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/PlazmaMC/PlazmaBukkit/pull/82) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-2. 🎉 Merged PR [#79](https://github.com/PlazmaMC/PlazmaBukkit/pull/79) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-3. 🎉 Merged PR [#80](https://github.com/PlazmaMC/PlazmaBukkit/pull/80) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-4. 💪 Opened PR [#81](https://github.com/PlazmaMC/PlazmaBukkit/pull/81) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-5. 💪 Opened PR [#80](https://github.com/PlazmaMC/PlazmaBukkit/pull/80) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. 🎉 Merged PR [#82](https://github.com/PlazmaMC/PlazmaBukkit/pull/82) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+2. 💪 Opened PR [#82](https://github.com/PlazmaMC/PlazmaBukkit/pull/82) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+3. 🎉 Merged PR [#79](https://github.com/PlazmaMC/PlazmaBukkit/pull/79) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+4. 🎉 Merged PR [#80](https://github.com/PlazmaMC/PlazmaBukkit/pull/80) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+5. 💪 Opened PR [#81](https://github.com/PlazmaMC/PlazmaBukkit/pull/81) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 <!--END_SECTION:activity-->
 
 </details>
