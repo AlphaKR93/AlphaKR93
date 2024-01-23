@@ -26,6 +26,8 @@ If you would like to know my technology stack and more information, please visit
 [<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
 [<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/main/src/resources/logo-900.png" width="32px"></img>](https://discord.gg/MmfC52K8A8)
 
+<details><summary>:zap: Recent Activity</summary>
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#85](https://github.com/PlazmaMC/PlazmaBukkit/pull/85) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 2. 🎉 Merged PR [#83](https://github.com/PlazmaMC/PlazmaBukkit/pull/83) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
