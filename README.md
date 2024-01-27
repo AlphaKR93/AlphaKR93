@@ -29,11 +29,11 @@ If you would like to know my technology stack and more information, please visit
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/PlazmaMC/PlazmaBukkit/pull/87) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-2. 🎉 Merged PR [#86](https://github.com/PlazmaMC/PlazmaBukkit/pull/86) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-3. 🎉 Merged PR [#85](https://github.com/PlazmaMC/PlazmaBukkit/pull/85) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-4. 💪 Opened PR [#87](https://github.com/PlazmaMC/PlazmaBukkit/pull/87) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-5. 💪 Opened PR [#86](https://github.com/PlazmaMC/PlazmaBukkit/pull/86) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. 🚀 Published release [Plazma 1.20.1 Experimental Build #1](https://github.com/AlphaKR93/Storage/releases/tag/minecraft/1.20.1/plazma) in [AlphaKR93/Storage](https://github.com/AlphaKR93/Storage)
+2. 🎉 Merged PR [#87](https://github.com/PlazmaMC/PlazmaBukkit/pull/87) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+3. 🎉 Merged PR [#86](https://github.com/PlazmaMC/PlazmaBukkit/pull/86) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+4. 🎉 Merged PR [#85](https://github.com/PlazmaMC/PlazmaBukkit/pull/85) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+5. 💪 Opened PR [#87](https://github.com/PlazmaMC/PlazmaBukkit/pull/87) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 <!--END_SECTION:activity-->
 
 </details>
