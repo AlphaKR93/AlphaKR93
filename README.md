@@ -29,11 +29,11 @@ If you would like to know my technology stack and more information, please visit
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/SkEditorTeam/SkEditor/pull/31) in [SkEditorTeam/SkEditor](https://github.com/SkEditorTeam/SkEditor)
-2. ❗ Opened issue [#90](https://github.com/PlazmaMC/PlazmaBukkit/issues/90) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-3. ❗ Opened issue [#89](https://github.com/PlazmaMC/PlazmaBukkit/issues/89) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-4. 🚀 Published release [Plazma 1.20.1 Experimental Build #1](https://github.com/AlphaKR93/Storage/releases/tag/minecraft/1.20.1/plazma) in [AlphaKR93/Storage](https://github.com/AlphaKR93/Storage)
-5. 🎉 Merged PR [#87](https://github.com/PlazmaMC/PlazmaBukkit/pull/87) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. 🗣 Commented on [#93](https://github.com/PlazmaMC/PlazmaBukkit/issues/93#issuecomment-1962807837) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+2. 🔒 Closed issue [#93](https://github.com/PlazmaMC/PlazmaBukkit/issues/93) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+3. ❗ Opened issue [#93](https://github.com/PlazmaMC/PlazmaBukkit/issues/93) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+4. 🗣 Commented on [#92](https://github.com/PlazmaMC/PlazmaBukkit/issues/92#issuecomment-1962807813) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+5. 🔒 Closed issue [#92](https://github.com/PlazmaMC/PlazmaBukkit/issues/92) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 <!--END_SECTION:activity-->
 
 </details>
