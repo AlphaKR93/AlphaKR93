@@ -29,11 +29,11 @@ If you would like to know my technology stack and more information, please visit
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/PlazmaMC/PlazmaBukkit/issues/90#issuecomment-1962818751) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-2. 🔒 Closed issue [#90](https://github.com/PlazmaMC/PlazmaBukkit/issues/90) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-3. 🗣 Commented on [#89](https://github.com/PlazmaMC/PlazmaBukkit/issues/89#issuecomment-1962810131) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-4. 🔒 Closed issue [#89](https://github.com/PlazmaMC/PlazmaBukkit/issues/89) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-5. 🗣 Commented on [#93](https://github.com/PlazmaMC/PlazmaBukkit/issues/93#issuecomment-1962807837) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. 🗣 Commented on [#76](https://github.com/PlazmaMC/PlazmaBukkit/issues/76#issuecomment-1965765131) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+2. 🔒 Closed issue [#76](https://github.com/PlazmaMC/PlazmaBukkit/issues/76) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+3. 🗣 Commented on [#90](https://github.com/PlazmaMC/PlazmaBukkit/issues/90#issuecomment-1962818751) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+4. 🔒 Closed issue [#90](https://github.com/PlazmaMC/PlazmaBukkit/issues/90) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+5. 🗣 Commented on [#89](https://github.com/PlazmaMC/PlazmaBukkit/issues/89#issuecomment-1962810131) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 <!--END_SECTION:activity-->
 
 </details>
