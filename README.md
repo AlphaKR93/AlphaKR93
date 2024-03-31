@@ -29,7 +29,7 @@ If you would like to know my technology stack and more information, please visit
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/PlazmaMC/PlazmaBukkit/pull/96#issuecomment-2022236612) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. 💪 Opened PR [#1](https://github.com/PlazmaMC/Document/pull/1) in [PlazmaMC/Document](https://github.com/PlazmaMC/Document)
 2. ❌ Closed PR [#96](https://github.com/PlazmaMC/PlazmaBukkit/pull/96) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 3. 🎉 Merged PR [#1](https://github.com/AlphaKR93/Revenge/pull/1) in [AlphaKR93/Revenge](https://github.com/AlphaKR93/Revenge)
 4. 💪 Opened PR [#1](https://github.com/AlphaKR93/Revenge/pull/1) in [AlphaKR93/Revenge](https://github.com/AlphaKR93/Revenge)
