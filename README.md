@@ -29,8 +29,8 @@ If you would like to know my technology stack and more information, please visit
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/PlazmaMC/PlazmaBukkit/pull/97) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-2. 🗣 Commented on [#97](https://github.com/PlazmaMC/PlazmaBukkit/pull/97#issuecomment-2080374386) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. 🗣 Commented on [#73](https://github.com/PlazmaMC/PlazmaBukkit/issues/73#issuecomment-2094512756) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+2. 🔒 Closed issue [#73](https://github.com/PlazmaMC/PlazmaBukkit/issues/73) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 3. 💪 Opened PR [#97](https://github.com/PlazmaMC/PlazmaBukkit/pull/97) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 4. 🚀 Published release [Paper 1.20.5 Mojmap Jar](https://github.com/AlphaKR93/Storage/releases/tag/mc/1.20.5/paper) in [AlphaKR93/Storage](https://github.com/AlphaKR93/Storage)
 5. 💪 Opened PR [#1](https://github.com/AlphaKR93/revanced-patches/pull/1) in [AlphaKR93/revanced-patches](https://github.com/AlphaKR93/revanced-patches)
