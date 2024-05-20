@@ -29,7 +29,7 @@ If you would like to know my technology stack and more information, please visit
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/PlazmaMC/Document/pull/4) in [PlazmaMC/Document](https://github.com/PlazmaMC/Document)
+1. ❌ Closed PR [#98](https://github.com/PlazmaMC/PlazmaBukkit/pull/98) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 2. 🗣 Commented on [#73](https://github.com/PlazmaMC/PlazmaBukkit/issues/73#issuecomment-2094512756) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 3. 🔒 Closed issue [#73](https://github.com/PlazmaMC/PlazmaBukkit/issues/73) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 4. 🚀 Published release [Paper 1.20.5 Mojmap Jar](https://github.com/AlphaKR93/Storage/releases/tag/mc/1.20.5/paper) in [AlphaKR93/Storage](https://github.com/AlphaKR93/Storage)
