@@ -1,5 +1,9 @@
 <div align="center">
 
+### 함께 참여해요: https://preview.alpha93.kr/fly?to=better-together
+
+---
+
 # Hello, I'm Alpha.
 ### Student / Software Engineer / Korean Translator / Journalist
 
