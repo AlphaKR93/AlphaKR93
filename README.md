@@ -1,22 +1,19 @@
 <div align="center">
 
-### 함께 참여해요: https://preview.alpha93.kr/fly?to=better-together
-
----
-
 # Hello, I'm Alpha.
-### Student / Software Engineer / Korean Translator / Journalist
+### Student / Developer / Korean Translator / Journalist
 
-[^1]: Temporary
-### [📚 Blog](https://blog.alpha93.kr)[^1] | [🌐 Socials](https://linktr.ee/alphakr93)
-###
+[^1]: WIP
 
+[![](https://img.shields.io/badge/Articles-555555?style=for-the-badge&logo=sanity&logoColor=white&labelColor=F03E2F)](https://alpha93.kr/)
 [![](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr)
 [![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
+[![](https://img.shields.io/badge/Socials-555555?style=for-the-badge&logo=linktree&logoColor=555555&labelColor=43E55E)](https://linktr.ee/alphakr93)
 </div>
 
 - :boy: He/Him
 - :mortar_board: High School Student
+- 📜 Java, Kotlin, Python, TypeScript, Skript, Bash, PowerShell
 - :desktop_computer: Currently developing in [TeamEarendel](https://github.com/TeamEarendel) and [PlazmaMC](https://github.com/PlazmaMC)
 - :newspaper_roll: Working as a admin & journalist at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
 - :kr: Official Korean Translator & Proofreader of [Skript](https://github.com/SkriptLand/Skript), [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium](https://crowdin.com/project/sodium-fabric)
