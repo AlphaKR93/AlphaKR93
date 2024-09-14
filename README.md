@@ -25,11 +25,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Alpha3846/SchoolDday/pull/4) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
-2. 💪 Opened PR [#3](https://github.com/Alpha3846/SchoolDday/pull/3) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
-3. 💪 Opened PR [#2](https://github.com/Alpha3846/SchoolDday/pull/2) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
-4. 💪 Opened PR [#1](https://github.com/Alpha3846/SchoolDday/pull/1) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
-5. 💪 Opened PR [#1](https://github.com/AlphaKR93/revanced-patches/pull/1) in [AlphaKR93/revanced-patches](https://github.com/AlphaKR93/revanced-patches)
+1. 💪 Opened PR [#5](https://github.com/Alpha3846/SchoolDday/pull/5) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
+2. 💪 Opened PR [#4](https://github.com/Alpha3846/SchoolDday/pull/4) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
+3. 💪 Opened PR [#3](https://github.com/Alpha3846/SchoolDday/pull/3) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
+4. 💪 Opened PR [#2](https://github.com/Alpha3846/SchoolDday/pull/2) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
+5. 💪 Opened PR [#1](https://github.com/Alpha3846/SchoolDday/pull/1) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
 <!--END_SECTION:activity-->
 
 </details>
