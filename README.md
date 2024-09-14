@@ -25,10 +25,10 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Alpha3846/SchoolDday/pull/2) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
-2. 💪 Opened PR [#1](https://github.com/Alpha3846/SchoolDday/pull/1) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
-3. 🔒 Closed issue [#73](https://github.com/PlazmaMC/PlazmaBukkit/issues/73) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-4. 🚀 Published release [Paper 1.20.5 Mojmap Jar](https://github.com/AlphaKR93/Storage/releases/tag/mc/1.20.5/paper) in [AlphaKR93/Storage](https://github.com/AlphaKR93/Storage)
+1. 💪 Opened PR [#4](https://github.com/Alpha3846/SchoolDday/pull/4) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
+2. 💪 Opened PR [#3](https://github.com/Alpha3846/SchoolDday/pull/3) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
+3. 💪 Opened PR [#2](https://github.com/Alpha3846/SchoolDday/pull/2) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
+4. 💪 Opened PR [#1](https://github.com/Alpha3846/SchoolDday/pull/1) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
 5. 💪 Opened PR [#1](https://github.com/AlphaKR93/revanced-patches/pull/1) in [AlphaKR93/revanced-patches](https://github.com/AlphaKR93/revanced-patches)
 <!--END_SECTION:activity-->
 
