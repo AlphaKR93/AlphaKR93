@@ -25,8 +25,8 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/PlazmaMC/PlazmaBukkit/issues/101#issuecomment-2425260128) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-2. 💪 Opened PR [#4](https://github.com/Alpha3846/SchoolDday/pull/4) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
+1. 🚀 Published release [Development build for 1.21.1](https://github.com/PlazmaMC/PlazmaBukkit/releases/tag/build/1.21.1/latest) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+2. 🗣 Commented on [#101](https://github.com/PlazmaMC/PlazmaBukkit/issues/101#issuecomment-2425260128) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 3. 💪 Opened PR [#3](https://github.com/Alpha3846/SchoolDday/pull/3) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
 4. 💪 Opened PR [#2](https://github.com/Alpha3846/SchoolDday/pull/2) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
 5. 💪 Opened PR [#1](https://github.com/Alpha3846/SchoolDday/pull/1) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
