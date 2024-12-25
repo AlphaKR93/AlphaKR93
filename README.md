@@ -25,11 +25,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/PlazmaMC/PlazmaBukkit/pull/104) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-2. 💪 Opened PR [#104](https://github.com/PlazmaMC/PlazmaBukkit/pull/104) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-3. 💪 Opened PR [#103](https://github.com/PlazmaMC/PlazmaBukkit/pull/103) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-4. 🚀 Published release [Plazma 1.21.3 with Plazmaclip](https://github.com/AlphaKR93/AlphaKR93/releases/tag/2024/11/03-plazma-1-21-3-with-plazmaclip) in [AlphaKR93/AlphaKR93](https://github.com/AlphaKR93/AlphaKR93)
-5. 💪 Opened PR [#1](https://github.com/Alpha3846/SchoolDday/pull/1) in [Alpha3846/SchoolDday](https://github.com/Alpha3846/SchoolDday)
+1. 🔒 Closed issue [#105](https://github.com/PlazmaMC/PlazmaBukkit/issues/105) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+2. ❗ Opened issue [#105](https://github.com/PlazmaMC/PlazmaBukkit/issues/105) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+3. 🎉 Merged PR [#104](https://github.com/PlazmaMC/PlazmaBukkit/pull/104) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+4. 💪 Opened PR [#104](https://github.com/PlazmaMC/PlazmaBukkit/pull/104) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+5. 💪 Opened PR [#103](https://github.com/PlazmaMC/PlazmaBukkit/pull/103) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 <!--END_SECTION:activity-->
 
 </details>
