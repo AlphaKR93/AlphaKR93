@@ -25,11 +25,11 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#107](https://github.com/PlazmaMC/PlazmaBukkit/issues/107) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-2. 💪 Opened PR [#106](https://github.com/PlazmaMC/PlazmaBukkit/pull/106) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-3. 🔒 Closed issue [#105](https://github.com/PlazmaMC/PlazmaBukkit/issues/105) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-4. ❗ Opened issue [#105](https://github.com/PlazmaMC/PlazmaBukkit/issues/105) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
-5. 🎉 Merged PR [#104](https://github.com/PlazmaMC/PlazmaBukkit/pull/104) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. 🚀 Published release [resources](https://github.com/AlphaKR93/AlphaKR93/releases/tag/2025/01/05/resources) in [AlphaKR93/AlphaKR93](https://github.com/AlphaKR93/AlphaKR93)
+2. ❗ Opened issue [#107](https://github.com/PlazmaMC/PlazmaBukkit/issues/107) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+3. 💪 Opened PR [#106](https://github.com/PlazmaMC/PlazmaBukkit/pull/106) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+4. 🔒 Closed issue [#105](https://github.com/PlazmaMC/PlazmaBukkit/issues/105) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+5. ❗ Opened issue [#105](https://github.com/PlazmaMC/PlazmaBukkit/issues/105) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 <!--END_SECTION:activity-->
 
 </details>
