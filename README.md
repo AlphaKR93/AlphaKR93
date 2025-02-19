@@ -19,7 +19,6 @@
 
 ### :speech_balloon: Communicate with me
 [<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
-[<img src="res/MCC.png" width="32px"></img>](https://discord.gg/nnkecH6n24)
 [<img src="https://raw.githubusercontent.com/PlazmaMC/Plazma/main/src/resources/logo-900.png" width="32px"></img>](https://discord.gg/MmfC52K8A8)
 
 <details><summary>:zap: Recent Activity</summary>
