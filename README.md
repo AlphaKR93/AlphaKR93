@@ -12,7 +12,7 @@
 </div>
 
 - :boy: He/Him, High School Student
-- :scroll: Java, Kotlin, Python, TypeScript, Skript, Bash, PowerShell
+- :scroll: Kotlin, TypeScript, Python, Rust, Java, etc.
 - :desktop_computer: Currently developing in [TeamEarendel](https://github.com/TeamEarendel) and [PlazmaMC](https://github.com/PlazmaMC)
 - :newspaper_roll: Working as a admin & journalist at [MDD](https://discord.gg/AZwXTA9Pgx) & [MCC](https://discord.gg/nnkecH6n24).
 - :kr: Official Korean Translator & Proofreader of [Skript](https://github.com/SkriptLand/Skript), [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), [Sodium Extra](https://modrinth.com/mod/sodium-extra) and [Sodium](https://crowdin.com/project/sodium-fabric)
