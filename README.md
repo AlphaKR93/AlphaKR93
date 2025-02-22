@@ -16,8 +16,7 @@
 - :newspaper_roll: Working as a Guide & Journalist at [MDD](https://discord.gg/AZwXTA9Pgx)
 - :kr: Official Korean Translator & Proofreader of [Skript](https://github.com/SkriptLand/Skript), [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) and [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 
-### :speech_balloon: Communicate with me
-[<img src="res/MDD.png" width="32px"></img>](https://discord.gg/AZwXTA9Pgx)
+---
 
 <details><summary>:zap: Recent Activity</summary>
 
@@ -30,10 +29,6 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-#
-
-<div align="center">
 
 <details><summary>✅ Actions</summary>
 
@@ -58,4 +53,3 @@
 [<img src="https://github-profile-trophy.vercel.app/?username=AlphaKR93&theme=alduin&margin-w=5&margin-h=5"></img>](https://github.com/AlphaKR93)
 
 </details>
-</div>
