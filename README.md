@@ -21,7 +21,7 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#110](https://github.com/PlazmaMC/PlazmaBukkit/issues/110) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. ❗ Opened issue [#1](https://github.com/TeamMDD/CraftDSL/issues/1) in [TeamMDD/CraftDSL](https://github.com/TeamMDD/CraftDSL)
 2. 💪 Opened PR [#109](https://github.com/PlazmaMC/PlazmaBukkit/pull/109) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 3. ❗ Opened issue [#108](https://github.com/PlazmaMC/PlazmaBukkit/issues/108) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 4. 🚀 Published release [resources](https://github.com/AlphaKR93/AlphaKR93/releases/tag/2025/01/05/resources) in [AlphaKR93/AlphaKR93](https://github.com/AlphaKR93/AlphaKR93)
