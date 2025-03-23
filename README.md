@@ -21,9 +21,9 @@
 <details><summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1110](https://github.com/1Password/for-open-source/issues/1110) in [1Password/for-open-source](https://github.com/1Password/for-open-source)
-2. ❗ Opened issue [#1](https://github.com/TeamMDD/CraftDSL/issues/1) in [TeamMDD/CraftDSL](https://github.com/TeamMDD/CraftDSL)
-3. ❗ Opened issue [#108](https://github.com/PlazmaMC/PlazmaBukkit/issues/108) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+1. ❌ Closed PR [#109](https://github.com/PlazmaMC/PlazmaBukkit/pull/109) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
+2. ❗ Opened issue [#1110](https://github.com/1Password/for-open-source/issues/1110) in [1Password/for-open-source](https://github.com/1Password/for-open-source)
+3. ❗ Opened issue [#1](https://github.com/TeamMDD/CraftDSL/issues/1) in [TeamMDD/CraftDSL](https://github.com/TeamMDD/CraftDSL)
 4. 🚀 Published release [resources](https://github.com/AlphaKR93/AlphaKR93/releases/tag/2025/01/05/resources) in [AlphaKR93/AlphaKR93](https://github.com/AlphaKR93/AlphaKR93)
 5. ❗ Opened issue [#107](https://github.com/PlazmaMC/PlazmaBukkit/issues/107) in [PlazmaMC/PlazmaBukkit](https://github.com/PlazmaMC/PlazmaBukkit)
 <!--END_SECTION:activity-->
