@@ -3,15 +3,13 @@
 # Hello, I'm Alpha.
 ### Student / Developer / Korean Translator / Journalist
 
-[^1]: WIP
-
-[![](https://img.shields.io/badge/Articles-555555?style=for-the-badge&logo=sanity&logoColor=white&labelColor=F03E2F)](https://alpha93.kr/)
-[![](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr)
-[![](https://dcbadge.vercel.app/api/shield/410763741786013697)](https://github.com/AlphaKR93)
+<!-- [![Blog](https://img.shields.io/badge/Blog-555555?style=for-the-badge&logo=sanity&logoColor=white&labelColor=F03E2F)](https://alpha93.kr/) -->
+[![Mail (dev@alpha93.kr)](https://img.shields.io/badge/-dev@alpha93.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=fcfcfc)](mailto:dev@alpha93.kr)
+[![Discord (@alpha93)](https://dcbadge.limes.pink/api/shield/410763741786013697)](https://github.com/AlphaKR93)
 </div>
 
 - :boy: He/Him, High School Student
-- :scroll: Kotlin, TypeScript, Python, Rust, Java, etc.
+- :scroll: Kotlin, TypeScript, Python, Dart, Rust, etc.
 - :desktop_computer: Currently developing in [MDD](https://github.com/TeamMDD) and [PlazmaMC](https://github.com/PlazmaMC)
 - :newspaper_roll: Working as a Guide & Journalist at [MDD](https://discord.gg/AZwXTA9Pgx)
 - :kr: Official Korean Translator & Proofreader of [Skript](https://github.com/SkriptLand/Skript), [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) and [Sodium Extra](https://modrinth.com/mod/sodium-extra)
