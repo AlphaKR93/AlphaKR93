@@ -1,0 +1,16 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "public": false,
+  "framework": "nextjs",
+  "buildCommand": "pnpm build",
+  "regions": ["icn1"],
+  "relatedProjects": ["prj_xppgyQqdLAdSVih0Dd6S6B6Wk0pA"],
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/AlphaKR93"
+    }
+  ]
+}

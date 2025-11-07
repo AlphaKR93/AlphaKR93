@@ -1,0 +1,10 @@
+### Repository meta
+/.github/
+/.*ignore
+/README.md
+/LICENSE
+
+### IDE configurations
+/.idea/
+/.zed/
+/.editorconfig
