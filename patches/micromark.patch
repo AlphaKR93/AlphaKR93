@@ -1,0 +1,26 @@
+diff --git a/dev/lib/constructs.js b/dev/lib/constructs.js
+index f5720d752e3738d7c1cbe00b25a6376e310f454c..f02202506fd32e640345f8812364ee1751da5b21 100644
+--- a/dev/lib/constructs.js
++++ b/dev/lib/constructs.js
+@@ -87,7 +87,7 @@ export const text = {
+   [codes.leftSquareBracket]: labelStartLink,
+   [codes.backslash]: [hardBreakEscape, characterEscape],
+   [codes.rightSquareBracket]: labelEnd,
+-  [codes.underscore]: attention,
++  //[codes.underscore]: attention,
+   [codes.graveAccent]: codeText
+ }
+ 
+diff --git a/lib/constructs.js b/lib/constructs.js
+index 135bfbfe74f6670bcea89586414a537d3bb9f2b3..9ebe6a7c64cf46b8e9cdd82287e791f50db4b29c 100644
+--- a/lib/constructs.js
++++ b/lib/constructs.js
+@@ -65,7 +65,7 @@ export const text = {
+   [91]: labelStartLink,
+   [92]: [hardBreakEscape, characterEscape],
+   [93]: labelEnd,
+-  [95]: attention,
++  //[95]: attention,
+   [96]: codeText
+ };
+ 
