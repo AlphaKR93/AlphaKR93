@@ -1,26 +1,15 @@
-import type {IconName} from "lucide-react/dynamic";
-import {DynamicIcon} from "lucide-react/dynamic";
-import style from "./markdown.module.css";
+import type { IconName } from "lucide-react/dynamic";
+
+import { DynamicIcon } from "lucide-react/dynamic";
+import style from "./link-likes.module.css";
+
+export * from "./_client";
 
 /**
  * Markdown format: `<icon:ICON_NAME>`
  */
 export function Icon({children}: Readonly<{children: IconName}>) {
   return <DynamicIcon name={children} size={16} fontSize={16} className={style.icon} />;
-}
-
-/**
- * Markdown format: `<t:TIMESTAMP>`
- */
-export function Timestamp({children}: Readonly<{children: string}>) {
-  return <time></time>;
-}
-
-/**
- * Markdown format: `<!-- COMMENT -->`
- */
-export function Comment({children}: Readonly<{children: string}>) {
-
 }
 
 /**

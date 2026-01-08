@@ -1,243 +1,273 @@
-import {AbbrRef, H7, Icon, Table} from "@/components/mdx";
-
 export default function() {
   return <>
-    <p>
-      해당 문서를 포함해 이 사이트의 모든 문서에서는 아래의 Markdown 문법을 사용합니다.{" "}
-      @AlphaKR93이 개인적으로 사용하는 Markdown 문법이라 하여 알파마크라고도 합니다.
-    </p>
-    <p>
-      이 문서는 여러분에게 <AbbrRef>알파마크</AbbrRef> 문법을 소개하기 위함도 있지만,{" "}
-      <AbbrRef>알파마크</AbbrRef> 컴파일러가 문서를 올바르게 파싱했는지 검증하는 데에도 사용됩니다.
-      컴파일러가 생성해야 하는 HTML 출력물은 <a href="/expected">여기</a>에서 확인할 수 있습니다.
-    </p>
-    <h2 id="id-1">단락 (Paragraph)</h2>
-    <p>
-      비어 있지 않은 줄이 연속적으로 이어지면 문단(paragraph)을 이룹니다.
-      비어있는 <b>줄</b>을 삽입하여 문단 블록을 나눌 수 있습니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"이 문장은 하나의 문단을 형성합니다."}</span>
-        <span>&#x200B;</span>
-        <span>{"이 문장은 위 문장과 다른 문단에 해당합니다."}</span>
-      </code>
-    </pre>
-    <p>이 문장은 하나의 문단을 형성합니다.</p>
-    <p>이 문장은 위 문장과 다른 문단에 해당합니다.</p>
-    <h3 id="id-1-1">줄바꿈</h3>
-    <p>
-      같은 문단에서 줄만 바꾸고 싶다면, HTML <code>{"<br>"}</code> 태그를 사용합니다.
-    </p>
-    <pre>
+    <section id="excerpt">
+      <p>
+        해당 문서를 포함해 이 사이트의 모든 문서에서는 아래의 Markdown 문법을 사용합니다.{" "}
+        @AlphaKR93이 개인적으로 사용하는 Markdown 문법이라 하여 알파마크라고도 합니다.
+      </p>
+      <p>
+        이 문서는 여러분에게 알파마크 문법을 소개하기 위함도 있지만,{" "}
+        알파마크 컴파일러가 문서를 올바르게 파싱했는지 검증하는 데에도 사용됩니다.
+        컴파일러가 생성해야 하는 HTML 출력물은 <a href="/expected">여기</a>에서 확인할 수 있습니다.
+      </p>
+    </section>
+    <section id="id-1">
+      <hgroup>
+        <h2>단락 (Paragraph)</h2>
+      </hgroup>
+      <p>
+        비어 있지 않은 줄이 연속적으로 이어지면 문단(paragraph)을 이룹니다.
+        비어있는 <b>줄</b>을 삽입하여 문단 블록을 나눌 수 있습니다.
+      </p>
+      <pre>
+        <code data-temp data-language="markdown">
+          <span>{"이 문장은 하나의 문단을 형성합니다."}</span>
+          <span>&#x200B;</span>
+          <span>{"이 문장은 위 문장과 다른 문단에 해당합니다."}</span>
+        </code>
+      </pre>
+      <p>이 문장은 하나의 문단을 형성합니다.</p>
+      <p>이 문장은 위 문장과 다른 문단에 해당합니다.</p>
+      <section id="id-1-1">
+        <hgroup>
+          <h3>줄바꿈</h3>
+        </hgroup>
+        <p>
+          같은 문단에서 줄만 바꾸고 싶다면, HTML <code>{"<br>"}</code> 태그를 사용합니다.
+        </p>
+        <pre>
       <code data-temp data-language="markdown">
         <span>{"이 문장은 하나의 문단을 형성합니다.<br/>"}</span>
         <span>{"이 문장은 위 문장과 **같은** 문단에 해당합니다."}</span>
       </code>
     </pre>
-    <p>
-      이 문장은 하나의 문단을 형성합니다.<br/>
-      이 문장은 위 문장과 <b>같은</b> 문단에 해당합니다.
-    </p>
-    <h3 id="id-1-2">서식</h3>
-    <Table>
-      <thead>
-        <tr>
-          <th><p>구문</p></th>
-          <th><p>서식</p></th>
-          <th><p>예시</p></th>
-          <th><p>출력</p></th>
-          <th><p>출력 (raw)</p></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>
-            <p><code>**</code></p>
-          </td>
-          <td>
-            <p>굵게</p>
-          </td>
-          <td>
-            <p><code>**굵게**</code></p>
-          </td>
-          <td>
-            <p><b>굵게</b></p>
-          </td>
-          <td>
-            <p><code>{"<b>굵게</b>"}</code></p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p><code>*</code></p>
-          </td>
-          <td>
-            <p>기울이게</p>
-          </td>
-          <td>
-            <p><code>*기울이게*</code></p>
-          </td>
-          <td>
-            <p><i>기울이게</i></p>
-          </td>
-          <td>
-            <p><code>{"<i>기울이게</i>"}</code></p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p><code>__</code></p>
-          </td>
-          <td>
-            <p>밑줄</p>
-          </td>
-          <td>
-            <p><code>__밑줄__</code></p>
-          </td>
-          <td>
-            <p><u>밑줄</u></p>
-          </td>
-          <td>
-            <p><code>{"<u>밑줄</u>"}</code></p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p><code>~~</code></p>
-          </td>
-          <td>
-            <p>취소선</p>
-          </td>
-          <td>
-            <p><code>~~취소선~~</code></p>
-          </td>
-          <td>
-            <p><s>취소선</s></p>
-          </td>
-          <td>
-            <p><code>{"<s>취소선</s>"}</code></p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <p><code>==</code></p>
-          </td>
-          <td>
-            <p>하이라이트</p>
-          </td>
-          <td>
-            <p><code>==하이라이트==</code></p>
-          </td>
-          <td>
-            <p><mark>하이라이트</mark></p>
-          </td>
-          <td>
-            <p><code>{"<mark>하이라이트</mark>"}</code></p>
-          </td>
-        </tr>
-      </tbody>
-    </Table>
-    <p>
-      CommonMark 기울임(<code>_</code>)은 밑줄과 충돌할 수 있으므로,{" "}
-      <AbbrRef>알파마크</AbbrRef>에서는 사용하지 않습니다.
-    </p>
-    <details>
-      <summary><h5>밑줄 테스트</h5></summary>
-      <p>
-        <u>밑줄</u>,{" "}
-        <u> 띄어쓰기 </u>,{" "}
-        a<u>b</u>c,
-        a_b,
-        a<u> </u>b,
-        _뭣도 아님_
-      </p>
-      <p>
-        <code>__밑줄 없어야 함__</code>,{" "}
-        <u><code>이건 있어야 함</code></u>
-      </p>
-    </details>
-    <h3 id="id-1-3">코드</h3>
-    <p>
-      백틱(<code>`</code>)을 사용하면 코드를 삽입할 수 있습니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"코드 안에서 백틱을 사용해야 하는 경우, `` `이렇게` `` 바깥 백틱의 개수를 늘리면 됩니다."}</span>
-      </code>
-    </pre>
-    <p>
-      코드 안에서 백틱을 사용해야 하는 경우, <code>`이렇게`</code> 바깥 백틱의 개수를 늘리면 됩니다.
-    </p>
-    <p>
-      인라인 코드의 시작 다음(<code>`` `</code>) 또는 끝 이전(<code>` ``</code>)에 백틱이 있으면, 그 사이의 공백은 자동으로 제거됩니다.
-    </p>
-    <h3 id="id-1-4">첨자</h3>
-    <Table>
-      <thead>
-      <tr>
-        <th><p>구문</p></th>
-        <th><p>서식</p></th>
-        <th><p>예시</p></th>
-        <th><p>출력</p></th>
-        <th><p>출력 (raw)</p></th>
-      </tr>
-      </thead>
-      <tbody>
-      <tr>
-        <td>
-          <p><code>^^</code></p>
-        </td>
-        <td>
-          <p>윗첨자</p>
-        </td>
-        <td>
-          <p><code>e^^i{"&pi;"}^^</code></p>
-        </td>
-        <td>
-          <p>e<sup>i&pi;</sup></p>
-        </td>
-        <td>
-          <p><code>e<sup>i&pi;</sup></code></p>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p><code>,,</code></p>
-        </td>
-        <td>
-          <p>아랫첨자</p>
-        </td>
-        <td>
-          <p><code>H,,2,,O</code></p>
-        </td>
-        <td>
-          <p>H<sub>2</sub>O</p>
-        </td>
-        <td>
-          <p><code>H<sub>2</sub>O</code></p>
-        </td>
-      </tr>
-      </tbody>
-    </Table>
-    <h3 id="id-1-5">고급 서식 지정</h3>
-    <ul>
-      <li>
         <p>
-          중요 (<code>{"<strong/>"}</code>)<br/>
-          예: <strong>Security Advisory: React2Shell & two new vulnerabilities</strong>
+          이 문장은 하나의 문단을 형성합니다.<br/>
+          이 문장은 위 문장과 <b>같은</b> 문단에 해당합니다.
         </p>
-      </li>
-      <li>
+      </section>
+      <section id="id-1-2">
+        <hgroup>
+          <h3>서식</h3>
+        </hgroup>
+        <figure>
+          <table>
+            <thead>
+              <tr>
+                <th><p>구문</p></th>
+                <th><p>서식</p></th>
+                <th><p>예시</p></th>
+                <th><p>출력</p></th>
+                <th><p>출력 (raw)</p></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <p><code>**</code></p>
+                </td>
+                <td>
+                  <p>굵게</p>
+                </td>
+                <td>
+                  <p><code>**굵게**</code></p>
+                </td>
+                <td>
+                  <p><b>굵게</b></p>
+                </td>
+                <td>
+                  <p><code>{"<b>굵게</b>"}</code></p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><code>*</code></p>
+                </td>
+                <td>
+                  <p>기울이게</p>
+                </td>
+                <td>
+                  <p><code>*기울이게*</code></p>
+                </td>
+                <td>
+                  <p><i>기울이게</i></p>
+                </td>
+                <td>
+                  <p><code>{"<i>기울이게</i>"}</code></p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><code>__</code></p>
+                </td>
+                <td>
+                  <p>밑줄</p>
+                </td>
+                <td>
+                  <p><code>__밑줄__</code></p>
+                </td>
+                <td>
+                  <p><u>밑줄</u></p>
+                </td>
+                <td>
+                  <p><code>{"<u>밑줄</u>"}</code></p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><code>~~</code></p>
+                </td>
+                <td>
+                  <p>취소선</p>
+                </td>
+                <td>
+                  <p><code>~~취소선~~</code></p>
+                </td>
+                <td>
+                  <p><s>취소선</s></p>
+                </td>
+                <td>
+                  <p><code>{"<s>취소선</s>"}</code></p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><code>==</code></p>
+                </td>
+                <td>
+                  <p>하이라이트</p>
+                </td>
+                <td>
+                  <p><code>==하이라이트==</code></p>
+                </td>
+                <td>
+                  <p><mark>하이라이트</mark></p>
+                </td>
+                <td>
+                  <p><code>{"<mark>하이라이트</mark>"}</code></p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </figure>
         <p>
-          인용 (<code>{"<q/>"}</code>)<br/>
-          예: <q cite="https://www.mozilla.org/en-US/about/history/details/">Firefox 1.0 was released in 2004.</q>
+          CommonMark 기울임(<code>_</code>)은 밑줄과 충돌할 수 있으므로,{" "}
+          알파마크에서는 사용하지 않습니다.
         </p>
-      </li>
-    </ul>
+        {/*
+        <details>
+          <summary><h5>밑줄 테스트</h5></summary>
+          <p>
+            <u>밑줄</u>,{" "}
+            <u> 띄어쓰기 </u>,{" "}
+            a<u>b</u>c,
+            a_b,
+            a<u> </u>b,
+            _뭣도 아님_
+          </p>
+          <p>
+            <code>__밑줄 없어야 함__</code>,{" "}
+            <u><code>이건 있어야 함</code></u>
+          </p>
+        </details>
+         */}
+      </section>
+      <section id="id-1-3">
+        <hgroup>
+          <h3>코드</h3>
+        </hgroup>
+        <p>
+          백틱(<code>`</code>)을 사용하면 코드를 삽입할 수 있습니다.
+        </p>
+        <pre>
+          <code data-temp data-language="markdown">
+            <span>{"코드 안에서 백틱을 사용해야 하는 경우, `` `이렇게` `` 바깥 백틱의 개수를 늘리면 됩니다."}</span>
+          </code>
+        </pre>
+        <p>
+          코드 안에서 백틱을 사용해야 하는 경우, <code>`이렇게`</code> 바깥 백틱의 개수를 늘리면 됩니다.
+        </p>
+        <p>
+          인라인 코드의 시작 다음(<code>`` `</code>) 또는 끝 이전(<code>` ``</code>)에 백틱이 있으면, 그 사이의 공백은 자동으로 제거됩니다.
+        </p>
+      </section>
+      <section id="id-1-4">
+        <hgroup>
+          <h3>첨자</h3>
+        </hgroup>
+        <figure>
+          <table>
+            <thead>
+              <tr>
+                <th><p>구문</p></th>
+                <th><p>서식</p></th>
+                <th><p>예시</p></th>
+                <th><p>출력</p></th>
+                <th><p>출력 (raw)</p></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>
+                  <p><code>^^</code></p>
+                </td>
+                <td>
+                  <p>윗첨자</p>
+                </td>
+                <td>
+                  <p><code>e^^i{"&pi;"}^^</code></p>
+                </td>
+                <td>
+                  <p>e<sup>i&pi;</sup></p>
+                </td>
+                <td>
+                  <p><code>e<sup>i&pi;</sup></code></p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <p><code>,,</code></p>
+                </td>
+                <td>
+                  <p>아랫첨자</p>
+                </td>
+                <td>
+                  <p><code>H,,2,,O</code></p>
+                </td>
+                <td>
+                  <p>H<sub>2</sub>O</p>
+                </td>
+                <td>
+                  <p><code>H<sub>2</sub>O</code></p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </figure>
+      </section>
+      <section id="id-1-5">
+        <hgroup>
+          <h3>고급 서식 지정</h3>
+        </hgroup>
+        <ul>
+          <li>
+            <p>
+              중요 (<code>{"<strong/>"}</code>)<br/>
+              예: <strong>Security Advisory: React2Shell & two new vulnerabilities</strong>
+            </p>
+          </li>
+          <li>
+            <p>
+              인용 (<code>{"<q/>"}</code>)<br/>
+              예: <q cite="https://www.mozilla.org/en-US/about/history/details/">Firefox 1.0 was released in 2004.</q>
+            </p>
+          </li>
+        </ul>
+      </section>
+    </section>
     <h2 id="id-2">머릿말 (Heading)</h2>
     <p>
-      <AbbrRef>알파마크</AbbrRef>는 ATX 스타일을 기본으로 사용합니다.
+      알파마크는 ATX 스타일을 기본으로 사용합니다.
       기타 스타일(Setext, Wikitext 등)의 머릿말은 사용해서는 <b>안 되며</b>,
       컴파일러는 이를 처리해서는 <b>안 됩니다</b>.
     </p>
@@ -246,7 +276,7 @@ export default function() {
       이때 <code>#</code> 기호의 개수는 문단의 단계를 나타냅니다. (예: <code># 문단 (Heading)</code>)
     </p>
     <p>
-      <AbbrRef>알파마크</AbbrRef>는 문서 제목을 최상위 머릿말(HTML 태그의 <code>{"<h1/>"}</code>)로
+      알파마크는 문서 제목을 최상위 머릿말(HTML 태그의 <code>{"<h1/>"}</code>)로
       간주하기 때문에, 문서 내 머릿말은 모두 1단계씩 낮추어 처리됩니다.
       이 규칙에 따르면 6단계 머릿말(<code>######</code>)은 7단계로 파싱되는데,{" "}
       <code>{"<h7/>"}</code> 태그는 존재하지 않으므로 대신 다음과 같이 표현됩니다:
@@ -279,12 +309,12 @@ export default function() {
     <h4>1) 3단계 문단</h4>
     <h5>4단계 문단</h5>
     <h6>5단계 문단</h6>
-    <H7>6단계 문단</H7>
+    <p>6단계 문단</p>
     <h3 id="id-2-1">앵커 (Anchor)</h3>
     <p>
       모든 문단은 기본적으로 앵커를 가집니다. URL 마지막에 <code>#anchor-id</code>를 추가하면
       브라우저는 그 문단으로 이동합니다.{" "}
-      <AbbrRef>알파마크</AbbrRef>는 <a href="https://vitepress.dev/guide/markdown">VitePress</a>의 앵커 문법을 사용합니다.
+      알파마크는 <a href="https://vitepress.dev/guide/markdown">VitePress</a>의 앵커 문법을 사용합니다.
       임의로 앵커를 지정하려면 <code>{"{#<anchor-name>}"}</code>{" "}
       을 문단에 추가하시면 됩니다.
       (예: <code>### {"{#custom-anchor}"} 문단 제목</code>)
@@ -325,7 +355,7 @@ export default function() {
       <summary><h6>5단계 문단</h6></summary>
     </details>
     <details open>
-      <summary><H7>6단계 문단</H7></summary>
+      <summary><p>6단계 문단</p></summary>
     </details>
     <h3 id="id-2-3">첨부</h3>
     <p>
@@ -656,7 +686,7 @@ export default function() {
       </li>
     </ul>
     <h2 id="id-4">표</h2>
-    <Table>
+    <table>
       <thead>
       <tr>
         <th><p>Index</p></th>
@@ -676,7 +706,7 @@ export default function() {
         <td></td>
       </tr>
       </tbody>
-    </Table>
+    </table>
     <h2 id="id-5">코드 블록</h2>
     <p>
       백틱을 3개 이상(<code>```</code>) 쌓으면 코드 블록을 만들 수 있으며, 코드 블록의 시작 줄에는 파일 정보를 추가할 수 있습니다.

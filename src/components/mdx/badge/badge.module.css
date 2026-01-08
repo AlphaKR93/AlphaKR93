@@ -1,0 +1,101 @@
+@reference "tailwindcss";
+
+
+.badge {
+  @apply -mt-0.5 mb-0.5 inline-flex items-center align-middle font-medium -tracking-[.1px] select-none;
+
+  svg {
+    @apply shrink-0;
+  }
+
+  &:not([data-xs="true"]) {
+    @apply rounded-lg px-2.25 py-0.75 text-sm gap-1;
+
+    span {
+      @apply -mb-0.5;
+    }
+  }
+
+  &[data-xs="true"] {
+    @apply rounded-md px-1.75 py-0.75 text-xs gap-1;
+
+    span {
+      @apply -mb-px;
+    }
+  }
+
+  &[data-pill="true"] {
+    @apply rounded-full px-3;
+  }
+
+  &[data-stroke="true"] {
+    @apply outline -outline-offset-1;
+  }
+
+  &[data-color="red"] {
+    @apply bg-red-100 outline-red-700/30 text-red-800;
+  }
+  &[data-color="orange"] {
+    @apply bg-orange-100 outline-orange-700/30 text-orange-800;
+  }
+  &[data-color="amber"] {
+    @apply bg-amber-100 outline-amber-700/30 text-amber-800;
+  }
+  &[data-color="yellow"] {
+    @apply bg-yellow-100 outline-yellow-700/30 text-yellow-800;
+  }
+  &[data-color="lime"] {
+    @apply bg-lime-100 outline-lime-700/30 text-lime-800;
+  }
+  &[data-color="green"] {
+    @apply bg-green-100 outline-green-700/30 text-green-800;
+  }
+  &[data-color="emerald"] {
+    @apply bg-emerald-100 outline-emerald-700/30 text-emerald-800;
+  }
+  &[data-color="teal"] {
+    @apply bg-teal-100 outline-teal-700/30 text-teal-800;
+  }
+  &[data-color="cyan"] {
+    @apply bg-cyan-100 outline-cyan-700/30 text-cyan-800;
+  }
+  &[data-color="sky"] {
+    @apply bg-sky-100 outline-sky-700/30 text-sky-800;
+  }
+  &[data-color="blue"] {
+    @apply bg-blue-100 outline-blue-700/30 text-blue-800;
+  }
+  &[data-color="indigo"] {
+    @apply bg-indigo-100 outline-indigo-700/30 text-indigo-800;
+  }
+  &[data-color="violet"] {
+    @apply bg-violet-100 outline-violet-700/30 text-violet-800;
+  }
+  &[data-color="purple"] {
+    @apply bg-purple-100 outline-purple-700/30 text-purple-800;
+  }
+  &[data-color="fuchsia"] {
+    @apply bg-fuchsia-100 outline-fuchsia-700/30 text-fuchsia-800;
+  }
+  &[data-color="pink"] {
+    @apply bg-pink-100 outline-pink-700/30 text-pink-800;
+  }
+  &[data-color="rose"] {
+    @apply bg-rose-100 outline-rose-700/30 text-rose-800;
+  }
+  &[data-color="slate"] {
+    @apply bg-slate-100 outline-slate-700/30 text-slate-800;
+  }
+  &[data-color="gray"] {
+    @apply bg-gray-100 outline-gray-700/30 text-gray-800;
+  }
+  &[data-color="zinc"] {
+    @apply bg-zinc-100 outline-zinc-700/30 text-zinc-800;
+  }
+  &[data-color="neutral"] {
+    @apply bg-neutral-100 outline-neutral-700/30 text-neutral-800;
+  }
+  &[data-color="stone"] {
+    @apply bg-stone-100 outline-stone-700/30 text-stone-800;
+  }
+}

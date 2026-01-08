@@ -1,6 +1,9 @@
 import type {IconName} from "lucide-react/dynamic";
-import {DynamicIcon} from "lucide-react/dynamic";
-import style from "./markdown.module.css";
+
+import { DynamicIcon } from "lucide-react/dynamic";
+
+import style from "./badge.module.css";
+
 
 const COLOR_MAP = {
   red: "",
@@ -28,7 +31,8 @@ const COLOR_MAP = {
 } as const;
 type Colors = typeof COLOR_MAP;
 
-export function Badge({children, color, stroke, pill, xs, icon}: Readonly<{
+
+export default function Badge({children, color, stroke, pill, xs, icon}: Readonly<{
   children: string;
   color?: keyof Colors;
   stroke?: boolean;

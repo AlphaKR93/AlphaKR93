@@ -1,0 +1,17 @@
+@reference "tailwindcss";
+
+
+dfn {
+  font-style: inherit;
+
+  /* abbreviation */
+  abbr {
+    @apply text-amber-600 dark:text-amber-500 cursor-pointer hover:underline;
+    text-decoration: inherit;
+  }
+}
+
+a abbr {
+  /* abbreviation reference */
+  @apply underline underline-offset-4 decoration-dotted! decoration-zinc-700 dark:decoration-zinc-400;
+}

@@ -1,0 +1,13 @@
+@reference "tailwindcss";
+
+h6.caption {
+  @apply text-sm;
+}
+
+div.anchor {
+  @apply hidden;
+}
+
+span.spoiler {
+  @apply opacity-0 hover:opacity-100;
+}

@@ -1,0 +1,248 @@
+@reference "tailwindcss";
+
+@utility heading-border {
+  @apply border-b border-zinc-300 dark:border-zinc-700;
+}
+
+.markdownDocument {
+  @apply @container/document;
+
+  .frontMatter {
+    @apply pb-4 border-b border-zinc-300 dark:border-zinc-700;
+
+    hgroup.documentHeader {
+      time {
+        @apply text-sm text-zinc-700;
+      }
+
+      h1.title {
+        @apply mt-6 mb-1 text-3xl font-semibold;
+      }
+    }
+
+    .properties {
+    }
+  }
+
+  .content {
+    section {
+      @apply mt-4;
+
+      /* Headings */
+      hgroup {
+        @apply block-component;
+
+        h2 {
+          @apply text-markdown pb-1.5 mt-5.5 mb-6 text-2xl font-medium heading-border;
+        }
+
+        h3 {
+          @apply text-markdown pb-1 mt-5 mb-4 text-xl font-medium heading-border;
+        }
+
+        h4 {
+          @apply text-markdown pb-0.5 mt-4.5 mb-1 text-lg font-medium heading-border;
+        }
+
+        h5 {
+          @apply text-markdown pb-0 mt-4 mb-0.5 text-base font-medium;
+        }
+
+        &[id]::after {
+          @apply px-1 text-sm cursor-pointer text-zinc-400 dark:text-zinc-500;
+          content: "¶";
+        }
+      }
+
+      /* Blockquotes, Admonitions */
+      blockquote {
+        @apply block-component;
+
+        @apply pl-4 py-2 my-4 border-l-4 border-zinc-300 dark:border-zinc-700;
+
+        p {
+          @apply mt-0!;
+        }
+      }
+
+      /* Expendables */
+      details {
+        @apply block-component;
+
+        summary {
+          @apply cursor-pointer;
+        }
+      }
+
+      /* Codes */
+      pre {
+        @apply block-component select-text overflow-x-auto;
+
+        /* TODO: Remove this */
+        *[data-temp="true"] span {
+          @apply block;
+        }
+
+        code {
+        }
+
+        samp {
+        }
+      }
+
+      /* Paragraph */
+      p {
+        @apply block-component text-markdown;
+      }
+
+      /* Lists */
+      ul, ol {
+        @apply ml-6;
+
+        li {
+          /* Task item */
+          input {
+            @apply mr-2 align-middle;
+          }
+        }
+      }
+
+      /* Descriptive lists */
+      dl {
+        dt {
+          @apply font-semibold;
+        }
+
+        dl {
+          @apply ml-2;
+        }
+      }
+
+      /* Split */
+      hr {
+        @apply mx-2 my-4 border border-zinc-300 dark:border-zinc-700;
+      }
+    }
+  }
+}
+
+@utility block-component {
+  & + & {
+    @apply mt-4;
+  }
+}
+
+@utility text-markdown {
+  a {
+    /* hyperlink */
+    @apply text-blue-600 dark:text-blue-400 hover:underline;
+  }
+
+  b {
+    /* bold */
+    @apply font-semibold;
+  }
+
+  i {
+    /* italic */
+    @apply italic;
+  }
+
+  s {
+    /* strikethrough */
+    @apply line-through;
+  }
+
+  u {
+    /* underline */
+    @apply underline;
+  }
+
+  small {
+    /* small text */
+    @apply text-xs text-zinc-500 dark:text-zinc-400;
+
+    &[data-pos="t"] {
+      @apply align-text-top;
+    }
+
+    &[data-pos="b"] {
+      @apply align-text-bottom;
+    }
+  }
+
+  em {
+    font-weight: 700;
+    font-style: inherit;
+
+    em {
+      font-weight: 800;
+
+      em {
+        font-weight: 900;
+
+        em {
+          font-weight: 1000;
+        }
+      }
+    }
+  }
+
+  strong {
+    /* important */
+  }
+
+  code {
+    /* inline code */
+    @apply bg-zinc-100 dark:bg-zinc-800 rounded-sm px-0.5 mx-0.5 outline outline-zinc-300 dark:outline-zinc-600;
+  }
+}
+
+/*
+
+// Unordered list
+ul {
+  @apply list-disc;
+
+  &[data-type="*"] {
+    list-style-type: disc;
+  }
+
+  &[data-type="-"] {
+    list-style-type: circle;
+  }
+
+  &[data-type="+"] {
+    list-style-type: square;
+  }
+}
+
+// Ordered list
+ol {
+  @apply list-decimal;
+
+  &[data-type="1"] {
+    list-style-type: decimal;
+  }
+
+  &[data-type="01"] {
+    list-style-type: decimal-leading-zero;
+  }
+
+  &[data-type="I"] {
+    list-style-type: upper-roman;
+  }
+
+  &[data-type="i"] {
+    list-style-type: lower-roman;
+  }
+
+  &[data-type="A"] {
+    list-style-type: upper-latin;
+  }
+
+  &[data-type="a"] {
+    list-style-type: lower-latin;
+  }
+}
+ */
