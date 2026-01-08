@@ -6,7 +6,7 @@
         "fallback": "alpha93.kr"
       }
     },
-    "arion-webui": {
+    "protected": {
       "routing": [
         {
           "paths": [/* add paths here */]
