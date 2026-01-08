@@ -2,27 +2,57 @@ import type {IconName} from "lucide-react/dynamic";
 import {DynamicIcon} from "lucide-react/dynamic";
 import style from "./markdown.module.css";
 
-type AutolinkElement = ({value}: Readonly<{value: string}>) => Element;
+/**
+ * Markdown format: `<icon:ICON_NAME>`
+ */
+export function Icon({children}: Readonly<{children: IconName}>) {
+  return <DynamicIcon name={children} size={16} fontSize={16} className={style.icon} />;
+}
 
 /**
- * Markdown format: `<time:TIMESTAMP>`
+ * Markdown format: `<t:TIMESTAMP>`
  */
-export function Timestamp({timestamp}: Readonly<{ timestamp: string }>) {
+export function Timestamp({children}: Readonly<{children: string}>) {
   return <time></time>;
 }
 
 /**
- * Markdown format: `<gh:USERNAME>` or `<gh:USERNAME/REPO>`
+ * Markdown format: `<!-- COMMENT -->`
  */
-export function GitHub({username, repo}: Readonly<{ username: string; repo?: string }>) {
-  const content = `@${username}${repo && `/${repo}` || ""}`;
-  const href = `https://github.com/${username}${repo && `/${repo}` || ""}`;
+export function Comment({children}: Readonly<{children: string}>) {
+
+}
+
+/**
+ * Markdown format: `<gh:USERNAME>` or `<gh:USERNAME/REPO>` or `<gh:USERNAME/REPO#issue>` or `<gh:USERNAME/REPO@commit>`
+ */
+export function GitHubUser({children}: Readonly<{children: string}>) {
+  const href = `https://github.com/${children}`;
+  return <a href={href}>@{children}</a>;
+}
+
+/**
+ * Markdown format: `<gh:USERNAME>` or `<gh:USERNAME/REPO>` or `<gh:USERNAME/REPO#issue>` or `<gh:USERNAME/REPO@commit>`
+ */
+export function GitHubRepository({children}: Readonly<{children: string}>) {
+  const href = `https://github.com/${children}`;
+  return <a href={href}>{children}</a>;
+}
+
+/**
+ * Markdown format: `<gh:USERNAME>` or `<gh:USERNAME/REPO>` or `<gh:USERNAME/REPO#issue>` or `<gh:USERNAME/REPO@commit>`
+ */
+export function GitHubIssue({owner, repository, issue}: Readonly<{owner: string; repository: string; issue: number}>) {
+  const content = `${owner}/${repository}#${issue}`;
+  const href = `https://github.com/${owner}/${repository}/issues/${issue}`;
   return <a href={href}>{content}</a>;
 }
 
 /**
- * Markdown format: `<icon:ICON_NAME>`
+ * Markdown format: `<gh:USERNAME>` or `<gh:USERNAME/REPO>` or `<gh:USERNAME/REPO#issue>` or `<gh:USERNAME/REPO@commit>`
  */
-export function Icon({icon}: Readonly<{icon: IconName}>) {
-  return <DynamicIcon name={icon} size={16} fontSize={16} className={style.icon} />;
+export function GitHubCommit({owner, repository, sha}: Readonly<{owner: string; repository: string; sha: string}>) {
+  const content = `${owner}/${repository}@${sha}`;
+  const href = `https://github.com/${owner}/${repository}/commit/${sha}`;
+  return <a href={href}>{content}</a>;
 }

@@ -1,3 +1,12 @@
-*
+/*
 !/.gitignore
-!/inspectionProfiles
+
+### Generic settings
+!/biome.xml
+!/cssdialects.xml
+
+# TypeScript Compiler settings
+!/compiler.xml
+
+### Profiles
+!/inspectionProfiles/

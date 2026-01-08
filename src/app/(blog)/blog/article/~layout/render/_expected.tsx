@@ -1,41 +1,16 @@
-import {GitHub, AbbrRef, H7, Icon, Timestamp, Table} from "@/components/mdx";
+import {AbbrRef, H7, Icon, Table} from "@/components/mdx";
 
 export default function() {
   return <>
     <p>
       해당 문서를 포함해 이 사이트의 모든 문서에서는 아래의 Markdown 문법을 사용합니다.{" "}
-      <GitHub username="AlphaKR93"/>이 개인적으로 사용하는 Markdown 문법이라 하여 알파마크라고도 합니다.
+      @AlphaKR93이 개인적으로 사용하는 Markdown 문법이라 하여 알파마크라고도 합니다.
     </p>
     <p>
       이 문서는 여러분에게 <AbbrRef>알파마크</AbbrRef> 문법을 소개하기 위함도 있지만,{" "}
       <AbbrRef>알파마크</AbbrRef> 컴파일러가 문서를 올바르게 파싱했는지 검증하는 데에도 사용됩니다.
       컴파일러가 생성해야 하는 HTML 출력물은 <a href="/expected">여기</a>에서 확인할 수 있습니다.
     </p>
-    <h5>참고 문법:</h5>
-    <ul>
-      <li>
-        <p>
-          <a href="https://spec.commonmark.org/">CommonMark</a><br/>
-          Using: <a href="https://mdxjs.com/">MDX</a>
-        </p>
-      </li>
-      <li>
-        <p>
-          <a href="https://github.github.com/gfm/">GitHub Flavored Markdown (GFM)</a>
-        </p>
-      </li>
-      <li>
-        <p>
-          <a href="https://en.wikipedia.org/wiki/Help:Wikitext">Wikitext</a>
-        </p>
-      </li>
-      <li>
-        <p><a href="https://namu.wiki/w/나무위키:문법%20도움말">나무마크</a></p>
-      </li>
-      <li>
-        <p><i>Cherry-picked some Discord Markdown syntaxes</i></p>
-      </li>
-    </ul>
     <h2 id="id-1">단락 (Paragraph)</h2>
     <p>
       비어 있지 않은 줄이 연속적으로 이어지면 문단(paragraph)을 이룹니다.
@@ -942,6 +917,7 @@ export default function() {
     <p>
       일부 스키마는 특수하게 처리됩니다.
     </p>
+    {/*
     <ul data-type="*">
       <li>
         <p>
@@ -964,6 +940,7 @@ export default function() {
         </p>
       </li>
     </ul>
+    */}
     <h3 id="id-7-2">이미지</h3>
     <p>
       하이퍼링크 앞에 느낌표(<code>!</code>)를 추가하여 이미지로 삽입할 수 있습니다.

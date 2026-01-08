@@ -1,7 +1,11 @@
 import "server-only";
+
+import type { ReactNode } from "react";
+
 import matter from "gray-matter";
-import {evaluate} from "next-mdx-remote-client/rsc";
-import {mdxComponents, mdxOptions} from "@/lib/mdx";
+import { evaluate } from "next-mdx-remote-client/rsc";
+
+import { mdxComponents, mdxOptions } from "@/lib/mdx";
 
 
 interface RenderResult {
@@ -11,7 +15,7 @@ interface RenderResult {
     description?: string;
     tags?: string[];
   };
-  content: Element;
+  content: ReactNode;
 }
 
 export async function renderMdxFile(raw: string) {
@@ -24,11 +28,13 @@ export async function renderMdxFile(raw: string) {
     source,
     options: {
       mdxOptions,
+      vfileDataIntoScope: true
     },
     components: mdxComponents
   });
 
   if (compiled.error) throw compiled.error;
+  console.log(compiled.scope);
 
   return { frontmatter: data, content: compiled.content } as unknown as RenderResult;
 }

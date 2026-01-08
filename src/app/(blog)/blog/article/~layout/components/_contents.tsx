@@ -1,4 +1,4 @@
-import {Abbr, AbbrRef, Badge} from "@/components/mdx";
+import {Abbr, AbbrRef} from "@/components/mdx";
 
 export default function() {
   return <>
@@ -18,6 +18,7 @@ export default function() {
           </li>
         </ul>
       </li>
+      {/*
       <li>
         <p>
           <b>배지:</b> <code>&lt;Badge&gt;</code><br/>
@@ -202,6 +203,7 @@ export default function() {
           </li>
         </ul>
       </li>
+      */}
     </ul>
     <h2>표</h2>
     <h3>타일</h3>
