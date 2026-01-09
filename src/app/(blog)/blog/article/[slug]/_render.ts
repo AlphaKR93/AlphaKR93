@@ -1,40 +1,34 @@
 import "server-only";
 
-import type { ReactNode } from "react";
+import type { GistMetadata } from "@/lib/mdx";
 
-import matter from "gray-matter";
-import { evaluate } from "next-mdx-remote-client/rsc";
+import { unauthorized } from "next/navigation";
 
-import { mdxComponents, mdxOptions } from "@/lib/mdx";
+import { render } from "@/lib/mdx";
 
 
-interface RenderResult {
-  frontmatter: {
-    title: string;
-    summary?: string;
-    description?: string;
-    tags?: string[];
-  };
-  content: ReactNode;
-}
+export default async function fetchDocument(slug: string) {
+  // FIXME: Load from gists
+  if (!slug.startsWith("~")) unauthorized();
 
-export async function renderMdxFile(raw: string) {
-  const { data, content } = matter(raw);
+  let respProto: Response;
+  let metaProto: GistMetadata;
+  if (slug.startsWith("~")) {
+    respProto = await fetch(`${process.env.host}/_assets/~debug/articles/${slug}.mdx`);
+    if (!respProto.ok) {
+      throw new Error(`Failed to fetch MDX document: ${respProto.status} ${respProto.statusText}`, {cause: respProto});
+    }
 
-  // TODO: Add content processing steps here
-  const source = content;
+    metaProto = {
+      createdAt: Temporal.Now.instant().toString(),
+    };
+  }
 
-  const compiled = await evaluate({
-    source,
-    options: {
-      mdxOptions,
-      vfileDataIntoScope: true
-    },
-    components: mdxComponents
-  });
+  const response = respProto!;
+  const metadata = metaProto!;
 
-  if (compiled.error) throw compiled.error;
-  console.log(compiled.scope);
+  const data = await response.text();
+  const result = await render(data);
 
-  return { frontmatter: data, content: compiled.content } as unknown as RenderResult;
+  return [result, metadata] as [typeof result, GistMetadata];
 }

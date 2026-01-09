@@ -1,5 +1,3 @@
-import {Abbr, AbbrRef} from "@/components/mdx";
-
 export default function() {
   return <>
     <h2>인라인 구문</h2>
@@ -7,13 +5,13 @@ export default function() {
       <li>
         <p>
           <b>정의:</b> <code>&lt;Abbr&gt;</code><br/>
-          e.g.) <Abbr title="Lorem ipsum">Lipsum</Abbr>
+          {/*e.g.) <Abbr title="Lorem ipsum">Lipsum</Abbr>*/}
         </p>
         <ul>
           <li>
             <p>
               <b>참조:</b> <code>&lt;AbbrRef&gt;</code><br/>
-              e.g.) <AbbrRef>Lipsum</AbbrRef>
+              {/*e.g.) <AbbrRef>Lipsum</AbbrRef>*/}
             </p>
           </li>
         </ul>

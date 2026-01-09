@@ -36,11 +36,11 @@ export default function() {
           같은 문단에서 줄만 바꾸고 싶다면, HTML <code>{"<br>"}</code> 태그를 사용합니다.
         </p>
         <pre>
-      <code data-temp data-language="markdown">
-        <span>{"이 문장은 하나의 문단을 형성합니다.<br/>"}</span>
-        <span>{"이 문장은 위 문장과 **같은** 문단에 해당합니다."}</span>
-      </code>
-    </pre>
+          <code data-temp data-language="markdown">
+            <span>{"이 문장은 하나의 문단을 형성합니다.<br/>"}</span>
+            <span>{"이 문장은 위 문장과 **같은** 문단에 해당합니다."}</span>
+          </code>
+        </pre>
         <p>
           이 문장은 하나의 문단을 형성합니다.<br/>
           이 문장은 위 문장과 <b>같은</b> 문단에 해당합니다.
@@ -154,7 +154,6 @@ export default function() {
           CommonMark 기울임(<code>_</code>)은 밑줄과 충돌할 수 있으므로,{" "}
           알파마크에서는 사용하지 않습니다.
         </p>
-        {/*
         <details>
           <summary><h5>밑줄 테스트</h5></summary>
           <p>
@@ -170,7 +169,6 @@ export default function() {
             <u><code>이건 있어야 함</code></u>
           </p>
         </details>
-         */}
       </section>
       <section id="id-1-3">
         <hgroup>
@@ -913,7 +911,7 @@ export default function() {
       </code>
     </pre>
     <p>
-      <a href="../">Profile</a><br/>
+      <a href="../~layout">Profile</a><br/>
       <a href="../My Document">URL with symbols</a><br/>
       <a href="https://example.com/" title="example.com">Example Domain</a><br/>
     </p>
@@ -929,8 +927,8 @@ export default function() {
       </code>
     </pre>
     <p>
-      <a href="../" title="Profile">profile</a><br/>
-      <a href="../" title="Profile">Profile Site</a><br/>
+      <a href="../~layout" title="Profile">profile</a><br/>
+      <a href="../~layout" title="Profile">Profile Site</a><br/>
     </p>
     <p>
       꺽쇠 괄호(<code>&lt; &gt;</code>)를 사용하면 자동으로 하이퍼링크를 생성합니다.
