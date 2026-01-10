@@ -15,7 +15,7 @@ export const Comment = memo(function({ children }: Readonly<{ children: string }
   }, []);
 
   return replaced ? <></> : <><span ref={ref}/></>;
-});
+}, () => true); // Comments should not be re-rendered, since they cannot be detected by DOM
 
 export function Timestamp(
   { dateTime, ...props }: Readonly<IntrinsicElement<"time", "children" | "dateTime"> & { dateTime: string | Temporals }>

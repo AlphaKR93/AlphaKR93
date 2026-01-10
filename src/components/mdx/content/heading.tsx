@@ -9,10 +9,6 @@ export function Caption({ className, ...props }: TextElement<IntrinsicElement<"h
   return <h6 role="generic" aria-level={undefined} className={`${style.caption} ${className}`} {...props} />;
 }
 
-export function Anchor({ className, ...props }: TextElement<Omit<HTMLElementProps<HTMLHeadingElement>, "role" | "aria-level">>) {
+export function Anchor({ className, ...props }: Omit<HTMLElementProps<HTMLHeadingElement>, "role" | "aria-level" | "children" | "id"> & { readonly id: string }) {
   return <div className={`${style.anchor} ${className}`} {...props} />;
-}
-
-export function Spoiler({ className, ...props }: TextElement<IntrinsicElement<"p">>) {
-  return <p className={style.spoiler} {...props} />;
 }

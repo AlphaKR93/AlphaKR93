@@ -4,6 +4,208 @@
   @apply border-b border-zinc-300 dark:border-zinc-700;
 }
 
+/* <editor-fold defaultstate="collapsed" desc="Fixed styles"> */
+@counter-style latin-lower-fixed {
+  system: fixed;
+  symbols: "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z";
+}
+@counter-style latin-upper-fixed {
+  system: fixed;
+  symbols: "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z";
+}
+@counter-style hangul-syllable-fixed {
+  system: fixed;
+  symbols: "가" "나" "다" "라" "마" "바" "사" "아" "자" "차" "카" "타" "파" "하";
+}
+@counter-style hangul-consonant-fixed {
+  system: fixed;
+  symbols: "ㄱ" "ㄴ" "ㄷ" "ㄹ" "ㅁ" "ㅂ" "ㅅ" "ㅇ" "ㅈ" "ㅊ" "ㅋ" "ㅌ" "ㅍ" "ㅎ";
+}
+/* </editor-fold> */
+/* <editor-fold defaultstate="collapsed" desc="Generic styles"> */
+/*
+@counter-style decimal;
+@counter-style decimal-leading-zero;
+*/
+@counter-style decimal-nonascii {
+  system: fixed;
+  symbols: "⒈" "⒉" "⒊" "⒋" "⒌" "⒍" "⒎" "⒏" "⒐" "⒑" "⒒" "⒓" "⒔" "⒕" "⒖" "⒗" "⒘" "⒙" "⒚" "⒛";
+  suffix: " ";
+}
+@counter-style roman-lower {
+  system: extends lower-roman;
+}
+@counter-style roman-lower-nonascii {
+  system: fixed;
+  symbols: "ⅰ" "ⅱ" "ⅲ" "ⅳ" "ⅴ" "ⅵ" "ⅶ" "ⅷ" "ⅸ" "ⅹ" "ⅺ" "ⅻ";
+}
+@counter-style roman-upper {
+  system: extends upper-roman;
+}
+@counter-style roman-upper-nonascii {
+  system: fixed;
+  symbols: "Ⅰ" "Ⅱ" "Ⅲ" "Ⅳ" "Ⅴ" "Ⅵ" "Ⅶ" "Ⅷ" "Ⅸ" "Ⅹ" "Ⅺ" "Ⅻ";
+}
+@counter-style latin-lower {
+  system: fixed;
+  symbols: "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z";
+}
+@counter-style latin-upper {
+  system: fixed;
+  symbols: "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z";
+}
+@counter-style hangul-syllable {
+  system: fixed;
+  symbols: "가" "나" "다" "라" "마" "바" "사" "아" "자" "차" "카" "타" "파" "하";
+}
+@counter-style hangul-consonant { /* FIXME: Overridden by system */
+  system: fixed;
+  symbols: "ㄱ" "ㄴ" "ㄷ" "ㄹ" "ㅁ" "ㅂ" "ㅅ" "ㅇ" "ㅈ" "ㅊ" "ㅋ" "ㅌ" "ㅍ" "ㅎ";
+}
+/* </editor-fold> */
+/* <editor-fold defaultstate="collapsed" desc="Parenthesis suffix"> */
+@counter-style decimal-parenthesis {
+  system: extends decimal;
+  suffix: ") ";
+}
+@counter-style decimal-parenthesis-leading-zero {
+  system: extends decimal-leading-zero;
+  suffix: ") ";
+}
+@counter-style roman-lower-parenthesis {
+  system: extends lower-roman;
+  suffix: ") ";
+}
+@counter-style roman-upper-parenthesis {
+  system: extends upper-roman;
+  suffix: ") ";
+}
+@counter-style latin-lower-parenthesis {
+  system: fixed;
+  symbols: "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z";
+  suffix: ") ";
+}
+@counter-style latin-upper-parenthesis {
+  system: fixed;
+  symbols: "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z";
+  suffix: ") ";
+}
+@counter-style hangul-syllable-parenthesis {
+  system: fixed;
+  symbols: "가" "나" "다" "라" "마" "바" "사" "아" "자" "차" "카" "타" "파" "하";
+  suffix: ") ";
+}
+@counter-style hangul-consonant-parenthesis {
+  system: fixed;
+  symbols: "ㄱ" "ㄴ" "ㄷ" "ㄹ" "ㅁ" "ㅂ" "ㅅ" "ㅇ" "ㅈ" "ㅊ" "ㅋ" "ㅌ" "ㅍ" "ㅎ";
+  suffix: ") ";
+}
+/* </editor-fold> */
+/* <editor-fold defaultstate="collapsed" desc="Parenthesized"> */
+@counter-style decimal-parenthesized {
+  system: extends decimal;
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style decimal-parenthesized-leading-zero {
+  system: extends decimal-leading-zero;
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style roman-lower-parenthesized {
+  system: extends lower-roman;
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style roman-upper-parenthesized {
+  system: extends upper-roman;
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style latin-lower-parenthesized {
+  system: fixed;
+  symbols: "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z";
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style latin-upper-parenthesized {
+  system: fixed;
+  symbols: "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z";
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style hangul-syllable-parenthesized {
+  system: fixed;
+  symbols: "가" "나" "다" "라" "마" "바" "사" "아" "자" "차" "카" "타" "파" "하";
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style hangul-consonant-parenthesized {
+  system: fixed;
+  symbols: "ㄱ" "ㄴ" "ㄷ" "ㄹ" "ㅁ" "ㅂ" "ㅅ" "ㅇ" "ㅈ" "ㅊ" "ㅋ" "ㅌ" "ㅍ" "ㅎ";
+  prefix: "(";
+  suffix: ") ";
+}
+/* </editor-fold> */
+/* <editor-fold defaultstate="collapsed" desc="Parenthesized non ASCII"> */
+@counter-style decimal-parenthesized-nonascii {
+  system: fixed;
+  symbols: "⑴" "⑵" "⑶" "⑷" "⑸" "⑹" "⑺" "⑻" "⑼" "⑽" "⑾" "⑿" "⒀" "⒁" "⒂" "⒃" "⒄" "⒅" "⒆" "⒇";
+}
+
+@counter-style lower-alpha-parenthesized-nonascii {
+  system: fixed;
+  symbols: '⒜' '⒝' '⒞' '⒟' '⒠' '⒡' '⒢' '⒣' '⒤' '⒥' '⒦' '⒧' '⒨' '⒩' '⒪' '⒫' '⒬' '⒭' '⒮' '⒯' '⒰' '⒱' '⒲' '⒳' '⒴' '⒵';
+}
+
+@counter-style hangul-syllable-parenthesized-nonascii {
+  system: fixed;
+  symbols: '㈎' '㈏' '㈐' '㈑' '㈒' '㈓' '㈔' '㈕' '㈖' '㈗' '㈘' '㈙' '㈚';
+}
+
+@counter-style hangul-consonant-parenthesized-nonascii {
+  system: fixed;
+  symbols: '㈀' '㈁' '㈂' '㈃' '㈄' '㈅' '㈆' '㈇' '㈈' '㈉' '㈊' '㈋' '㈌' '㈍';
+}
+/* </editor-fold> */
+/* <editor-fold defaultstate="collapsed" desc="Circled"> */
+@counter-style decimal-circled {
+  system: fixed;
+  symbols: "①" "②" "③" "④" "⑤" "⑥" "⑦" "⑧" "⑨" "⑩" "⑪" "⑫" "⑬" "⑭" "⑮" "⑯" "⑰" "⑱" "⑲" "⑳";
+  suffix: " ";
+}
+
+@counter-style decimal-circled-leading-zero {
+  system: fixed;
+  symbols: "⓪" "②" "③" "④" "⑤" "⑥" "⑦" "⑧" "⑨" "⑩" "⑪" "⑫" "⑬" "⑭" "⑮" "⑯" "⑰" "⑱" "⑲" "⑳";
+  suffix: " ";
+}
+
+@counter-style latin-upper-circled {
+  system: fixed;
+  symbols: "Ⓐ" "Ⓑ" "Ⓒ" "Ⓓ" "Ⓔ" "Ⓕ" "Ⓖ" "Ⓗ" "Ⓘ" "Ⓙ" "Ⓚ" "Ⓛ" "Ⓜ" "Ⓝ" "Ⓞ" "Ⓟ" "Ⓠ" "Ⓡ" "Ⓢ" "Ⓣ" "Ⓤ" "Ⓥ" "Ⓦ" "Ⓧ" "Ⓨ" "Ⓩ";
+  suffix: " ";
+}
+
+@counter-style latin-lower-circled {
+  system: fixed;
+  symbols: "ⓐ" "ⓑ" "ⓒ" "ⓓ" "ⓔ" "ⓕ" "ⓖ" "ⓗ" "ⓘ" "ⓙ" "ⓚ" "ⓛ" "ⓜ" "ⓝ" "ⓞ" "ⓟ" "ⓠ" "ⓡ" "ⓢ" "ⓣ" "ⓤ" "ⓥ" "ⓦ" "ⓧ" "ⓨ" "ⓩ";
+  suffix: " ";
+}
+
+@counter-style hangul-circled {
+  system: fixed;
+  symbols: '㉮' '㉯' '㉰' '㉱' '㉲' '㉳' '㉴' '㉵' '㉶' '㉷' '㉸' '㉹' '㉺' '㉻';
+  suffix: " ";
+}
+
+@counter-style hangul-consonant-circled {
+  system: fixed;
+  symbols: '㉠' '㉡' '㉢' '㉣' '㉤' '㉥' '㉦' '㉧' '㉨' '㉩' '㉪' '㉫' '㉬' '㉭';
+  suffix: " ";
+}
+/* </editor-fold> */
+
 .markdownDocument {
   @apply @container/document;
 
@@ -25,11 +227,11 @@
   }
 
   .content {
-    section {
+    section[id] {
       @apply mt-4;
 
       /* Headings */
-      hgroup {
+      hgroup:is(:first-child) {
         h2 {
           @apply text-markdown pb-1.5 mt-5.5 mb-6 text-2xl font-medium heading-border;
         }
@@ -47,7 +249,7 @@
         }
       }
 
-      /* Blockquotes, Admonitions */
+      /* Blockquotes */
       blockquote {
         @apply pl-4 py-2 my-4 border-l-4 border-zinc-300 dark:border-zinc-700;
 
@@ -56,18 +258,22 @@
         }
       }
 
-      /* Expendables */
+      /* Accordions */
       details {
-        @apply w-full overflow-clip rounded-2xl border border-zinc-300 dark:border-zinc-700;
+        @apply w-full overflow-hidden rounded-2xl border border-zinc-300 dark:border-zinc-700;
 
         summary:is(:first-child) {
-          @apply cursor-pointer px-7 py-3 hover:bg-zinc-100 dark:hover:bg-zinc-900;
+          @apply cursor-pointer px-4 py-3 hover:bg-zinc-100 dark:hover:bg-zinc-900;
 
           transition: background-color 50ms;
 
           &::marker {
-            content: "";
+            content: none;
           }
+        }
+
+        summary:not(:first-child) {
+          @apply hidden;
         }
 
         &[open]::details-content {
@@ -77,7 +283,9 @@
 
       /* Codes */
       pre {
-        @apply select-text overflow-x-auto;
+        @apply select-text overflow-x-auto px-4 pt-3.5 pb-2 rounded-2xl outline outline-zinc-300 dark:outline-zinc-800;
+        background-color: #0d1017;
+        color: #bfbdb6;
 
         /* TODO: Remove this */
         *[data-temp="true"] span {
@@ -91,8 +299,12 @@
         }
       }
 
-      /* Paragraph */
+      /* Paragraphs */
       p {
+        @apply text-markdown;
+      }
+
+      label {
         @apply text-markdown;
       }
 
@@ -101,11 +313,69 @@
         @apply ml-6;
 
         li {
+          @apply text-markdown align-middle;
+
+          * {
+            @apply mt-0! pl-1;
+          }
+
           /* Task item */
           input {
-            @apply mr-2 align-middle;
+            @apply accent-indigo-400;
           }
         }
+      }
+
+      ul, ul ul ul ul ul, ul ul ul ul ul ul ul ul ul, ul ul ul ul ul ul ul ul ul ul ul ul ul {
+        list-style-type: disc;
+      }
+
+      ul ul, ul ul ul ul ul ul, ul ul ul ul ul ul ul ul ul ul, ul ul ul ul ul ul ul ul ul ul ul ul ul ul {
+        list-style-type: circle;
+      }
+
+      ul ul ul, ul ul ul ul ul ul ul, ul ul ul ul ul ul ul ul ul ul ul {
+        list-style-type: square;
+      }
+
+      ul ul ul ul, ul ul ul ul ul ul ul ul, ul ul ul ul ul ul ul ul ul ul ul ul {
+        list-style-type: circle;
+      }
+
+      ol {
+        @apply
+            data-[type="1."]:list-decimal
+            data-[type="0."]:list-[decimal-from-zero]
+            data-[type="01."]:list-[decimal-leading-zero]
+            data-[type="00."]:list-[decimal-leading-from-zero]
+            data-[type="I."]:list-[roman-upper]
+            data-[type="i."]:list-[roman-lower]
+            data-[type="A."]:list-[latin-upper]
+            data-[type="a."]:list-[latin-lower]
+            data-[type="가."]:list-[hangul-syllable]
+            data-[type="ㄱ."]:list-[hangul-consonant-fixed] /* FIXME: Overridden by browsers */
+            data-[type="1)"]:list-[decimal-parenthesis]
+            data-[type="0)"]:list-[decimal-parenthesis-from-zero]
+            data-[type="01)"]:list-[decimal-parenthesis-leading-zero]
+            data-[type="00)"]:list-[decimal-parenthesis-leading-from-zero]
+            data-[type="I)"]:list-[roman-upper-parenthesis]
+            data-[type="i)"]:list-[roman-lower-parenthesis]
+            data-[type="A)"]:list-[latin-upper-parenthesis]
+            data-[type="a)"]:list-[latin-lower-parenthesis]
+            data-[type="가)"]:list-[hangul-syllable-parenthesis]
+            data-[type="ㄱ)"]:list-[hangul-consonant-parenthesis]
+            data-[type="(1)"]:list-[decimal-parenthesized]
+            data-[type="(0)"]:list-[decimal-parenthesized-from-zero]
+            data-[type="(01)"]:list-[decimal-parenthesized-leading-zero]
+            data-[type="(00)"]:list-[decimal-parenthesized-leading-from-zero]
+            data-[type="(I)"]:list-[roman-upper-parenthesized]
+            data-[type="(i)"]:list-[roman-lower-parenthesized]
+            data-[type="(A)"]:list-[latin-upper-parenthesized]
+            data-[type="(a)"]:list-[latin-lower-parenthesized]
+            data-[type="(가)"]:list-[hangul-syllable-parenthesized]
+            data-[type="(ㄱ)"]:list-[hangul-consonant-parenthesized]
+            ;
+        list-style-type: disc;
       }
 
       /* Descriptive lists */
@@ -124,7 +394,7 @@
         @apply mx-2 my-4 border border-zinc-300 dark:border-zinc-700;
       }
 
-      hgroup, blockqoute, details, pre, p, ul, ol, dl {
+      div, hgroup, h6, blockqoute, figure, details, pre, p, ul, ol, dl {
         & + & {
           @apply mt-4;
         }
@@ -146,7 +416,7 @@
 
   i {
     /* italic */
-    @apply italic;
+    @apply italic mr-0.5;
   }
 
   s {
@@ -172,6 +442,11 @@
     }
   }
 
+  mark {
+    /* Highlight */
+    @apply dark:bg-amber-300/30 dark:text-white;
+  }
+
   em {
     font-weight: 700;
     font-style: inherit;
@@ -183,7 +458,11 @@
         font-weight: 900;
 
         em {
-          font-weight: 1000;
+          font-weight: 950;
+
+          em {
+            font-weight: 1000;
+          }
         }
       }
     }
@@ -195,7 +474,13 @@
 
   code {
     /* inline code */
-    @apply bg-zinc-100 dark:bg-zinc-800 rounded-sm px-0.5 mx-0.5 outline outline-zinc-300 dark:outline-zinc-600;
+    @apply rounded-sm px-0.5 py-px mx-0.5 outline outline-zinc-300 dark:outline-zinc-800;
+    background-color: #0d1017;
+    color: #bfbdb6;
+  }
+
+  kbd {
+    @apply rounded-md px-0.5 py-px mx-0.5 border shadow inset-shadow-2xs shadow-zinc-600 bg-zinc-200 border-zinc-700 dark:bg-zinc-900 dark:border-zinc-800;
   }
 }
 

@@ -11,3 +11,30 @@ div.anchor {
 span.spoiler {
   @apply opacity-0 hover:opacity-100;
 }
+
+span.taskListItem {
+  @apply align-middle text-center;
+
+  input {
+    @apply pointer-events-none align-middle;
+  }
+
+  label {
+    @apply pointer-events-none;
+  }
+}
+
+details.accordion {
+  summary:is(:first-child) {
+    .marker {
+      @apply align-middle px-2 inline-block text-base;
+      transition: rotate 50ms;
+    }
+  }
+
+  &[open] {
+    summary:is(:first-child) > .marker {
+      @apply rotate-90;
+    }
+  }
+}

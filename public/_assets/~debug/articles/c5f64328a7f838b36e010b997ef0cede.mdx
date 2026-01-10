@@ -4,6 +4,7 @@ summary: |
   이 사이트 내에서 사용하는 Markdown 문법에 대해 설명합니다.
   이 문서는 Markdown 컴파일러 테스트에도 사용됩니다.
 ---
+---
 
 해당 문서를 포함해 이 사이트의 모든 문서에서는 아래의 Markdown 문법을 사용합니다.
 <gh:AlphaKR93>이 개인적으로 사용하는 Markdown 문법이라 하여 알파마크라고도 합니다.
@@ -46,7 +47,7 @@ summary: |
 |  구문  |  서식  |  예시  |  출력  |  RAW  |
 | :---: | :---: | :---: | :---: | :---: |
 | `**` | 굵게 | `**굵게**` | **굵게** | `<b>굵게</b>` |
-| `*` | 기울임 | `*기울임*` | *기울임* | `<i>기울임</i>` |
+| `*` | 기울이게 | `*기울이게*` | *기울이게* | `<i>기울이게</i>` |
 | `~~` | 취소선 | `~~취소선~~` | ~~취소선~~ | `<s>취소선</s>` |
 | `__` | 밑줄 | `__밑줄__` | __밑줄__ | `<u>밑줄</u>` |
 | `==` | 강조 | `==강조==` | ==강조== | `<mark>강조</mark>` |
@@ -61,11 +62,11 @@ summary: |
 | `^^` | 윗첨자 | `^^윗첨자^^` | ^^윗첨자^^ | `<sup>윗첨자</sup>` |
 | `,,` | 아랫첨자 | `,,아랫첨자,,` | ,,아랫첨자,, | `<sub>아랫첨자</sub>` |
 
-## 코드 삽입
+## 코드 삽입 (Inline Code)
 
 백틱(`` ` ``)을 사용하면 코드를 삽입할 수 있습니다.
 
-> [!TIP]
+> [!NOTE]
 > 코드의 시작 또는 끝이 백틱인 경우, 그 전후 공백은 제거됩니다.
 
 ```markdown
@@ -77,29 +78,29 @@ summary: |
 
 ### 언어 지정
 
-백틱 **바로 다음**에 `{<language-name>}`을 기입하면 인라인 코드의 언어를 지정할 수 있습니다.
+백틱 **바로 다음**에 `{<language-name>}`을 기입하면 언어를 지정할 수 있습니다.
 
 ```markdown
-* Python: `{py} print("Hello, world!")`
-* Kotlin: `{kt} println("Hello, world!")`
-* TypeScript: `{ts} console.log("Hello, world!");`
+* Python: `{py} print("Hello, World!")`
+* Kotlin: `{kt} println("Hello, World!")`
+* TypeScript: `{ts} console.log("Hello, World!");`
 ```
 
 <!-- Example -->
-* Python: `{py} print("Hello, world!")`
-* Kotlin: `{kt} println("Hello, world!")`
-* TypeScript: `{ts} console.log("Hello, world!");`
+* Python: `{py} print("Hello, World!")`
+* Kotlin: `{kt} println("Hello, World!")`
+* TypeScript: `{ts} console.log("Hello, World!");`
 
 #### 키 입력
 
 언어를 `kbd`로 지정하면 인라인 코드를 키 입력처럼 표시할 수 있습니다.
 
 ```markdown
-`{kbd} Win+R`을 누른 다음, 다음 명령어를 실행합니다:
+`{kbd} Ctrl+Shift+Esc`를 누른 다음, `{kbd} Shift`를 누른 채 *재시작*을 시도하면 다른 옵션을 볼 수 있습니다.
 ```
 
 <!-- Example -->
-`{kbd} Win+R`을 누른 다음, 다음 명령어를 실행합니다:
+`{kbd} Ctrl+Shift+Esc`를 누른 다음, `{kbd} Shift`를 누른 채 *재시작*을 시도하면 다른 옵션을 볼 수 있습니다.
 
 ## 수식 삽입
 
