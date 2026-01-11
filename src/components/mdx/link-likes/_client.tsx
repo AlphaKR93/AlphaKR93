@@ -3,6 +3,8 @@
 import { IntrinsicElement } from "@/types";
 import { memo, useEffect, useRef, useState } from "react";
 
+import "temporal-polyfill/global";
+
 
 export const Comment = memo(function({ children }: Readonly<{ children: string }>) {
   const [replaced, replace] = useState(false);
@@ -24,5 +26,10 @@ export function Timestamp(
     return <Timestamp dateTime={Temporal.Instant.from(dateTime)} />;
   }
 
-  return <time dateTime={dateTime.toString()} {...props}>{dateTime.toLocaleString()}</time>;
+  const [l10n, setL10n] = useState<string>();
+  useEffect(() => {
+    setL10n(dateTime.toLocaleString());
+  }, [dateTime]);
+
+  return <time dateTime={dateTime.toString()} {...props}>{l10n ?? dateTime.toString()}</time>;
 }

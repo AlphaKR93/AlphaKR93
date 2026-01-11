@@ -1,3 +1,4 @@
-export { default as KaTeX } from "./katex";
+export * from "./katex";
 export * from "./shiki";
 export * from "./kbd";
+export { default as Mermaid } from "./mermaid";

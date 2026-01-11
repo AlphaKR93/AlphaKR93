@@ -227,7 +227,7 @@
   }
 
   .content {
-    section[id] {
+    section[id], section:is(:first-child) {
       @apply mt-4;
 
       /* Headings */

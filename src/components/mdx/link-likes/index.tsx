@@ -8,8 +8,8 @@ export * from "./_client";
 /**
  * Markdown format: `<icon:ICON_NAME>`
  */
-export function Icon({children}: Readonly<{children: IconName}>) {
-  return <DynamicIcon name={children} size={16} fontSize={16} className={style.icon} />;
+export function Icon({icon}: Readonly<{icon: IconName}>) {
+  return <DynamicIcon name={icon} size={16} fontSize={16} className={style.icon} />;
 }
 
 /**

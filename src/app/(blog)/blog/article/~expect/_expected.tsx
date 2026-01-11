@@ -8,8 +8,9 @@ import {
   KaTeX,
   Keystrokes,
   Table,
-  Caption, Anchor, Spoiler, Checkmark
+  Caption, Anchor, Spoiler, Checkmark, Timestamp, Icon, GitHubUser, FootnoteRef, OutputBlock, KaTeXBlock, Mermaid
 } from "@/components/mdx";
+import Image from "next/image";
 import Link from "next/link";
 
 
@@ -18,17 +19,17 @@ export default function() {
     <section>
       <p>
         해당 문서를 포함해 이 사이트의 모든 문서에서는 아래의 Markdown 문법을 사용합니다.{" "}
-        @AlphaKR93이 개인적으로 사용하는 Markdown 문법이라 하여 알파마크라고도 합니다.
+        <GitHubUser>AlphaKR93</GitHubUser>이 개인적으로 사용하는 Markdown 문법이라 하여 알파마크라고도 합니다.
       </p>
       <p>
-        이 문서는 여러분에게 알파마크 문법을 소개하기 위함도 있지만,{" "}
+        이 문서는 여러분에게 알파마크 문법을 소개하기 위함도 있지만,
         알파마크 컴파일러가 문서를 올바르게 파싱했는지 검증하는 데에도 사용됩니다.
-        컴파일러가 생성해야 하는 HTML 출력물은 <a href="/expected">여기</a>에서 확인할 수 있습니다.
+        컴파일러가 생성해야 하는 HTML 출력물은 <Link href="/blog/article/~expect">여기</Link>에서 확인할 수 있습니다.
       </p>
     </section>
     <section id="id-1">
       <hgroup>
-        <h2>Ⅰ. 단락 (Paragraph)</h2>
+        <h2>Ⅰ. 문단 (Paragraph)</h2>
       </hgroup>
       <p>
         비어 있지 않은 줄이 연속적으로 이어지면 문단(paragraph)을 이룹니다.
@@ -219,45 +220,6 @@ export default function() {
                 <p><Code lang="tsx">{"<Spoiler>스포일러</Spoiler>"}</Code></p>
               </td>
             </tr>
-          </tbody>
-        </Table>
-        {/* </editor-fold> */}
-        <Admonitions type="note">
-          <p>
-            CommonMark 어텐션(<Code>_</Code>)은 밑줄 서식과 충돌할 수 있으므로 지원하지 않습니다.
-          </p>
-        </Admonitions>
-        {/* <editor-fold defaultstate="collapsed" desc="밑줄 테스트"> */}
-        <Accordion summary="밑줄 테스트">
-          <p>
-            <u>밑줄</u>, <u> 띄어쓰기 </u>, a<u>b</u>c, a_b, _뭣도 아님_
-          </p>
-          <p>
-            <Code>__밑줄 없어야 함__</Code>, <u><Code>이건 있어야 함</Code></u>
-          </p>
-          <p>
-            <b>여보세요!</b><br/>
-            멋진<u>추천을</u>받으려면<u>자신을</u>소개하세요
-          </p>
-        </Accordion>
-        {/* </editor-fold> */}
-      </section>
-      <section id="id-1-3">
-        <hgroup>
-          <h3>3. 첨자</h3>
-        </hgroup>
-        {/* <editor-fold defaultstate="collapsed" desc="Table" */}
-        <Table data-align="center">
-          <thead>
-            <tr>
-              <th><p>구문</p></th>
-              <th><p>서식</p></th>
-              <th><p>예시</p></th>
-              <th><p>출력</p></th>
-              <th><p>출력 (raw)</p></th>
-            </tr>
-          </thead>
-          <tbody>
             <tr>
               <td>
                 <p><Code>^^</Code></p>
@@ -295,90 +257,29 @@ export default function() {
           </tbody>
         </Table>
         {/* </editor-fold> */}
+        <Admonitions type="note">
+          <p>
+            CommonMark 어텐션(<Code>_</Code>)은 밑줄 서식과 충돌할 수 있으므로 지원하지 않습니다.
+          </p>
+        </Admonitions>
+        {/* <editor-fold defaultstate="collapsed" desc="밑줄 테스트"> */}
+        <Accordion summary="밑줄 테스트">
+          <p>
+            <u>밑줄</u>, <u> 띄어쓰기 </u>, a<u>b</u>c, a_b, _뭣도 아님_
+          </p>
+          <p>
+            <Code>__밑줄 없어야 함__</Code>, <u><Code>이건 있어야 함</Code></u>
+          </p>
+          <p>
+            <b>여보세요!</b><br/>
+            멋진<u>추천을</u>받으려면<u>자신을</u>소개하세요
+          </p>
+        </Accordion>
+        {/* </editor-fold> */}
       </section>
-      <section id="id-1-4">
+      <section id="id-1-3">
         <hgroup>
-          <h3>4. 코드 삽입 (Inline Code)</h3>
-        </hgroup>
-        <p>
-          백틱(<Code>`</Code>)을 사용하면 코드를 삽입할 수 있습니다. 코드의 시작 또는 끝이 백틱인 경우, 그 전후 공백은 제거됩니다.
-        </p>
-        <CodeBlock lang="markdown">
-          코드 안에서 백틱을 사용해야 하는 경우, `` `이렇게` `` 바깥 백틱의 개수를 늘리면 됩니다.
-        </CodeBlock>
-        <Comment>Example</Comment>
-        <p>
-          코드 안에서 백틱을 사용해야 하는 경우, <Code lang="markdown">`이렇게`</Code> 바깥 백틱의 개수를 늘리면 됩니다.
-        </p>
-        <section id="id-1-4-1">
-          <hgroup>
-            <h4>1) 언어 지정</h4>
-          </hgroup>
-          <p>
-            백틱 <b>바로 다음</b>에 <Code lang="markdown">{`{<language-name>}`}</Code>을 기입하면 언어를 지정할 수 있습니다.
-          </p>
-          <CodeBlock lang="markdown">
-            {`\
-            * Python: \`{py} print("Hello, World!")\`
-            * Kotlin: \`{kt} println("Hello, World!")\`
-            * TypeScript: \`{ts} console.log("Hello, World!");\`
-            `.split("\n").map((s) => s.trim()).join("\n")}
-          </CodeBlock>
-          <Comment>Example</Comment>
-          <ul>
-            <li>
-              <p>
-                Python: <Code lang="python">{`print("Hello, World!")`}</Code>
-              </p>
-            </li>
-            <li>
-              <p>
-                Kotlin: <Code lang="kotlin">{`println("Hello, World!")`}</Code>
-              </p>
-            </li>
-            <li>
-              <p>
-                TypeScript: <Code lang="typescript">{`console.log("Hello, World!");`}</Code>
-              </p>
-            </li>
-          </ul>
-          <section>
-            <hgroup>
-              <h5>키 입력</h5>
-            </hgroup>
-            <p>
-              언어를 <Code>kbd</Code>로 지정하면, 코드를 키 입력처럼 표시할 수 있습니다.
-            </p>
-            <CodeBlock lang="markdown">
-              {"`{kbd} Ctrl+Shift+Esc`를 누른 다음, `{kbd} Shift`를 누른 채 *재시작*을 시도하면 다른 옵션을 볼 수 있습니다."}
-            </CodeBlock>
-            <Comment>Example</Comment>
-            <p>
-              <Keystrokes>Ctrl+Shift+Esc</Keystrokes>를 누른 다름, <Keystrokes>Shift</Keystrokes>를 누른 채 <i>재시작</i>
-              을 시도하면 다른 옵션을 볼 수 있습니다.
-            </p>
-          </section>
-        </section>
-        <section id="id-1-4-2">
-          <hgroup>
-            <h4>2) 수식 삽입 (Inline Equations)</h4>
-          </hgroup>
-          <p>
-            언어를 <Code>math</Code>로 지정하거나, 달러 기호(<Code>$$</Code>)를 사용하면 수식을 삽입할 수 있습니다.
-          </p>
-          <CodeBlock lang="markdown">
-            {"$$ X_{n+1} = (aX_{n} + c) \\mod m $$"}
-          </CodeBlock>
-          <p>
-            <KaTeX>
-              {" X_{n+1} = (aX_{n} + c) \\mod m "}
-            </KaTeX>
-          </p>
-        </section>
-      </section>
-      <section id="id-1-5">
-        <hgroup>
-          <h3>5. 이스케이핑 (Escaping)</h3>
+          <h3>3. 이스케이핑 (Escaping)</h3>
         </hgroup>
         <p>
           역슬래시(<Code>\</Code>)를 구문 앞에 삽입하면 해당 기호를 무조건적으로 <b>텍스트</b>로 처리하도록 할 수 있습니다.
@@ -396,9 +297,9 @@ export default function() {
           </CodeBlock>
         </Accordion>
       </section>
-      <section id="id-1-6">
+      <section id="id-1-4">
         <hgroup>
-          <h3>6. 고급: HTML 서식 태그</h3>
+          <h3>4. 고급: HTML 서식 태그</h3>
         </hgroup>
         <Admonitions type="information">
           <p>
@@ -498,8 +399,8 @@ export default function() {
         <p>
           가장 앞에 꺽쇠괄호(<Code>&gt;</Code>)를 추가하면 그 문단을 접을 수 있도록 만들 수 있습니다.
           문단이 기본적으로 접혀 있는 상태이도록 하려면 <b>해시태그 맨 마지막</b>에 하이픈(<Code>-</Code>)을 추가합니다.
+          <EndnoteRef id="4" />
           <EndnoteRef id="5" />
-          <EndnoteRef id="6" />
         </p>
       </section>
       <section id="id-2-4">
@@ -520,9 +421,488 @@ export default function() {
     </section>
     <section id="id-3">
       <hgroup>
-        <h2>Ⅱ. 주석</h2>
+        <h2>Ⅲ. 하이퍼링크</h2>
       </hgroup>
+      <p>
+        <Code lang="markdown">[텍스트](링크)</Code> 형태로 링크를 삽입할 수 있습니다.
+      </p>
+      <CodeBlock lang="markdown">
+        {`\
+        - [절대 경로](https://example.com)
+        - [상대 경로](../~components)
+        - [인코딩되지 않은 경로](https://namu.wiki/w/나무위키:문법 도움말)
+        - [태그 속성 지정](<https://example.com> title=Example Domain)
+        `.split("\n").map((s) => s.trim()).join("\n")}
+      </CodeBlock>
+      <Comment>Example</Comment>
+      <ul>
+        <li>
+          <p>
+            <Link href="https://example.com">절대 경로</Link>
+          </p>
+        </li>
+        <li>
+          <p>
+            <Link href="/blog/article/~components">상대 경로</Link>
+          </p>
+        </li>
+        <li>
+          <p>
+            <Link href="https://namu.wiki/w/나무위키:문법 도움말">인코딩되지 않은 경로</Link>
+          </p>
+        </li>
+        <li>
+          <p>
+            <Link href="https://example.com" title="Example Domain">태그 속성 지정</Link>
+          </p>
+        </li>
+      </ul>
       <section id="id-3-1">
+        <hgroup>
+          <h3>1. 참조 링크</h3>
+        </hgroup>
+        <p>
+          링크를 여러 번 인용해야 하는 경우, 다음과 같이 참조로 만들어 사용할 수도 있습니다.
+        </p>
+        <CodeBlock lang="markdown">
+          {`\
+          [github]: https://github.com/AlphaKR93
+          [example]: <https://example.com> title=example.com
+          
+          - 빠른 참조: [github]
+          - 속성 덮어쓰기: [github|title=GitHub Profile]
+          - 텍스트 덮어쓰기: [Example][example]
+          - 텍스트 및 속성 덮어쓰기: [Example][example|title=Example Domain]
+          `.split("\n").map((s) => s.trim()).join("\n")}
+        </CodeBlock>
+        <Comment>Example</Comment>
+        <ul>
+          <li>
+            <p>
+              빠른 참조: <Link href="https://github.com/AlphaKR93">github</Link>
+            </p>
+          </li>
+          <li>
+            <p>
+              속성 덮어쓰기: <Link href="https://github.com/AlphaKR93" title="GitHub Profile">github</Link>
+            </p>
+          </li>
+          <li>
+            <p>
+              텍스트 덮어쓰기: <Link href="https://example.com">Example</Link>
+            </p>
+          </li>
+          <li>
+            <p>
+              텍스트 및 속성 덮어쓰기: <Link href="https://example.com" title="Example Domain">Example</Link>
+            </p>
+          </li>
+        </ul>
+      </section>
+      <section id="id-3-2">
+        <hgroup>
+          <h3>2. 자동 링크 (Autolink)</h3>
+        </hgroup>
+        <p>
+          꺽쇠 괄호(<Code lang="markdown">&lt; &gt;</Code>) 사이에 입력된 URL은 자동으로 하이퍼링크로 전환됩니다.
+        </p>
+        <CodeBlock lang="markdown">
+          {`\
+          - 절대 경로: <https://example.com> 
+          - 상대 경로: <../~components>
+          - 메일: <dev@alpha93.kr>
+          `.split("\n").map((s) => s.trim()).join("\n")}
+        </CodeBlock>
+        <Comment>Example</Comment>
+        <ul>
+          <li>
+            <p>
+              절대 경로:
+            </p>
+          </li>
+          <li>
+            <p>
+              상대 경로:
+            </p>
+          </li>
+          <li>
+            <p>
+              메일:
+            </p>
+          </li>
+        </ul>
+        <section id="id-3-2-1">
+          <hgroup>
+            <h4>특수 스키마</h4>
+          </hgroup>
+          <p>
+            일부 스키마는 특수하게 처리됩니다.
+          </p>
+          <ul>
+            <li>
+              <p>
+                <Code>timestamp</Code>: 시간<br/>
+                예: <Code lang="markdown">{"<timestamp:2025-01-01T12:00:00Z>"}</Code>{" "}
+                &rarr; <Timestamp dateTime="2025-01-01T12:00:00Z"/>
+              </p>
+            </li>
+            <li>
+              <p>
+                <Code>icon</Code>: Lucide/Heroicons/Octicons 아이콘<br/>
+                예: <Code lang="markdown">{"<icon:sparkles>"}</Code> &rarr; <Icon icon="sparkles" />
+              </p>
+            </li>
+            <li>
+              <p>
+                <Code>gh</Code>: GitHub 유저/레포지토리<br/>
+                예: <Code lang="markdown">{"<gh:AlphaKR93>"}</Code> &rarr; <GitHubUser>AlphaKR93</GitHubUser>
+              </p>
+            </li>
+          </ul>
+        </section>
+      </section>
+      <section id="id-3-3">
+        <hgroup>
+          <h3>3. 미디어 삽입</h3>
+        </hgroup>
+        <p>
+          하이퍼링크 앞에 느낌표(<Code>!</Code>)를 추가하여 이미지로 삽입할 수 있습니다.
+          이때 링크 텍스트는 이미지의 설명 텍스트로 적용됩니다.
+        </p>
+        <CodeBlock lang="markdown">
+          {`\
+          ![JetBrains logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png)
+          ![Profile](</_assets/profile.png> width=128&height=128)
+          `.split("\n").map((s) => s.trim()).join("\n")}
+        </CodeBlock>
+        <Comment>Example</Comment>
+        <img alt="JetBrains logo" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png" />
+        <Image alt="Profile" src="/_assets/profile.png" width={128} height={128} />
+      </section>
+      <section id="id-3-4">
+        <hgroup>
+          <h3>4. 미주 & 각주</h3>
+        </hgroup>
+        <p>
+          <Code>[*...]</Code>로 각주, <Code>[^...]</Code>로 미주를 삽입할 수 있습니다.
+          <Code>*[...]</Code> 또는 <Code>^[...]</Code>와 같이 입력하면 줄에서 바로 생성할 수 있습니다.
+        </p>
+        <CodeBlock lang="markdown">
+          {`\
+          각주[*각주]와 미주[^미주]는 같은 식별자를 가질 수 있습니다.
+          인라인에서 각주*[기호를 밖에 입력하여 각주 또는 미주를 삽입합니다.]
+          또는 미주^[\`<br>\` 태그를 사용하면<br/>인라인에서 줄바꿈을 사용할 수 있습니다.]를 삽입하면,
+          ID는 지정되지 않은 숫자에 자동으로 할당되며, 참조할 수 없습니다.
+          
+          [*각주]: 각주는 문단의 마지막, 또는 \`{footnote}\`가 삽입된 공간에 표시됩니다.
+          [^미주]: 미주는 항상 문서의 맨 마지막에 삽입됩니다.
+            마찬가지로 들여쓰면 이전 미주에 통합됩니다.
+          `.split("\n").map((s) => s.trim()).join("\n")}
+        </CodeBlock>
+        <Comment>Example</Comment>
+        <p>
+          각주<FootnoteRef sectionId="id-3-4" id="각주"/>와 미주<EndnoteRef id="미주"/>는 같은 식별자를 가질 수 있습니다.
+          인라인에서 각주<FootnoteRef sectionId="id-3-4" id="1"/> 또는
+          미주<EndnoteRef id="6"/>를 삽입하면,
+          ID는 지정되지 않은 숫자에 자동으로 할당되며, 참조할 수 없습니다.
+        </p>
+      </section>
+    </section>
+    <section id="id-4">
+      <hgroup>
+        <h2>Ⅳ. 인용문</h2>
+      </hgroup>
+      <p>
+        줄 시작점에 꺽쇠괄호(<Code>&gt;</Code>) 기호를 삽입하여 인용문을 생성할 수 있습니다.
+      </p>
+      <CodeBlock lang="markdown">
+        {`\
+        > *Software is like sex; it's better when it's free.*
+        `.split("\n").map((s) => s.trim()).join("\n")}
+      </CodeBlock>
+      <blockquote>
+        <p><i>Software is like sex; it's better when it's free.</i></p>
+      </blockquote>
+      <p>
+        인용문 내에 여러 문단을 추가하려면, 이전 인용문과 <b>줄 간격을 띄우지 않고</b> 인용문을 연속해서 작성합니다.
+      </p>
+      <CodeBlock lang="markdown">
+        {`\
+        > 미주/각주와 목록처럼 들여쓰기 하면
+          여러 줄을 추가할 수 있습니다.
+        > 인용문이 끊어지지 않고 계속 이어지면 첫 인용문과 연결됩니다.
+          다만 이 경우 인용문 내 문단 자체는 나뉘게 됩니다.
+        `.split("\n").map((s) => s.trim()).join("\n")}
+      </CodeBlock>
+      <Comment>Example</Comment>
+      <blockquote>
+        <p>
+          미주/각주와 목록처럼 들여쓰기 하면
+          여러 줄을 추가할 수 있습니다.
+        </p>
+        <p>
+          인용문이 끊어지지 않고 계속 이어지면 첫 인용문과 연결됩니다.
+          다만 이 경우 인용문 내 문단 자체는 나뉘게 됩니다.
+        </p>
+      </blockquote>
+      <section id="id-4-1">
+        <hgroup>
+          <h3>1. 콜아웃 (Callouts)</h3>
+        </hgroup>
+        <p>
+          콜아웃은 블록 컴포넌트로 사용합니다. 보충 설명을 하거나 이목을 집중해야 할 때 사용하기 좋습니다.
+        </p>
+        <CodeBlock lang="markdown">
+          {`\
+          :::callout note
+          최상단에 있는 문장은 콜아웃의 타이틀이 됩니다.
+          
+          \`:::\` 내에서 텍스트를 입력하면 모두 콜아웃 안에 포함됩니다.
+          :::
+          `.split("\n").map((s) => s.trim()).join("\n")}
+        </CodeBlock>
+        <Comment>Example</Comment>
+        <section id="id-4-1-1">
+          <hgroup>
+            <h4>1) 아코디언</h4>
+          </hgroup>
+          <p>
+            콜아웃 타입 뒤에 <Code>-</Code>를 붙이거나,
+            <Code>callout</Code> 대신 <Code>accordion</Code>을 사용하면 콜아웃을 접을 수 있습니다.
+          </p>
+          <CodeBlock lang="markdown">
+            {`\
+            ::::accordion tip
+            코드 블록처럼 바깥 쌍점표(\`:\`)의 개수를 늘리면, 콜아웃 안에서도 콜아웃을 추가할 수 있습니다.
+            
+            :::accordion
+            **접을 수 있는 문단**
+            
+            콜아웃 타입을 입력하지 않으면 *접을 수 있는 문단*으로도 사용할 수 있습니다.
+            :::
+            :::accordion
+            **아코디언 (Accordion)**
+            
+            인용문처럼 접을 수 있는 문단을 연속해서 입력하면 아코디언으로 만들 수도 있습니다.
+            :::
+            ::::
+            `.split("\n").map((s) => s.trim()).join("\n")}
+          </CodeBlock>
+          <Comment>Example</Comment>
+        </section>
+      </section>
+      <section id="id-4-2">
+        <hgroup>
+          <h3 id="id-4-2">2. 애드머니션 (Admonitions)</h3>
+        </hgroup>
+        <p>
+          <Link href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts">GFM</Link>
+          스타일의 콜아웃입니다. 인용문 최상단에 <Code>![type]</Code>을 삽입하여 애드머니션을 생성할 수 있습니다.
+        </p>
+        <CodeBlock lang="markdown">
+          {`\
+          > [!TIP] 일반 콜아웃처럼 제목도 지정할 수 있습니다.
+          > 알럿은 접을 수 없습니다.
+          `.split("\n").map((s) => s.trim()).join("\n")}
+        </CodeBlock>
+        <Comment>Example</Comment>
+        <Admonitions type="tip" title="일반 콜아웃처럼 제목도 지정할 수 있습니다.">
+          알럿은 접을 수 없습니다.
+        </Admonitions>
+      </section>
+    </section>
+    <section id="id-5">
+      <hgroup>
+        <h2>Ⅴ. 코드 삽입</h2>
+      </hgroup>
+      <section id="id-5-1">
+        <hgroup>
+          <h3>1. 코드 서식</h3>
+        </hgroup>
+        <p>
+          백틱(<Code>`</Code>)을 사용하면 코드를 삽입할 수 있습니다. 코드의 시작 또는 끝이 백틱인 경우, 그 전후 공백은 제거됩니다.
+        </p>
+        <CodeBlock lang="markdown">
+          코드 안에서 백틱을 사용해야 하는 경우, `` `이렇게` `` 바깥 백틱의 개수를 늘리면 됩니다.
+        </CodeBlock>
+        <Comment>Example</Comment>
+        <p>
+          코드 안에서 백틱을 사용해야 하는 경우, <Code>`이렇게`</Code> 바깥 백틱의 개수를 늘리면 됩니다.
+        </p>
+        <section id="id-5-1-1">
+          <hgroup>
+            <h4>1) 언어 지정</h4>
+          </hgroup>
+          <p>
+            백틱 <b>바로 다음</b>에 <Code lang="markdown">{`{<language-name>}`}</Code>을 기입하면 언어를 지정할 수 있습니다.
+          </p>
+          <CodeBlock lang="markdown">
+            {`\
+            * Python: \`{py} print("Hello, World!")\`
+            * Kotlin: \`{kt} println("Hello, World!")\`
+            * TypeScript: \`{ts} console.log("Hello, World!");\`
+            `.split("\n").map((s) => s.trim()).join("\n")}
+          </CodeBlock>
+          <Comment>Example</Comment>
+          <ul>
+            <li>
+              <p>
+                Python: <Code lang="python">{`print("Hello, World!")`}</Code>
+              </p>
+            </li>
+            <li>
+              <p>
+                Kotlin: <Code lang="kotlin">{`println("Hello, World!")`}</Code>
+              </p>
+            </li>
+            <li>
+              <p>
+                TypeScript: <Code lang="typescript">{`console.log("Hello, World!");`}</Code>
+              </p>
+            </li>
+          </ul>
+        </section>
+        <section id="id-5-1-2">
+          <hgroup>
+            <h4>2) 키 입력</h4>
+          </hgroup>
+          <p>
+            언어를 <Code>kbd</Code>로 지정하면, 코드를 키 입력처럼 표시할 수 있습니다.
+          </p>
+          <CodeBlock lang="markdown">
+            {"`{kbd} Ctrl+Shift+Esc`를 누른 다음, `{kbd} Shift`를 누른 채 *재시작*을 시도하면 다른 옵션을 볼 수 있습니다."}
+          </CodeBlock>
+          <Comment>Example</Comment>
+          <p>
+            <Keystrokes>Ctrl+Shift+Esc</Keystrokes>를 누른 다름, <Keystrokes>Shift</Keystrokes>를 누른 채 <i>재시작</i>
+            을 시도하면 다른 옵션을 볼 수 있습니다.
+          </p>
+        </section>
+        <section id="id-5-1-3">
+          <hgroup>
+            <h4>3) 수식 삽입 (Inline Equations)</h4>
+          </hgroup>
+          <p>
+            언어를 <Code>math</Code>로 지정하거나, 달러 기호(<Code>$$</Code>)를 사용하면 수식을 삽입할 수 있습니다.
+          </p>
+          <CodeBlock lang="markdown">
+            {"$$ X_{n+1} = (aX_{n} + c) \\mod m $$"}
+          </CodeBlock>
+          <p>
+            <KaTeX>
+              {" X_{n+1} = (aX_{n} + c) \\mod m "}
+            </KaTeX>
+          </p>
+        </section>
+      </section>
+      <section id="id-5-2">
+        <hgroup>
+          <h3>2. 코드 블록</h3>
+        </hgroup>
+        <p>
+          백틱을 3개 이상(<Code>```</Code>) 중첩하여 코드 블록을 생성합니다. (단, 시작과 끝이 다른 줄에 있어야 함)
+          시작 줄의 백틱 다음에는 코드 블록에 대한 속성을 추가할 수 있습니다.<EndnoteRef id="7"/>
+        </p>
+        <CodeBlock lang="markdown">
+          {`\
+          \`\`\`ts example.ts
+          export default function() {
+            const code_block = "코드 블록";
+            console.log(\`인라인 코드와 마찬가지로 \${code_block}에서도 바깥 백틱의 개수를 늘리면 내부에 백틱을 포함할 수 있습니다.\`); 
+          }
+          \`\`\`
+          `.split("\n").map((s) => s.trim()).join("\n")}
+        </CodeBlock>
+        <Comment>Example</Comment>
+        <CodeBlock lang="ts" file="example.ts">
+          {`\
+          export default function() {
+            const code_block = "코드 블록";
+            console.log(\`인라인 코드와 마찬가지로 \${code_block}에서도 바깥 백틱의 개수를 늘리면 내부에 백틱을 포함할 수 있습니다.\`); 
+          }
+          `.split("\n").map((s) => s.trim()).join("\n")}
+        </CodeBlock>
+        <section id="id-5-2-1">
+          <hgroup>
+            <h4>1) 출력</h4>
+          </hgroup>
+          <p>
+            언어를 <Code>output</Code>으로 설정하면 출력 블록을 만들 수 있습니다.
+            이때 파일명은 Shell 환경을 의미합니다.
+          </p>
+          <CodeBlock lang="markdown">
+            {`\
+            \`\`\`output bash
+            $ echo "Hello, world!"
+            Hello, world!
+            \`\`\`
+            `.split("\n").map((s) => s.trim()).join("\n")}
+          </CodeBlock>
+          <Comment>Example</Comment>
+          <OutputBlock shell="bash">
+            {`\
+            $ echo "Hello, world!"
+            Hello, world!
+            `.split("\n").map((s) => s.trim()).join("\n")}
+          </OutputBlock>
+        </section>
+        <section id="id-5-2-2">
+          <hgroup>
+            <h4>2) 수식</h4>
+          </hgroup>
+          <p>
+            언어를 <Code>math</Code>로 설정하면 수식 블록을 생성할 수 있습니다.
+          </p>
+          <CodeBlock lang="markdown">
+            {`\
+            \`\`\`math
+            f(x) = \\int^{\\infty}_{-\\infty} f\\hat(\\xi)\\, e^{2 \\pi i \\xi x}\\, d\\xi
+            \`\`\`
+            `.split("\n").map((s) => s.trim()).join("\n")}
+          </CodeBlock>
+          <Comment>Example</Comment>
+          <KaTeXBlock>
+            {`\
+            f(x) = \\int^{\\infty}_{-\\infty} f\\hat(\\xi)\\, e^{2 \\pi i \\xi x}\\, d\\xi
+            `.split("\n").map((s) => s.trim()).join("\n")}
+          </KaTeXBlock>
+        </section>
+        <section id="id-5-2-3">
+          <hgroup>
+            <h4>3) 다이어그램</h4>
+          </hgroup>
+          <p>
+            언어를 <Code>mermaid</Code>로 설정하면 다이어그램을 삽입할 수 있습니다.
+          </p>
+          <CodeBlock lang="markdown">
+            {`\
+            \`\`\`mermaid
+            graph LR;
+              A[Start] --> B{Is it working?};
+              B -- Yes --> C[Continue];
+              B -- No --> D[Fix it];
+              D --> B;
+            \`\`\`
+            `.split("\n").map((s) => s.trim()).join("\n")}
+          </CodeBlock>
+          <Comment>Example</Comment>
+          <Mermaid>
+            {`\
+            graph LR;
+                A[Start] --> B{Is it working?};
+                B -- Yes --> C[Continue];
+                B -- No --> D[Fix it];
+                D --> B;
+            `.split("\n").map((s) => s.trim()).join("\n")}
+          </Mermaid>
+        </section>
+      </section>
+    </section>
+    <section id="id-6">
+      <hgroup>
+        <h2>Ⅵ. 주석</h2>
+      </hgroup>
+      <section id="id-6-1">
         <hgroup>
           <h3>1. MDX 스타일 주석</h3>
         </hgroup>
@@ -546,7 +926,7 @@ export default function() {
           중괄호가 없어도 주석을 삽입할 수 있습니다.
         </p>
       </section>
-      <section id="id-3-2">
+      <section id="id-6-2">
         <hgroup>
           <h3>2. XML 스타일 주석</h3>
         </hgroup>
@@ -560,7 +940,7 @@ export default function() {
         <Comment>Example</Comment>
         <Comment>개발자 도구(F12)를 켜 보세요!</Comment>
       </section>
-      <section id="id-3-3">
+      <section id="id-6-3">
         <hgroup>
           <h3>3. 어노테이션</h3>
         </hgroup>
@@ -587,11 +967,11 @@ export default function() {
         </p>
       </section>
     </section>
-    <section id="id-4">
+    <section id="id-7">
       <hgroup>
-        <h2>Ⅳ. 목록</h2>
+        <h2>Ⅶ. 목록</h2>
       </hgroup>
-      <section id="id-4-1">
+      <section id="id-7-1">
         <hgroup>
           <h3>1. 순서가 없는 목록</h3>
         </hgroup>
@@ -618,7 +998,7 @@ export default function() {
           </li>
         </ul>
       </section>
-      <section id="id-4-2">
+      <section id="id-7-2">
         <hgroup>
           <h3>2. 순서가 지정된 목록</h3>
         </hgroup>
@@ -651,17 +1031,17 @@ export default function() {
         </ol>
       </section>
     </section>
-    <section id="id-4-3">
+    <section id="id-7-3">
       <hgroup>
-        <h3>설명 목록</h3>
+        <h3>3. 설명 목록</h3>
       </hgroup>
       <Admonitions type="note">
         자세한 내용은 <Link href="/blog/article/~components">확장 컴포넌트</Link>를 참고하십시오.
       </Admonitions>
     </section>
-    <section id="id-4-4">
+    <section id="id-7-4">
       <hgroup>
-        <h3>작업 항목</h3>
+        <h3>4. 작업 항목</h3>
       </hgroup>
       <p>
         항목 내용 앞에 대괄호(<Code lang="markdown">[ ]</Code>)를 삽입하면 항목을 작업으로 만들 수 있습니다.
@@ -713,9 +1093,9 @@ export default function() {
         </li>
       </ol>
     </section>
-    <section id="id-4-5">
+    <section id="id-7-5">
       <hgroup>
-        <h3>목록 중첩하기</h3>
+        <h3>5. 목록 중첩하기</h3>
       </hgroup>
       <p>
         목록을 들여쓰면 중첩된 목록을 만들 수 있습니다. 하위 목록의 종류는 상위 목록의 영향을 받지 않습니다.
@@ -993,9 +1373,9 @@ export default function() {
         </ul>
       </Accordion>
     </section>
-    <section id="id-5">
+    <section id="id-8">
       <hgroup>
-        <h2>표</h2>
+        <h2>Ⅷ. 표</h2>
       </hgroup>
       <p>
         <Link href="https://github.github.com/gfm/#tables-extension-">GFM</Link> 문법을 그대로 사용합니다.
@@ -1012,362 +1392,41 @@ export default function() {
         <thead>
           <tr>
             <th><p>기본값 (중앙 정렬)</p></th>
-            <th><p>왼쪽 정렬</p></th>
-            <th><p>중앙 정렬</p></th>
-            <th><p>오른쪽 정렬</p></th>
+            <th style={{ textAlign: "left" }}><p>왼쪽 정렬</p></th>
+            <th style={{ textAlign: "center" }}><p>중앙 정렬</p></th>
+            <th style={{ textAlign: "right" }}><p>오른쪽 정렬</p></th>
           </tr>
           <tr>
             <th><p>제목줄도</p></th>
-            <th><p>여러 개</p></th>
-            <th><p>추가할 수</p></th>
-            <th><p>있다는 사실</p></th>
+            <th style={{ textAlign: "left" }}><p>여러 개</p></th>
+            <th style={{ textAlign: "center" }}><p>추가할 수</p></th>
+            <th style={{ textAlign: "right" }}><p>있다는 사실</p></th>
           </tr>
           <tr>
             <th colSpan={2}><p>알고</p></th>
-            <th colSpan={2}><p>계셨나요?</p></th>
+            <th colSpan={2} style={{ textAlign: "center" }}><p>계셨나요?</p></th>
           </tr>
         </thead>
         <tbody>
           <tr>
             <td><p>아래처럼</p></td>
-            <td><p>작성하면</p></td>
-            <td><p>칸을 묶을 수</p></td>
-            <td><p>있습니다.</p></td>
+            <td style={{ textAlign: "left" }}><p>작성하면</p></td>
+            <td style={{ textAlign: "center" }}><p>칸을 묶을 수</p></td>
+            <td style={{ textAlign: "right" }}><p>있습니다.</p></td>
           </tr>
           <tr>
             <td colSpan={3}><p>표 컴포넌트를 사용하면 제목과 결과도 추가할 수</p></td>
-            <td colSpan={1}><p>있습니다.</p></td>
+            <td colSpan={1} style={{ textAlign: "right" }}><p>있습니다.</p></td>
           </tr>
           <tr>
             <td colSpan={4}>
               <p>
-                자세한 내용은 <Link href="/blog/articles/~components">고급 컴포넌트</Link>를 참고하십시오.
+                자세한 내용은 <Link href="/blog/article/~components">고급 컴포넌트</Link>를 참고하십시오.
               </p>
             </td>
           </tr>
         </tbody>
       </Table>
     </section>
-    <h2 id="id-4">표</h2>
-    <table>
-      <thead>
-      <tr>
-        <th><p>Index</p></th>
-        <th><p>Property</p></th>
-        <th><p>Description</p></th>
-      </tr>
-      </thead>
-      <tbody>
-      <tr>
-        <td>1.</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>2.</td>
-        <td></td>
-        <td></td>
-      </tr>
-      </tbody>
-    </table>
-    <h2 id="id-5">코드 블록</h2>
-    <p>
-      백틱을 3개 이상(<code>```</code>) 쌓으면 코드 블록을 만들 수 있으며, 코드 블록의 시작 줄에는 파일 정보를 추가할 수 있습니다.
-      (예: <code>```{"<language>"} {"<file-name>"}</code>)
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"````ts example.ts"}</span>
-        <span>{"export function hello() {"}</span>
-        <span>{'  const code_block = "코드 블록";'}</span>
-        {/** biome-ignore lint/suspicious/noTemplateCurlyInString: example */}
-        <span>{"  console.log(`${code_block}도 인라인 코드와 마찬가지로 바깥 백틱의 개수를 늘리면 내부에 백틱을 포함할 수 있습니다.`);"}</span>
-        <span>{"}"}</span>
-        <span>{"````"}</span>
-      </code>
-    </pre>
-    <pre>
-      <code data-temp data-language="ts" data-filename="example.ts">
-        <span>{"export function hello() {"}</span>
-        <span>{'  const code_block = "코드 블록";'}</span>
-        {/** biome-ignore lint/suspicious/noTemplateCurlyInString: example */}
-        <span>{"  console.log(`${code_block}도 인라인 코드와 마찬가지로 바깥 백틱의 개수를 늘리면 내부에 백틱을 포함할 수 있습니다.`);"}</span>
-        <span>{"}"}</span>
-      </code>
-    </pre>
-    <h3 id="id-5-1">출력 (<code>STDOUT</code>)</h3>
-    <p>
-      언어를 <code>stdout</code>으로 설정하여 출력 블록을 만들 수 있습니다.
-      이때 파일명은 Shell 환경을 의미합니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"```stdout bash"}</span>
-        <span>{'$ echo "Hello, world!"'}</span>
-        <span>{'Hello, world!'}</span>
-        <span>{"```"}</span>
-      </code>
-    </pre>
-    <pre>
-      <samp data-temp data-environment="bash">
-        <span>{'$ echo "Hello, world!"'}</span>
-        <span>{'Hello, world!'}</span>
-      </samp>
-    </pre>
-    <h3 id="id-5-2">수식</h3>
-    <p>
-      언어를 <code>katex</code>로 설정하면 수식 블록을 만들 수 있습니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"```katex"}</span>
-        <span>{"\\int_{a}^{b} f(x) \\,dx = F(b) - F(a)"}</span>
-        <span>{"```"}</span>
-      </code>
-    </pre>
-    <h3 id="id-5-3">다이어그램</h3>
-    <p>
-      언어를 <code>mermaid</code>로 설정하면 다이어그램을 삽입할 수 있습니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"```mermaid"}</span>
-        <span>{"graph TD;"}</span>
-        <span>{"    A[Start] --> B{Is it working?};"}</span>
-        <span>{"    B -- Yes --> C[Continue];"}</span>
-        <span>{"    B -- No --> D[Fix it];"}</span>
-        <span>{"    D --> B;"}</span>
-        <span>{"```"}</span>
-      </code>
-    </pre>
-    <h3 id="id-5-4">파일 트리</h3>
-    <p>
-      언어를 <code>dir</code>로 설정하고, 목록처럼 나열하면 파일 트리를 삽입할 수 있습니다.
-      폴더는 마지막에 <code>/</code>를 입력해야 합니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"```dir"}</span>
-        <span>{"* src/"}</span>
-        <span>{"  * app/"}</span>
-        <span>{"    * favicon.ico"}</span>
-        <span>{"    * (main)/"}</span>
-        <span>{"      * globals.css"}</span>
-        <span>{"      * layout.tsx"}</span>
-        <span>{"      * page.tsx"}</span>
-        <span>{"    * (blog)/"}</span>
-        <span>{"      * blog/"}</span>
-        <span>{"        * page.tsx"}</span>
-        <span>{"      * globals.css"}</span>
-        <span>{"      * layout.tsx"}</span>
-        <span>{"  * lib/"}</span>
-        <span>{"    * mdx/"}</span>
-        <span>{"      * index.ts"}</span>
-        <span>{"  * mdx-components.tsx"}</span>
-        <span>{"* package.json"}</span>
-        <span>{"```"}</span>
-      </code>
-    </pre>
-    <div>
-
-    </div>
-    <h3 id="id-5-5">코드 그룹</h3>
-    <p>
-      여러 개의 코드 블록을 하나로 묶어 코드 그룹을 만들 수 있습니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{":::code-groups"}</span>
-        <span>{"```py hello_world.py"}</span>
-        <span>{"def hello_world() -> None:"}</span>
-        <span>{`    print("Hello, world!")`}</span>
-        <span>&#x200B;</span>
-        <span>{`if __name__ == "main":`}</span>
-        <span>{`    hello_world()`}</span>
-        <span>{"```"}</span>
-        <span>&#x200B;</span>
-        <span>{"```kt HelloWorld.kt"}</span>
-        <span>{"fun helloWorld(): None {"}</span>
-        <span>{`    println("Hello, world!")`}</span>
-        <span>{"}"}</span>
-        <span>&#x200B;</span>
-        <span>{`fun main() {`}</span>
-        <span>{`    helloWorld()`}</span>
-        <span>{`}`}</span>
-        <span>{"```"}</span>
-        <span>&#x200B;</span>
-        <span>{"```ts hello-world.ts"}</span>
-        <span>{"function helloWorld() {"}</span>
-        <span>{`    console.log("Hello, world!");`}</span>
-        <span>{"}"}</span>
-        <span>{"```"}</span>
-        <span>{":::"}</span>
-      </code>
-    </pre>
-    <h2 id="id-6">인용문</h2>
-    <p>
-      문장 처음에 <code>&gt;</code> 기호를 삽입하여 인용문을 만듭니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"> *Software is like sex; it's better when it's free.*"}</span>
-      </code>
-    </pre>
-    <blockquote>
-      <p><i>Software is like sex; it's better when it's free.</i></p>
-    </blockquote>
-    <p>
-      상하단 줄이 모두 인용문이면, 단일 인용문 블록으로 처리됩니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"> Lorem ipsum dolor sit amet, consectetur adipiscing elit,"}</span>
-        <span>{"  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."}</span>
-        <span>{"> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."}</span>
-      </code>
-    </pre>
-    <blockquote>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-        <br/>
-        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      </p>
-      <p>
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      </p>
-    </blockquote>
-    <h3 id="id-6-1">콜아웃</h3>
-    <p>
-      인용문 블록이 <code>![]</code>로 시작하면 콜아웃 블록으로 처리됩니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"> ![info]"}</span>
-        <span>{"> Lorem ipsum dolor sit amet, consectetur adipiscing elit."}</span>
-      </code>
-    </pre>
-    <div className="callout" data-callout="info">
-      <div className="title"><p>INFO</p></div>
-      <div className="content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div>
-    </div>
-    <p>
-      콜아웃 다음에 <code>+</code> 또는 <code>-</code>를 붙여 콜아웃을 접을 수 있습니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"> ![info]- You can set title too!"}</span>
-        <span>{"> Lorem ipsum dolor sit amet, consectetur adipiscing elit."}</span>
-      </code>
-    </pre>
-    <div className="callout" data-callout="info">
-      <div className="title"><p>You can set title too!</p></div>
-      <div className="content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div>
-    </div>
-    <h2 id="id-7">하이퍼링크</h2>
-    <p>
-      링크 텍스트를 대괄호(<code>[ ]</code>)로 감싼 후,
-      소괄호(<code>( )</code>)를 사용하여 링크를 삽입할 수 있습니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"[Profile](../)<br/>"}</span>
-        <span>{'[URL with symbols](<../My Document>)<br/>'}</span>
-        <span>{'[Example Domain](https://example.com/ title="example.com")'}</span>
-      </code>
-    </pre>
-    <p>
-      <a href="../~layout">Profile</a><br/>
-      <a href="../My Document">URL with symbols</a><br/>
-      <a href="https://example.com/" title="example.com">Example Domain</a><br/>
-    </p>
-    <p>
-      여러번 사용하는 링크는 다음과 같이 참조 링크로 작성할 수 있습니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{'[profile]: ../ title="Profile"'}</span>
-        <span/>
-        <span>{"[profile]<br/>"}</span>
-        <span>{"[profile|Profile Site]"}</span>
-      </code>
-    </pre>
-    <p>
-      <a href="../~layout" title="Profile">profile</a><br/>
-      <a href="../~layout" title="Profile">Profile Site</a><br/>
-    </p>
-    <p>
-      꺽쇠 괄호(<code>&lt; &gt;</code>)를 사용하면 자동으로 하이퍼링크를 생성합니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"<https://example.com/>"}</span>
-      </code>
-    </pre>
-    <p>
-      <a href="https://example.com/">Example Domain</a>
-    </p>
-    <h3 id="id-7-1">특수 스키마</h3>
-    <p>
-      일부 스키마는 특수하게 처리됩니다.
-    </p>
-    {/*
-    <ul data-type="*">
-      <li>
-        <p>
-          <code>timestamp</code>: 시간<br/>
-          예: <code>{"<timestamp:2025-01-01T12:00:00Z>"}</code> &rarr;{" "}
-          <Timestamp timestamp="2025-01-01T12:00:00Z"/>
-        </p>
-      </li>
-      <li>
-        <p>
-          <code>icon</code>: Lucide/Heroicons/Octicons 아이콘<br/>
-          예: <code>{"<icon:sparkles>"}</code> &rarr;{" "}
-          <Icon icon="sparkles" />
-        </p>
-      </li>
-      <li>
-        <p>
-          <code>gh</code>: GitHub 유저/레포지토리<br/>
-          예: <code>{"<gh:AlphaKR93>"}</code> &rarr; <GitHub username="AlphaKR93"/>
-        </p>
-      </li>
-    </ul>
-    */}
-    <h3 id="id-7-2">이미지</h3>
-    <p>
-      하이퍼링크 앞에 느낌표(<code>!</code>)를 추가하여 이미지로 삽입할 수 있습니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{'![Example Image](/_assets/images/placeholder.png title="Example"&width=200&height=200)'}</span>
-      </code>
-    </pre>
-    <h3 id="id-7-3">미주/각주</h3>
-    <p>
-      <code>[*...]</code>로 각주, <code>[^...]</code>로 미주를 삽입할 수 있습니다.
-    </p>
-    <pre>
-      <code data-temp data-language="markdown">
-        <span>{"각주[*1]와 미주[^1]는 같은 식별자를 가질 수 있지만, 서로 다른 리퍼런스를 의미합니다.[^note]"}</span>
-        <span>{"각주 또는 미주의 리퍼런스에서 ID 다음에 문자를 입력하면 리퍼런스 텍스트를 다르게 설정할 수 있습니다.[*2 !]"}</span>
-        <span>{"대괄호 밖에 기호를 넣으면 인라인에서 생성할 수 있습니다.*[아이디는 순차적으로 자동 생성됩니다.]"}</span>
-        <span>&#x200b;</span>
-        <span>{"[*1]: 각주는 문단의 맨 마지막에 표시됩니다."}</span>
-        <span>{"[*2]: 목록, 인용문처럼 들여쓰기를 하면"}</span>
-        <span>{"  줄을 추가할 수 있습니다."}</span>
-        <span>{"[^1]: 미주는 문서의 맨 마지막에 표시됩니다."}</span>
-        <span>{"[^note]: 숫자 대신 문자를 ID로 사용할 수도 있습니다."}</span>
-      </code>
-    </pre>
-    <p>
-      각주<sup><a href="#fn-1">(1)</a></sup>와
-      미주<sup><a href="#en-1">[1]</a></sup>는 같은 식별자를 가질 수 있지만,
-      서로 다른 리퍼런스를 의미합니다.<sup><a href="#en-note">[note]</a></sup>{" "}
-      각주 또는 미주의 리퍼런스에서 ID 다음에 문자를 입력하면 리퍼런스 텍스트를 다르게 설정할 수 있습니다.
-      <sup><a href="#fn-2">(!)</a></sup>{" "}
-      대괄호 밖에 기호를 넣으면 인라인에서 생성할 수 있습니다.
-      <sup><a href="#fn-3">(3)</a></sup>
-    </p>
   </>;
 }

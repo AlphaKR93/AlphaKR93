@@ -1,9 +1,7 @@
-import type { BundledLanguage } from "shiki"
-
-import { toJsxRuntime } from "hast-util-to-jsx-runtime"
-import { Fragment } from "react"
-import { jsx, jsxs } from "react/jsx-runtime"
-import { codeToHast } from "shiki"
+import { toJsxRuntime } from "hast-util-to-jsx-runtime";
+import { Fragment } from "react";
+import { jsx, jsxs } from "react/jsx-runtime";
+import { codeToHast, type BundledLanguage } from "shiki";
 
 
 export async function Code({ children, lang }: Readonly<{ children: string, lang?: BundledLanguage }>) {
@@ -25,7 +23,7 @@ export async function Code({ children, lang }: Readonly<{ children: string, lang
   });
 }
 
-export async function CodeBlock({ children, lang }: Readonly<{ children: string, lang?: BundledLanguage }>) {
+export async function CodeBlock({ children, lang }: Readonly<{ children: string; lang?: BundledLanguage; file?: string }>) {
   if (!lang) {
     return <pre data-language="text-plain" className="shiki ayu-dark" tabIndex={0}>
       <code>
@@ -44,4 +42,12 @@ export async function CodeBlock({ children, lang }: Readonly<{ children: string,
       pre: ({ ...props }) => <pre data-language={lang} {...props} />
     },
   });
+}
+
+export async function OutputBlock({ children, shell }: Readonly<{ children: string; shell?: string }>) {
+  return <pre data-language="output" data-environment={shell} className="shiki ayu-dark" tabIndex={0}>
+    <samp>
+      {children}
+    </samp>
+  </pre>;
 }
