@@ -6,10 +6,10 @@ import { codeToHast, type BundledLanguage } from "shiki";
 
 export async function Code({ children, lang }: Readonly<{ children: string, lang?: BundledLanguage }>) {
   if (!lang) {
-    return <code data-language="text-plain" className="shiki ayu-dark" tabIndex={0}>{children}</code>;
+    return <code data-language="text-plain" className="shiki shiki-themes min-light ayu-dark" tabIndex={0}>{children}</code>;
   }
 
-  const out = await codeToHast(children, { lang, theme: "ayu-dark" });
+  const out = await codeToHast(children, { lang, themes: { light: "min-light", dark: "ayu-dark" }, defaultColor: false });
 
   return toJsxRuntime(out, {
     Fragment,
@@ -25,14 +25,14 @@ export async function Code({ children, lang }: Readonly<{ children: string, lang
 
 export async function CodeBlock({ children, lang }: Readonly<{ children: string; lang?: BundledLanguage; file?: string }>) {
   if (!lang) {
-    return <pre data-language="text-plain" className="shiki ayu-dark" tabIndex={0}>
+    return <pre data-language="text-plain" className="shiki shiki-themes min-light ayu-dark" tabIndex={0}>
       <code>
         {children}
       </code>
     </pre>;
   }
 
-  const out = await codeToHast(children, { lang, theme: "ayu-dark" });
+  const out = await codeToHast(children, { lang, themes: { light: "min-light", dark: "ayu-dark" }, defaultColor: false });
 
   return toJsxRuntime(out, {
     Fragment,
@@ -45,7 +45,7 @@ export async function CodeBlock({ children, lang }: Readonly<{ children: string;
 }
 
 export async function OutputBlock({ children, shell }: Readonly<{ children: string; shell?: string }>) {
-  return <pre data-language="output" data-environment={shell} className="shiki ayu-dark" tabIndex={0}>
+  return <pre data-language="output" data-environment={shell} className="shiki shiki-themes min-light ayu-dark" tabIndex={0}>
     <samp>
       {children}
     </samp>

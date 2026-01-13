@@ -1,6 +1,6 @@
 "use client";
 
-import mermaid, { type MermaidConfig } from "mermaid";
+import { type MermaidConfig } from "mermaid";
 import { memo, useEffect, useId, useRef } from "react";
 
 
@@ -12,13 +12,13 @@ function _Mermaid({ children, config }: Readonly<{ children: string; config?: Om
     let isMounted = true;
     (async () => {
       try {
+        const mermaid = (await import("mermaid")).default;
         mermaid.initialize({
           startOnLoad: false,
           suppressErrorRendering: true,
           theme: "default",
           ...config
         });
-        console.log(mermaid);
         const { svg } = await mermaid.render(`mermaid-${id}`, children);
 
         if (isMounted && ref.current) ref.current.innerHTML = svg;

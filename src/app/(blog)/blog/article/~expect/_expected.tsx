@@ -8,7 +8,7 @@ import {
   KaTeX,
   Keystrokes,
   Table,
-  Caption, Anchor, Spoiler, Checkmark, Timestamp, Icon, GitHubUser, FootnoteRef, OutputBlock, KaTeXBlock, Mermaid
+  Caption, Anchor, Spoiler, Checkmark, Timestamp, Icon, GitHubUser, FootnoteRef, OutputBlock, KaTeXBlock//, Mermaid
 } from "@/components/mdx";
 import Image from "next/image";
 import Link from "next/link";
@@ -885,6 +885,7 @@ export default function() {
             \`\`\`
             `.split("\n").map((s) => s.trim()).join("\n")}
           </CodeBlock>
+          {/*
           <Comment>Example</Comment>
           <Mermaid>
             {`\
@@ -895,6 +896,7 @@ export default function() {
                 D --> B;
             `.split("\n").map((s) => s.trim()).join("\n")}
           </Mermaid>
+           */}
         </section>
       </section>
     </section>

@@ -1,12 +1,21 @@
-import { FrontMatter, style as markdown } from "@/components/mdx";
+import type { Metadata, ResolvingMetadata } from "next";
+
 import { notFound } from "next/navigation";
-import fetchDocument from "./_render";
+
+import { FrontMatter, style as markdown } from "@/components/mdx";
+
 import style from "../article.module.css";
+import fetchDocument from "./_render";
 
 
+type Props = Readonly<PageProps<"/blog/article/[slug]">>;
 const GIST_SHA = /^[~-]?[0-9a-f]{32}$/i;
 
-export default async function({ params }: PageProps<"/blog/article/[slug]">) {
+export async function generateMetadata({ params }: Props, parent: ResolvingMetadata): Promise<Metadata> {
+  return {};
+}
+
+export default async function({ params }: Props) {
   const { slug } = await params;
   if (!GIST_SHA.test(slug)) notFound();
 
