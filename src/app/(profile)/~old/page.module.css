@@ -1,0 +1,81 @@
+@reference "tailwindcss";
+
+
+@keyframes title {
+  0% {
+    line-height: 0;
+    opacity: 0;
+    letter-spacing: 0.25em;
+  }
+
+  25% {
+    line-height: 0;
+    opacity: 0;
+  }
+
+  80% {
+    opacity: 1;
+  }
+
+  100% {
+    line-height: 1.2;
+    opacity: 1;
+  }
+}
+
+@keyframes fade-x {
+  0% {
+    transform: translateX(var(--fade-from-x, 0));
+    opacity: 0;
+  }
+  30% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  30% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+main.main {
+  @apply flex flex-col items-center justify-center w-screen h-screen overflow-hidden bg-linear-to-tl from-zinc-950 via-zinc-700/20 to-zinc-950;
+
+  div.particles {
+    @apply absolute inset-0;
+    animation: fade 3s ease-in-out forwards;
+  }
+
+  hgroup {
+    @apply flex flex-col items-center justify-center w-screen;
+
+    hr {
+      @apply hidden md:block w-screen h-px border-0 bg-linear-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0;
+      animation: fade-x 3s ease-in-out forwards;
+
+      &.lr {
+        --fade-from-x: -100%;
+      }
+      &.rl {
+        --fade-from-x: 100%;
+      }
+    }
+
+    h1 {
+      @apply text-4xl sm:text-6xl md:text-8xl whitespace-nowrap text-transparent bg-clip-text bg-white duration-1000 cursor-default;
+      -webkit-text-stroke: 1px rgba(255,255,255,0.3);
+      animation: title 3s ease-out forwards;
+    }
+  }
+}

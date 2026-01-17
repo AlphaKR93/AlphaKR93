@@ -24,7 +24,7 @@ export default function() {
       <p>
         이 문서는 여러분에게 알파마크 문법을 소개하기 위함도 있지만,
         알파마크 컴파일러가 문서를 올바르게 파싱했는지 검증하는 데에도 사용됩니다.
-        컴파일러가 생성해야 하는 HTML 출력물은 <Link href="/blog/article/~expect">여기</Link>에서 확인할 수 있습니다.
+        컴파일러가 생성해야 하는 HTML 출력물은 <Link href="/src/app/(blog)/article/~expect">여기</Link>에서 확인할 수 있습니다.
       </p>
     </section>
     <section id="id-1">
@@ -303,7 +303,7 @@ export default function() {
         </hgroup>
         <Admonitions type="information">
           <p>
-            자세한 내용은 <Link href="/blog/article/~components">확장 컴포넌트</Link>를 참고하십시오.
+            자세한 내용은 <Link href="/src/app/(blog)/article/~components">확장 컴포넌트</Link>를 참고하십시오.
           </p>
         </Admonitions>
       </section>
@@ -443,7 +443,7 @@ export default function() {
         </li>
         <li>
           <p>
-            <Link href="/blog/article/~components">상대 경로</Link>
+            <Link href="/src/app/(blog)/article/~components">상대 경로</Link>
           </p>
         </li>
         <li>
@@ -1038,7 +1038,7 @@ export default function() {
         <h3>3. 설명 목록</h3>
       </hgroup>
       <Admonitions type="note">
-        자세한 내용은 <Link href="/blog/article/~components">확장 컴포넌트</Link>를 참고하십시오.
+        자세한 내용은 <Link href="/src/app/(blog)/article/~components">확장 컴포넌트</Link>를 참고하십시오.
       </Admonitions>
     </section>
     <section id="id-7-4">
@@ -1423,7 +1423,7 @@ export default function() {
           <tr>
             <td colSpan={4}>
               <p>
-                자세한 내용은 <Link href="/blog/article/~components">고급 컴포넌트</Link>를 참고하십시오.
+                자세한 내용은 <Link href="/src/app/(blog)/article/~components">고급 컴포넌트</Link>를 참고하십시오.
               </p>
             </td>
           </tr>

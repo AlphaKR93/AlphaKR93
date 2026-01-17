@@ -1,0 +1,201 @@
+/* <editor-fold defaultstate="collapsed" desc="Fixed styles"> */
+@counter-style latin-lower-fixed {
+  system: fixed;
+  symbols: "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z";
+}
+@counter-style latin-upper-fixed {
+  system: fixed;
+  symbols: "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z";
+}
+@counter-style hangul-syllable-fixed {
+  system: fixed;
+  symbols: "가" "나" "다" "라" "마" "바" "사" "아" "자" "차" "카" "타" "파" "하";
+}
+@counter-style hangul-consonant-fixed {
+  system: fixed;
+  symbols: "ㄱ" "ㄴ" "ㄷ" "ㄹ" "ㅁ" "ㅂ" "ㅅ" "ㅇ" "ㅈ" "ㅊ" "ㅋ" "ㅌ" "ㅍ" "ㅎ";
+}
+/* </editor-fold> */
+/* <editor-fold defaultstate="collapsed" desc="Generic styles"> */
+/*
+@counter-style decimal;
+@counter-style decimal-leading-zero;
+*/
+@counter-style decimal-nonascii {
+  system: fixed;
+  symbols: "⒈" "⒉" "⒊" "⒋" "⒌" "⒍" "⒎" "⒏" "⒐" "⒑" "⒒" "⒓" "⒔" "⒕" "⒖" "⒗" "⒘" "⒙" "⒚" "⒛";
+  suffix: " ";
+}
+@counter-style roman-lower {
+  system: extends lower-roman;
+}
+@counter-style roman-lower-nonascii {
+  system: fixed;
+  symbols: "ⅰ" "ⅱ" "ⅲ" "ⅳ" "ⅴ" "ⅵ" "ⅶ" "ⅷ" "ⅸ" "ⅹ" "ⅺ" "ⅻ";
+}
+@counter-style roman-upper {
+  system: extends upper-roman;
+}
+@counter-style roman-upper-nonascii {
+  system: fixed;
+  symbols: "Ⅰ" "Ⅱ" "Ⅲ" "Ⅳ" "Ⅴ" "Ⅵ" "Ⅶ" "Ⅷ" "Ⅸ" "Ⅹ" "Ⅺ" "Ⅻ";
+}
+@counter-style latin-lower {
+  system: fixed;
+  symbols: "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z";
+}
+@counter-style latin-upper {
+  system: fixed;
+  symbols: "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z";
+}
+@counter-style hangul-syllable {
+  system: fixed;
+  symbols: "가" "나" "다" "라" "마" "바" "사" "아" "자" "차" "카" "타" "파" "하";
+}
+@counter-style hangul-consonant { /* FIXME: Overridden by system */
+  system: fixed;
+  symbols: "ㄱ" "ㄴ" "ㄷ" "ㄹ" "ㅁ" "ㅂ" "ㅅ" "ㅇ" "ㅈ" "ㅊ" "ㅋ" "ㅌ" "ㅍ" "ㅎ";
+}
+/* </editor-fold> */
+/* <editor-fold defaultstate="collapsed" desc="Parenthesis suffix"> */
+@counter-style decimal-parenthesis {
+  system: extends decimal;
+  suffix: ") ";
+}
+@counter-style decimal-parenthesis-leading-zero {
+  system: extends decimal-leading-zero;
+  suffix: ") ";
+}
+@counter-style roman-lower-parenthesis {
+  system: extends lower-roman;
+  suffix: ") ";
+}
+@counter-style roman-upper-parenthesis {
+  system: extends upper-roman;
+  suffix: ") ";
+}
+@counter-style latin-lower-parenthesis {
+  system: fixed;
+  symbols: "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z";
+  suffix: ") ";
+}
+@counter-style latin-upper-parenthesis {
+  system: fixed;
+  symbols: "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z";
+  suffix: ") ";
+}
+@counter-style hangul-syllable-parenthesis {
+  system: fixed;
+  symbols: "가" "나" "다" "라" "마" "바" "사" "아" "자" "차" "카" "타" "파" "하";
+  suffix: ") ";
+}
+@counter-style hangul-consonant-parenthesis {
+  system: fixed;
+  symbols: "ㄱ" "ㄴ" "ㄷ" "ㄹ" "ㅁ" "ㅂ" "ㅅ" "ㅇ" "ㅈ" "ㅊ" "ㅋ" "ㅌ" "ㅍ" "ㅎ";
+  suffix: ") ";
+}
+/* </editor-fold> */
+/* <editor-fold defaultstate="collapsed" desc="Parenthesized"> */
+@counter-style decimal-parenthesized {
+  system: extends decimal;
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style decimal-parenthesized-leading-zero {
+  system: extends decimal-leading-zero;
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style roman-lower-parenthesized {
+  system: extends lower-roman;
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style roman-upper-parenthesized {
+  system: extends upper-roman;
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style latin-lower-parenthesized {
+  system: fixed;
+  symbols: "a" "b" "c" "d" "e" "f" "g" "h" "i" "j" "k" "l" "m" "n" "o" "p" "q" "r" "s" "t" "u" "v" "w" "x" "y" "z";
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style latin-upper-parenthesized {
+  system: fixed;
+  symbols: "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z";
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style hangul-syllable-parenthesized {
+  system: fixed;
+  symbols: "가" "나" "다" "라" "마" "바" "사" "아" "자" "차" "카" "타" "파" "하";
+  prefix: "(";
+  suffix: ") ";
+}
+@counter-style hangul-consonant-parenthesized {
+  system: fixed;
+  symbols: "ㄱ" "ㄴ" "ㄷ" "ㄹ" "ㅁ" "ㅂ" "ㅅ" "ㅇ" "ㅈ" "ㅊ" "ㅋ" "ㅌ" "ㅍ" "ㅎ";
+  prefix: "(";
+  suffix: ") ";
+}
+/* </editor-fold> */
+/* <editor-fold defaultstate="collapsed" desc="Parenthesized non ASCII"> */
+@counter-style decimal-parenthesized-nonascii {
+  system: fixed;
+  symbols: "⑴" "⑵" "⑶" "⑷" "⑸" "⑹" "⑺" "⑻" "⑼" "⑽" "⑾" "⑿" "⒀" "⒁" "⒂" "⒃" "⒄" "⒅" "⒆" "⒇";
+}
+
+@counter-style lower-alpha-parenthesized-nonascii {
+  system: fixed;
+  symbols: '⒜' '⒝' '⒞' '⒟' '⒠' '⒡' '⒢' '⒣' '⒤' '⒥' '⒦' '⒧' '⒨' '⒩' '⒪' '⒫' '⒬' '⒭' '⒮' '⒯' '⒰' '⒱' '⒲' '⒳' '⒴' '⒵';
+}
+
+@counter-style hangul-syllable-parenthesized-nonascii {
+  system: fixed;
+  symbols: '㈎' '㈏' '㈐' '㈑' '㈒' '㈓' '㈔' '㈕' '㈖' '㈗' '㈘' '㈙' '㈚';
+}
+
+@counter-style hangul-consonant-parenthesized-nonascii {
+  system: fixed;
+  symbols: '㈀' '㈁' '㈂' '㈃' '㈄' '㈅' '㈆' '㈇' '㈈' '㈉' '㈊' '㈋' '㈌' '㈍';
+}
+/* </editor-fold> */
+/* <editor-fold defaultstate="collapsed" desc="Circled"> */
+@counter-style decimal-circled {
+  system: fixed;
+  symbols: "①" "②" "③" "④" "⑤" "⑥" "⑦" "⑧" "⑨" "⑩" "⑪" "⑫" "⑬" "⑭" "⑮" "⑯" "⑰" "⑱" "⑲" "⑳";
+  suffix: " ";
+}
+
+@counter-style decimal-circled-leading-zero {
+  system: fixed;
+  symbols: "⓪" "②" "③" "④" "⑤" "⑥" "⑦" "⑧" "⑨" "⑩" "⑪" "⑫" "⑬" "⑭" "⑮" "⑯" "⑰" "⑱" "⑲" "⑳";
+  suffix: " ";
+}
+
+@counter-style latin-upper-circled {
+  system: fixed;
+  symbols: "Ⓐ" "Ⓑ" "Ⓒ" "Ⓓ" "Ⓔ" "Ⓕ" "Ⓖ" "Ⓗ" "Ⓘ" "Ⓙ" "Ⓚ" "Ⓛ" "Ⓜ" "Ⓝ" "Ⓞ" "Ⓟ" "Ⓠ" "Ⓡ" "Ⓢ" "Ⓣ" "Ⓤ" "Ⓥ" "Ⓦ" "Ⓧ" "Ⓨ" "Ⓩ";
+  suffix: " ";
+}
+
+@counter-style latin-lower-circled {
+  system: fixed;
+  symbols: "ⓐ" "ⓑ" "ⓒ" "ⓓ" "ⓔ" "ⓕ" "ⓖ" "ⓗ" "ⓘ" "ⓙ" "ⓚ" "ⓛ" "ⓜ" "ⓝ" "ⓞ" "ⓟ" "ⓠ" "ⓡ" "ⓢ" "ⓣ" "ⓤ" "ⓥ" "ⓦ" "ⓧ" "ⓨ" "ⓩ";
+  suffix: " ";
+}
+
+@counter-style hangul-circled {
+  system: fixed;
+  symbols: '㉮' '㉯' '㉰' '㉱' '㉲' '㉳' '㉴' '㉵' '㉶' '㉷' '㉸' '㉹' '㉺' '㉻';
+  suffix: " ";
+}
+
+@counter-style hangul-consonant-circled {
+  system: fixed;
+  symbols: '㉠' '㉡' '㉢' '㉣' '㉤' '㉥' '㉦' '㉧' '㉨' '㉩' '㉪' '㉫' '㉬' '㉭';
+  suffix: " ";
+}
+/* </editor-fold> */

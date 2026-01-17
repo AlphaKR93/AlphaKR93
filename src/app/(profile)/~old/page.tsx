@@ -1,7 +1,7 @@
-import style from "./page.module.css";
-import Particles from "./_particles";
-
 import { Cal_Sans } from "next/font/google";
+
+import Particles from "./_particles";
+import style from "./page.module.css";
 
 
 const calSans = Cal_Sans({

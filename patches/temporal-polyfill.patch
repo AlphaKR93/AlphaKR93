@@ -1,0 +1,12 @@
+diff --git a/global.esm.js b/global.esm.js
+index c71cec3a289451a7f871dd8d31a4a3c2dd9750cd..201998d15d70a3fd89cadd3c314189b28f12fb80 100644
+--- a/global.esm.js
++++ b/global.esm.js
+@@ -2,6 +2,7 @@ import { Temporal as Xn, DateTimeFormat as _n, toTemporalInstant as ja } from ".
+ 
+ import { createPropDescriptors as n } from "./chunks/internal.js";
+ 
++if (!globalThis.Temporal)
+ Object.defineProperties(globalThis, n({
+   Temporal: Xn
+ })), Object.defineProperties(Intl, n({

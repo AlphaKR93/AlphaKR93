@@ -1,6 +1,6 @@
 import { style as markdown, FrontMatter } from "@/components/mdx";
-import style from "../article.module.css";
-import Content from "./_expected";
+import style from "src/app/(blog)/article/article.module.css";
+import Content from "src/app/(blog)/article/~expect/_expected";
 
 
 export default function(_: PageProps<"/blog/article/~expect">) {

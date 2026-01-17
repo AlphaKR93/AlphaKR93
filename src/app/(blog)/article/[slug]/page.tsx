@@ -4,8 +4,8 @@ import { notFound } from "next/navigation";
 
 import { FrontMatter, style as markdown } from "@/components/mdx";
 
-import style from "../article.module.css";
-import fetchDocument from "./_render";
+import style from "src/app/(blog)/article/article.module.css";
+import fetchDocument from "src/app/(blog)/article/[slug]/_render";
 
 
 type Props = Readonly<PageProps<"/blog/article/[slug]">>;
