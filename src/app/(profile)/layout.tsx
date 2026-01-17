@@ -9,7 +9,7 @@ export default function Layout({ children }: LayoutProps<"/">) {
     <header className={style.header}>
       <nav className={style.navigation}>
         <Navigation>
-          <Link href="/about">About Me</Link>
+          <Link href="/about">About</Link>
           <Link href="/projects">Projects</Link>
           <Link href="/articles">Articles</Link>
         </Navigation>

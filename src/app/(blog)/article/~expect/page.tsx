@@ -1,9 +1,10 @@
 import { style as markdown, FrontMatter } from "@/components/mdx";
-import style from "src/app/(blog)/article/article.module.css";
-import Content from "src/app/(blog)/article/~expect/_expected";
+
+import style from "../article.module.css";
+import Content from "./_expected";
 
 
-export default function(_: PageProps<"/blog/article/~expect">) {
+export default function(_: PageProps<"/article/~expect">) {
   return <main className={style.main}>
     <article className={markdown.markdownDocument}>
       <FrontMatter frontmatter={{ title: "알파마크:구문" }} metadata={{ createdAt: Temporal.Now.instant().toString() }} />

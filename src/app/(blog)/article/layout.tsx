@@ -1,7 +1,7 @@
 import {style} from "@/components/mdx";
 import "katex/dist/katex-swap.min.css";
 
-export default function({children}: Readonly<LayoutProps<"/blog/article">>) {
+export default function({children}: Readonly<LayoutProps<"/article">>) {
   return <>
     <header className={style.header}>
     </header>

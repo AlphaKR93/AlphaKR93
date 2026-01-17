@@ -4,11 +4,11 @@ import { notFound } from "next/navigation";
 
 import { FrontMatter, style as markdown } from "@/components/mdx";
 
-import style from "src/app/(blog)/article/article.module.css";
-import fetchDocument from "src/app/(blog)/article/[slug]/_render";
+import style from "../article.module.css";
+import fetchDocument from "./_render";
 
 
-type Props = Readonly<PageProps<"/blog/article/[slug]">>;
+type Props = Readonly<PageProps<"/article/[slug]">>;
 const GIST_SHA = /^[~-]?[0-9a-f]{32}$/i;
 
 export async function generateMetadata({ params }: Props, parent: ResolvingMetadata): Promise<Metadata> {
