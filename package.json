@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "gen": "rm -rf src/lib/flags/generated; HYPERTUNE_PLATFORM=vercel HYPERTUNE_FRAMEWORK=nextApp HYPERTUNE_OUTPUT_DIRECTORY_PATH=src/lib/flags/generated HYPERTUNE_INCLUDE_INIT_DATA=true pnpx hypertune; next typegen",
+    "gen": "rm -rf src/lib/flags/generated; pnpx hypertune; next typegen",
     "dev": "next dev",
     "build": "rm -rf src/lib/flags/generated; pnpx hypertune; next build",
     "start": "next start",
