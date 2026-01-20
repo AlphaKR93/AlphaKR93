@@ -1,9 +1,9 @@
-@reference "tailwindcss";
+@reference "../../tailwind.config.css";
 
 
 dialog.contact {
   @apply p-6 backdrop-blur-2xl rounded-2xl shadow-xl outline bg-zinc-50/80 outline-zinc-300;
-  top: calc(50% - 32px * 3);
+  top: calc(50% - (72px / 2) * 3);
 
   @variant dark {
     @apply backdrop-blur-2xl bg-zinc-800/40 outline-zinc-800 text-white;
@@ -43,11 +43,19 @@ dialog.contact {
 }
 
 main.main {
-  @apply max-w-3xl mx-auto flex flex-col gap-4 items-center justify-center;
-  height: calc(100vh - 64px * 2);
+  @apply max-w-3xl mx-3 mt-3 flex flex-col gap-4 items-center justify-center;
+  min-height: calc(100vh - 72px * 2);
+
+  @variant sm {
+    @apply md:mx-auto mt-0;
+
+    section.profile {
+      @apply w-max justify-between;
+    }
+  }
 
   section.profile {
-    @apply flex items-center justify-between p-14 gap-12 rounded-2xl outline bg-white outline-zinc-300;
+    @apply w-full flex items-center justify-center p-14 gap-12 rounded-2xl outline bg-white outline-zinc-300;
 
     @variant dark {
       @apply bg-zinc-900 outline-zinc-700;
@@ -74,7 +82,11 @@ main.main {
       }
 
       span {
-        @apply flex items-center justify-between;
+        @apply flex flex-wrap gap-3 items-center justify-center;
+
+        @media (width >= 384px) {
+          @apply justify-between;
+        }
 
         address {
           @apply flex gap-4;
@@ -84,7 +96,7 @@ main.main {
             transition: color ease-in-out 100ms;
 
             @variant dark {
-              @apply hover:text-zinc-400 active:text-zinc-500;
+              @apply text-zinc-400 hover:text-zinc-300;
             }
           }
         }
@@ -100,14 +112,29 @@ main.main {
           }
 
           @variant dark {
-            @apply shadow-zinc-400/10 bg-zinc-800 active:bg-zinc-700 hover:bg-zinc-600 outline-zinc-700 hover:outline-zinc-500;
+            @apply shadow-zinc-400/10;
+            color: oklch(87.1% 0.006 286.286);
+            background-color: oklch(27.4% 0.006 286.033);
+            outline-color: oklch(37% 0.013 285.805);
+
+            &:hover {
+              color: oklch(92.9% 0.006 286.286);
+              background-color: oklch(32.6% 0.006 286.033);
+              outline-color: oklch(42% 0.013 285.805);
+            }
+
+            &:active {
+              color: oklch(89% 0.006 286.286);
+              background-color: oklch(29% 0.006 286.033);
+              outline-color: oklch(39% 0.013 285.805);
+            }
           }
         }
       }
     }
 
     img {
-      @apply rounded-full;
+      @apply hidden sm:block rounded-full;
     }
   }
 

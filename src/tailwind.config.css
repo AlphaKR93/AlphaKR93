@@ -1,0 +1,10 @@
+@reference "tailwindcss";
+
+
+@theme {
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+
+  --breakpoint-2xs: 24rem;
+  --breakpoint-xs: 32rem;
+}

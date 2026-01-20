@@ -2,14 +2,16 @@
 
 
 header.header {
-  @apply flex items-center justify-center py-4;
+  @apply fixed bottom-0 left-0 sm:static w-full flex items-center justify-center gap-3 py-5;
+
+  a.home {
+    img {
+      @apply rounded-full outline outline-zinc-400 dark:outline-zinc-700;
+    }
+  }
 
   nav.navigation {
     @apply flex items-center justify-center p-1 rounded-full overflow-clip outline shadow-sm bg-zinc-50 outline-zinc-400;
-
-    @variant dark {
-      @apply bg-zinc-900 outline-zinc-700;
-    }
 
     a.route {
       @apply relative inline-flex px-4 py-0.5 transition-colors duration-200 text-zinc-600 hover:text-zinc-800 data-[active="true"]:text-zinc-950;
@@ -17,17 +19,33 @@ header.header {
       /* FIXME: temporary workaround */
       background: none !important;
 
-      @variant dark {
-        @apply text-zinc-500 hover:text-zinc-200 data-[active="true"]:text-zinc-50;
-      }
-
       div.motion {
         @apply absolute inset-0 rounded-full bg-zinc-200;
+      }
 
-        @variant dark {
+      p {
+        @apply flex items-center gap-1.5;
+      }
+    }
+
+    @variant dark {
+      @apply bg-zinc-900 outline-zinc-700;
+
+      a.route {
+        @apply text-zinc-500 hover:text-zinc-200 data-[active="true"]:text-zinc-50;
+
+        div.motion {
           @apply bg-zinc-800;
         }
       }
     }
+  }
+}
+
+footer.footer {
+  @apply w-full min-h-16 flex items-end justify-center pb-2 mb-20 sm:mb-0;
+
+  p.cp {
+    @apply text-sm text-zinc-500;
   }
 }

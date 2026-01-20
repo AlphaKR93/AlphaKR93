@@ -22,12 +22,17 @@ import {
   SiObsidian,
 } from "react-icons/si";
 
+import { Dialog } from "@/components/core";
+import flags from "@/lib/flags";
+
 import style from "./page.module.css";
 
 
-export default function Home() {
+export default async function Home() {
+  const enableLinkedIn = await flags.enableLinkedIn();
+
   return <>
-    <dialog id="contact" className={style.contact}>
+    <Dialog id="contact" className={style.contact}>
       <h4 className="mb-5">연락처</h4>
       <div>
         <SiMatrix size={24} />
@@ -48,14 +53,14 @@ export default function Home() {
       <form method="dialog">
         <button autoFocus>닫기</button>
       </form>
-    </dialog>
+    </Dialog>
     <main className={style.main}>
       <section className={style.profile} aria-label="profile">
         <span>
           <h1>반가워요!</h1>
           <div>
             <p>
-              로우 레벨 프로그래밍에 관심이 많은 학생 개발자, <b className="font-semibold">Alpha</b>입니다. <wbr/>
+              로우 레벨 프로그래밍에 관심이 많은 고등학생 개발자, <b className="font-semibold">Alpha</b>입니다. <wbr/>
             </p>
             <p>
               다양한 오픈소스 프로젝트에 기여하고 있지만, 특히 <Link title="PlazmaMC" target="_blank" href="https://plazmamc.org">Minecraft에 관련된 프로젝트</Link>
@@ -64,9 +69,9 @@ export default function Home() {
           </div>
           <span>
             <address>
-              <Link hidden rel="noreferrer" target="_blank" href="https://linkedin.com/AlphaKR93">
-                <RiLinkedIn size={24} />
-              </Link>
+              {enableLinkedIn && <Link hidden rel="noreferrer" target="_blank" href="https://linkedin.com/AlphaKR93">
+                <RiLinkedIn size={24}/>
+              </Link>}
               <Link rel="noreferrer" title="AlphaKR93" target="_blank" href="https://github.com/AlphaKR93">
                 <RiGitHub size={24} />
               </Link>

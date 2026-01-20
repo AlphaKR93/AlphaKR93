@@ -4,8 +4,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "gen": "rm -rf src/lib/flags/generated; pnpx hypertune; next typegen",
     "dev": "next dev",
-    "build": "next build",
+    "build": "rm -rf src/lib/flags/generated; pnpx hypertune; next build",
     "start": "next start",
     "lint": "biome check",
     "format": "biome format --write",
