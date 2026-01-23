@@ -44,12 +44,65 @@ const config: UserConfig = {
        * Reverted a commit.
        */
       "revert",
+
+      /**
+       * Modified files in the docs/ directory, code commits,
+       * or other documentation.
+       */
+      "docs",
+
+      /**
+       * Skip CI. Miscellaneous modification that do not affect
+       * the build and deployment process in any way, such as
+       * changing the development tool configuration.
+       */
+      "ciskip",
     ]],
 
     "trailer-exists": [0, "always", "Signed-off-by:"],
     "signed-off-by": [0, "always", "Signed-off-by:"],
 
+    "scope-enum": [0, "always", [
+      /**
+       * New feature
+       */
+      "",
+
+      /**
+       * Core, or production configuration (vercel.json)
+       */
+      "core",
+
+      /**
+       * Profile (landing) page, including GitHub Profile
+       */
+      "profile",
+
+      /**
+       * Portfolio (about:me, projects) page
+       */
+      "portfolio",
+
+      /**
+       * Blog (articles) page
+       */
+      "blog",
+
+      /**
+       * MDX parser
+       */
+      "mdx",
+
+      /**
+       * Source code management, for example, linter config
+       */
+      "source",
+    ]],
+
+    "header-max-length": [0, "always", 50],
     "subject-case": [0, "always", "sentence-case"],
+    "body-max-line-length": [0, "always", 72],
+    "footer-max-line-length": [0, "always", 72],
   }
 };
 
