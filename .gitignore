@@ -1,3 +1,7 @@
+### Git
+# hook
+/.husky/_/
+
 ### Next.js
 /.next/
 /next-env.d.ts
