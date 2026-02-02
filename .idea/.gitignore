@@ -1,5 +1,6 @@
 /*
 !/.gitignore
+!/.name
 
 ### Generic settings
 !/biome.xml
