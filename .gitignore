@@ -8,3 +8,9 @@
 
 # pnpm
 /node_modules/
+
+### Vercel
+/.vercel/
+/*.env.local
+/*.env.local.*
+/src/lib/flags/generated/
