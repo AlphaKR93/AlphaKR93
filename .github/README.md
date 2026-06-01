@@ -1,9 +1,3 @@
-> [!IMPORTANT]
-> ### [#KeepAndroidOpen](https://keepandroidopen.org): Advocate for Android to remain an open platform
->
-> Starting in September 2026, apps that are not registered with Google will no longer be able to be installed.
-> This isn't just a problem of sideloading being blocked. **Google is trying to dominate the Android ecosystem.**
-
 ### Hey, I'm Alpha.
 
 - High school student & software developer in Korea, South
@@ -24,4 +18,4 @@
 ---
 
 > [!NOTE]
-> I won't be able to do much for the time being because, as a 17-year-old Korean student in high school, I have to take the KSAT soon.
+> I won't be able to do much for the time being because, as a Korean high school student, I have to take the [CSAT](https://en.wikipedia.org/wiki/College_Scholastic_Ability_Test) soon.
